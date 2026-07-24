@@ -1,0 +1,801 @@
+﻿IdProducto,NombreProducto,Precio,Stock,IdCategoria,IdMarca
+1,Monitor 24 pulgadas Pro,1963000,148,10,1
+2,Monitor Gamer 144Hz Plus,2297000,117,10,1
+3,Monitor 24 pulgadas 4,2261000,171,10,6
+4,Laptop Vivobook,4260000,25,1,4
+5,Silla Gamer Plus,1604000,174,5,12
+6,Audífonos Inalámbricos Lite,1704000,12,6,10
+7,Barra de Sonido Pro,1231000,197,6,10
+8,Repetidor Wifi Pro,604000,22,9,16
+9,Audífonos Inalámbricos Plus,272000,184,6,10
+10,Redmi Note 13 Lite,6164000,47,2,9
+11,Asistente de Voz Plus,393000,112,7,14
+12,Audífonos Inalámbricos,294000,48,6,10
+13,Monitor 4K Max,1196000,101,10,3
+14,"Monitor Curvo 27""",2147000,67,10,1
+15,Tab M10 Pro,2216000,26,3,5
+16,Mousepad XL Plus,1043000,113,5,12
+17,Laptop Vivobook 2,3797000,6,1,4
+18,Impresora Láser Pro,1273000,165,8,15
+19,Mouse Inalámbrico Pro,25000,156,4,19
+20,Escáner de Documentos Max,1541000,49,8,18
+21,Cámara de Seguridad Lite,314000,180,7,14
+22,Audífonos Cancelación de Ruido Plus,552000,81,6,10
+23,Router Wifi 6 Plus,817000,63,9,16
+24,Router Wifi 6 5,579000,137,9,20
+25,Audífonos Inalámbricos 3,1533000,165,6,10
+26,Repetidor Wifi Max,136000,117,9,20
+27,Monitor Gamer 144Hz Lite,721000,43,10,1
+28,MacBook Air 5,1983000,88,1,2
+29,Impresora Multifuncional,1858000,70,8,15
+30,Monitor 24 pulgadas Lite,2257000,180,10,3
+31,iPad 10 Plus,2858000,178,3,17
+32,Mouse Gaming RGB Max,1808000,36,5,12
+33,Router Wifi 6,827000,193,9,16
+34,Parlante Bluetooth Max,193000,135,6,9
+35,Enchufe Inteligente Max,228000,46,7,14
+36,MacBook Air Plus,2247000,24,1,8
+37,Cámara de Seguridad 4,537000,35,7,14
+38,Parlante Bluetooth Plus,432000,181,6,10
+39,Cámara de Seguridad Pro,313000,102,7,14
+40,Cargador USB-C Plus,138000,192,4,19
+41,Redmi Note 13 Max,1311000,142,2,17
+42,ThinkPad E14 Pro,1515000,135,1,8
+43,ThinkPad E14 Plus,1732000,145,1,3
+44,Monitor 24 pulgadas Pro,2540000,46,10,3
+45,Access Point 1,242000,153,9,20
+46,Audífonos Inalámbricos 4,1679000,45,6,9
+47,Repetidor Wifi Max,121000,137,9,20
+48,Redmi Note 13 Plus,6530000,46,2,9
+49,"Monitor Curvo 27"" Lite",1260000,154,10,6
+50,MatePad 11 Lite,2479000,29,3,5
+51,Access Point Plus,228000,61,9,14
+52,Escáner de Documentos Plus,473000,122,8,15
+53,Monitor 24 pulgadas Max,2681000,133,10,1
+54,Asistente de Voz Pro,510000,195,7,14
+55,Cable HDMI Lite,119000,21,4,19
+56,Escáner de Documentos Plus,1527000,123,8,4
+57,Monitor 4K Plus,681000,135,10,1
+58,Laptop Inspiron Max,6292000,138,1,4
+59,Galaxy Tab S9,798000,77,3,5
+60,Asistente de Voz,495000,189,7,14
+61,Access Point Pro,183000,117,9,20
+62,Tab M10 1,1454000,126,3,2
+63,Mouse Inalámbrico Pro,201000,29,4,7
+64,Mouse Gaming RGB Pro,1735000,58,5,7
+65,Parlante Bluetooth Pro,1316000,63,6,10
+66,Monitor Gamer 144Hz 5,1749000,52,10,3
+67,Silla Gamer Lite,1682000,71,5,12
+68,Cargador USB-C,184000,177,4,7
+69,Cámara de Seguridad 2,274000,18,7,9
+70,Galaxy S24,2338000,137,2,2
+71,Barra de Sonido Plus,1185000,73,6,10
+72,Teclado Gamer,1756000,51,5,12
+73,Moto G84 Pro,5147000,9,2,17
+74,Impresora Multifuncional Pro,430000,99,8,18
+75,Galaxy Tab S9 Lite,3181000,94,3,1
+76,Escáner de Documentos,1740000,128,8,15
+77,Cargador USB-C Max,24000,39,4,19
+78,Audífonos Inalámbricos Lite,481000,164,6,10
+79,MacBook Air Plus,5741000,16,1,6
+80,Teclado Mecánico 3,209000,112,4,19
+81,Laptop Inspiron Max,5934000,73,1,6
+82,Switch 8 Puertos Plus,139000,28,9,20
+83,Nova 12,5989000,184,2,9
+84,Tab M10 Pro,1035000,175,3,5
+85,Cable HDMI Max,35000,99,4,7
+86,"Monitor Curvo 27"" Max",2738000,18,10,1
+87,MacBook Air 5,4738000,72,1,8
+88,Monitor Gamer 144Hz 2,2508000,156,10,1
+89,Auriculares Gamer Pro,2005000,137,5,12
+90,Audífonos Inalámbricos 3,1593000,44,6,10
+91,Enchufe Inteligente 3,62000,110,7,14
+92,Silla Gamer Lite,2371000,58,5,12
+93,Asistente de Voz Lite,482000,106,7,14
+94,Escáner de Documentos Lite,1112000,86,8,18
+95,Audífonos Inalámbricos Pro,576000,55,6,10
+96,Hub USB Lite,164000,195,4,19
+97,Asistente de Voz Lite,188000,120,7,14
+98,Moto G84 Max,4257000,13,2,17
+99,Cargador USB-C Pro,193000,98,4,19
+100,Switch 8 Puertos,808000,52,9,16
+101,Asistente de Voz Pro,461000,147,7,14
+102,Cable HDMI Lite,84000,189,4,19
+103,Tab M10 Max,2825000,188,3,17
+104,Laptop Inspiron,1680000,2,1,8
+105,Laptop Inspiron Plus,3203000,190,1,5
+106,Tab M10 Plus,3214000,80,3,2
+107,Monitor Gamer 144Hz 3,1185000,74,10,1
+108,Mousepad XL Pro,785000,106,5,7
+109,Nova 12 Pro,5512000,141,2,17
+110,Impresora Láser 1,658000,113,8,15
+111,Galaxy S24 Lite,3982000,122,2,2
+112,Tab M10 Max,2999000,46,3,1
+113,Escáner de Documentos Plus,1063000,21,8,4
+114,Audífonos Inalámbricos Max,689000,173,6,10
+115,Bombillo Inteligente 2,376000,74,7,14
+116,Nova 12,6017000,151,2,9
+117,Asistente de Voz Pro,578000,71,7,14
+118,Repetidor Wifi Pro,135000,166,9,14
+119,Cargador USB-C Lite,108000,10,4,19
+120,Silla Gamer Max,232000,33,5,12
+121,Monitor 24 pulgadas Lite,1287000,120,10,1
+122,Bombillo Inteligente 3,433000,85,7,14
+123,Audífonos Cancelación de Ruido 4,777000,33,6,9
+124,Audífonos Inalámbricos Plus,619000,21,6,10
+125,Impresora de Tinta,398000,32,8,4
+126,iPhone 16 Plus,1345000,39,2,1
+127,Monitor 24 pulgadas,506000,188,10,1
+128,Parlante Bluetooth Max,1373000,117,6,9
+129,Parlante Bluetooth 1,351000,51,6,10
+130,iPhone 16,4432000,175,2,1
+131,Mouse Inalámbrico Lite,104000,160,4,19
+132,Repetidor Wifi 2,599000,154,9,20
+133,Tab M10,2456000,47,3,17
+134,Router Wifi 6 Pro,356000,36,9,14
+135,Router Wifi 6 Pro,276000,82,9,20
+136,Cable HDMI Plus,178000,105,4,19
+137,Switch 8 Puertos Plus,442000,188,9,16
+138,Cargador USB-C Pro,37000,15,4,7
+139,Redmi Note 13 Max,7139000,110,2,9
+140,iPhone 16 Plus,5734000,197,2,9
+141,Parlante Bluetooth Plus,1585000,81,6,9
+142,Escáner de Documentos Lite,980000,195,8,15
+143,Impresora Láser Max,708000,10,8,15
+144,Audífonos Cancelación de Ruido Plus,1730000,103,6,10
+145,Escáner de Documentos Pro,1897000,192,8,18
+146,Bombillo Inteligente Plus,440000,161,7,14
+147,Tab M10 Lite,3376000,44,3,17
+148,iPad 10,2241000,120,3,2
+149,Tab M10,2686000,100,3,5
+150,Tab M10 Pro,2641000,155,3,5
+151,Escáner de Documentos Lite,1746000,15,8,18
+152,Parlante Bluetooth 3,1060000,155,6,10
+153,Mouse Gaming RGB Lite,1008000,106,5,12
+154,Impresora de Tinta Plus,1672000,79,8,4
+155,Monitor 24 pulgadas Pro,2671000,72,10,1
+156,Audífonos Inalámbricos Max,1053000,16,6,10
+157,ThinkPad E14 Pro,3257000,83,1,6
+158,Cable HDMI Max,109000,147,4,19
+159,Audífonos Inalámbricos 3,1260000,58,6,10
+160,"Monitor Curvo 27"" Lite",2420000,4,10,6
+161,Parlante Bluetooth Pro,1368000,82,6,9
+162,Moto G84 Max,6905000,68,2,17
+163,Moto G84 Plus,6772000,36,2,9
+164,Audífonos Cancelación de Ruido Pro,1388000,0,6,10
+165,Audífonos Cancelación de Ruido Pro,1704000,69,6,10
+166,Barra de Sonido Max,480000,165,6,10
+167,Cargador USB-C 1,71000,134,4,7
+168,Switch 8 Puertos Lite,815000,2,9,16
+169,Mouse Gaming RGB Plus,206000,7,5,12
+170,Asistente de Voz Pro,508000,160,7,9
+171,Cámara de Seguridad,327000,116,7,14
+172,Mousepad XL Plus,783000,150,5,12
+173,Galaxy Tab S9,1970000,141,3,5
+174,Impresora Láser 3,1136000,140,8,15
+175,MacBook Air Lite,2993000,83,1,8
+176,Monitor 4K Max,615000,130,10,1
+177,Aspire 5 Lite,2036000,17,1,8
+178,Galaxy Tab S9 Pro,1586000,23,3,2
+179,Barra de Sonido Lite,781000,192,6,10
+180,Moto G84,5201000,106,2,9
+181,Bombillo Inteligente Lite,207000,29,7,14
+182,Mouse Gaming RGB 1,2439000,6,5,12
+183,Aspire 5 Lite,1856000,10,1,8
+184,Teclado Mecánico Max,104000,82,4,19
+185,Bombillo Inteligente Plus,556000,6,7,14
+186,Bombillo Inteligente Max,78000,53,7,9
+187,Mouse Inalámbrico 3,41000,148,4,7
+188,Audífonos Inalámbricos Pro,379000,137,6,9
+189,Aspire 5 Plus,3728000,142,1,8
+190,Audífonos Cancelación de Ruido Pro,1642000,155,6,9
+191,Mouse Gaming RGB Plus,1747000,30,5,12
+192,Silla Gamer Max,2247000,197,5,12
+193,Enchufe Inteligente,446000,27,7,14
+194,Hub USB 3,197000,54,4,19
+195,Monitor 4K,1414000,145,10,3
+196,Mousepad XL Plus,152000,55,5,12
+197,iPad 10 4,2230000,184,3,5
+198,Audífonos Cancelación de Ruido Pro,1091000,122,6,10
+199,Switch 8 Puertos Max,192000,0,9,16
+200,Laptop Inspiron Plus,1500000,77,1,2
+201,Impresora Láser,1122000,55,8,18
+202,Cargador USB-C Plus,129000,167,4,7
+203,Laptop Inspiron Plus,2690000,67,1,5
+204,Impresora Multifuncional Lite,716000,3,8,15
+205,Galaxy S24 Max,6629000,142,2,2
+206,Silla Gamer Lite,365000,187,5,12
+207,Galaxy Tab S9 4,2183000,7,3,2
+208,MacBook Air Lite,2968000,3,1,6
+209,Monitor 24 pulgadas 3,1631000,184,10,1
+210,Impresora de Tinta 1,920000,48,8,15
+211,Mouse Inalámbrico Max,239000,111,4,7
+212,Switch 8 Puertos Plus,462000,22,9,16
+213,Monitor Gamer 144Hz Max,1137000,95,10,3
+214,Audífonos Inalámbricos 3,1401000,88,6,9
+215,Cámara de Seguridad Lite,404000,196,7,14
+216,Auriculares Gamer Lite,1611000,110,5,12
+217,Redmi Note 13 Plus,3809000,165,2,17
+218,Impresora Láser Plus,1412000,160,8,18
+219,iPad 10 Pro,1463000,177,3,5
+220,Cámara de Seguridad Max,84000,133,7,9
+221,iPhone 16 Max,6375000,42,2,17
+222,Cable HDMI Plus,212000,95,4,19
+223,Repetidor Wifi Max,448000,191,9,16
+224,Enchufe Inteligente Pro,237000,183,7,9
+225,Laptop Inspiron Pro,2106000,177,1,2
+226,Auriculares Gamer Pro,2373000,163,5,12
+227,iPhone 16,3281000,30,2,1
+228,Mouse Inalámbrico Plus,139000,30,4,19
+229,Cámara de Seguridad 1,355000,87,7,14
+230,Enchufe Inteligente Lite,542000,162,7,14
+231,Monitor 24 pulgadas,2547000,81,10,6
+232,Barra de Sonido Lite,1639000,137,6,10
+233,Nova 12 Plus,6545000,125,2,9
+234,Laptop Inspiron,5484000,64,1,6
+235,Router Wifi 6 2,830000,161,9,14
+236,Moto G84 Pro,5863000,120,2,9
+237,ThinkPad E14 5,5285000,55,1,5
+238,Monitor 24 pulgadas 1,988000,151,10,1
+239,MacBook Air Max,3020000,118,1,2
+240,Auriculares Gamer 5,304000,64,5,12
+241,Monitor Gamer 144Hz Lite,1681000,41,10,1
+242,Laptop Vivobook Lite,2420000,175,1,5
+243,iPad 10 Lite,1645000,1,3,1
+244,Cámara de Seguridad Plus,232000,57,7,14
+245,Audífonos Cancelación de Ruido 2,993000,179,6,9
+246,Galaxy S24 Pro,7011000,154,2,2
+247,Monitor Gamer 144Hz Plus,2253000,5,10,1
+248,Router Wifi 6 Lite,115000,71,9,16
+249,Bombillo Inteligente,316000,170,7,14
+250,Audífonos Cancelación de Ruido Pro,348000,30,6,10
+251,Laptop Inspiron Pro,3149000,114,1,4
+252,Access Point,768000,47,9,16
+253,Monitor 24 pulgadas,1424000,51,10,1
+254,iPad 10,2160000,15,3,5
+255,Router Wifi 6 5,359000,149,9,14
+256,Access Point Plus,336000,122,9,14
+257,Cable HDMI Lite,76000,25,4,19
+258,Galaxy Tab S9 2,1132000,130,3,17
+259,MatePad 11,2975000,42,3,1
+260,Cargador USB-C Plus,127000,15,4,7
+261,Asistente de Voz,242000,171,7,9
+262,Audífonos Cancelación de Ruido Pro,1630000,32,6,10
+263,Impresora Láser Max,1443000,73,8,18
+264,Escáner de Documentos,1225000,16,8,4
+265,Switch 8 Puertos Plus,371000,100,9,14
+266,Teclado Gamer Max,1472000,78,5,12
+267,Escáner de Documentos 5,1525000,174,8,18
+268,"Monitor Curvo 27"" Plus",832000,177,10,6
+269,Impresora Multifuncional 3,912000,69,8,15
+270,Mousepad XL Plus,1460000,61,5,12
+271,Monitor 4K Pro,1855000,132,10,1
+272,Asistente de Voz Lite,238000,196,7,14
+273,Monitor 4K 2,1966000,182,10,1
+274,Switch 8 Puertos Max,625000,44,9,16
+275,Galaxy S24 Max,7427000,162,2,9
+276,Audífonos Cancelación de Ruido Pro,881000,123,6,10
+277,Auriculares Gamer Plus,714000,65,5,12
+278,Monitor 4K Lite,2760000,100,10,1
+279,Laptop Pavilion Lite,5315000,140,1,3
+280,Monitor Gamer 144Hz Plus,664000,109,10,3
+281,Escáner de Documentos Lite,1007000,30,8,4
+282,Galaxy Tab S9,772000,17,3,2
+283,Mousepad XL Plus,634000,200,5,7
+284,Galaxy S24 1,5553000,15,2,9
+285,ThinkPad E14 5,3825000,72,1,3
+286,Enchufe Inteligente Max,320000,141,7,14
+287,Audífonos Inalámbricos Max,1285000,81,6,10
+288,Cable HDMI Max,182000,4,4,19
+289,Tab M10,1001000,63,3,1
+290,Enchufe Inteligente Max,214000,44,7,14
+291,Mouse Inalámbrico Pro,196000,78,4,19
+292,Cámara de Seguridad Pro,145000,20,7,14
+293,Cámara de Seguridad 2,443000,157,7,14
+294,Asistente de Voz 2,555000,111,7,9
+295,Access Point Lite,612000,157,9,16
+296,Enchufe Inteligente Pro,121000,153,7,14
+297,Cámara de Seguridad Pro,369000,90,7,14
+298,Enchufe Inteligente Pro,438000,153,7,14
+299,Impresora Láser Lite,1845000,5,8,4
+300,Asistente de Voz,555000,111,7,14
+301,Impresora Multifuncional Plus,1080000,58,8,18
+302,Teclado Gamer Pro,807000,56,5,12
+303,"Monitor Curvo 27"" Lite",1979000,12,10,6
+304,Teclado Mecánico Max,202000,141,4,7
+305,Laptop Inspiron Plus,5301000,38,1,5
+306,Auriculares Gamer Pro,1061000,104,5,12
+307,Mousepad XL Pro,487000,158,5,12
+308,Aspire 5 Plus,6096000,120,1,2
+309,Enchufe Inteligente Pro,121000,17,7,14
+310,Galaxy S24,7335000,118,2,9
+311,Switch 8 Puertos Max,276000,62,9,16
+312,Laptop Pavilion Max,1674000,128,1,5
+313,Repetidor Wifi Pro,131000,120,9,14
+314,iPad 10 Plus,3007000,200,3,2
+315,Mouse Gaming RGB Pro,561000,182,5,12
+316,Hub USB,119000,34,4,19
+317,MacBook Air Lite,4814000,140,1,5
+318,Repetidor Wifi Plus,715000,147,9,16
+319,Cámara de Seguridad Max,564000,32,7,14
+320,Laptop Inspiron Plus,4004000,29,1,4
+321,Monitor Gamer 144Hz Plus,2017000,6,10,1
+322,Audífonos Inalámbricos Pro,973000,198,6,10
+323,iPad 10 Lite,1625000,36,3,17
+324,MacBook Air Lite,4849000,119,1,4
+325,Impresora Láser Pro,1222000,13,8,15
+326,Mouse Inalámbrico Plus,34000,89,4,19
+327,Escáner de Documentos Max,966000,90,8,18
+328,Router Wifi 6,450000,84,9,16
+329,Hub USB,47000,37,4,19
+330,Router Wifi 6 Max,309000,161,9,16
+331,Router Wifi 6 Lite,430000,156,9,16
+332,Impresora de Tinta Plus,457000,132,8,15
+333,Monitor Gamer 144Hz Lite,2606000,9,10,1
+334,Switch 8 Puertos Plus,773000,182,9,14
+335,Impresora Láser Pro,545000,157,8,15
+336,Cámara de Seguridad,86000,77,7,14
+337,Laptop Pavilion Max,3125000,106,1,4
+338,Tab M10,878000,41,3,17
+339,Aspire 5,3338000,119,1,5
+340,Galaxy Tab S9 1,2528000,87,3,17
+341,Monitor Gamer 144Hz Max,2793000,140,10,3
+342,Audífonos Inalámbricos Max,1492000,71,6,10
+343,"Monitor Curvo 27"" Lite",2478000,69,10,1
+344,Barra de Sonido 4,909000,13,6,9
+345,Monitor 4K Pro,2778000,57,10,3
+346,Cable HDMI,203000,138,4,19
+347,Repetidor Wifi Lite,674000,84,9,16
+348,Mouse Gaming RGB Max,2118000,169,5,7
+349,iPhone 16 Lite,4425000,39,2,9
+350,Bombillo Inteligente Plus,164000,78,7,14
+351,Cable HDMI Max,76000,103,4,7
+352,Asistente de Voz Max,213000,86,7,14
+353,MatePad 11,944000,21,3,5
+354,Laptop Vivobook Lite,2274000,178,1,4
+355,Galaxy Tab S9 Pro,737000,34,3,1
+356,Teclado Gamer,270000,42,5,12
+357,Silla Gamer Max,445000,10,5,12
+358,"Monitor Curvo 27"" Lite",2507000,27,10,1
+359,Teclado Gamer Max,401000,156,5,12
+360,Silla Gamer Max,1190000,40,5,12
+361,Repetidor Wifi Pro,803000,72,9,14
+362,ThinkPad E14 2,5465000,115,1,6
+363,Barra de Sonido 3,1540000,102,6,9
+364,Asistente de Voz Pro,292000,118,7,14
+365,Galaxy Tab S9,3065000,30,3,2
+366,MatePad 11 Pro,908000,72,3,1
+367,Audífonos Inalámbricos Lite,920000,31,6,10
+368,Switch 8 Puertos 4,115000,93,9,16
+369,iPad 10,805000,8,3,17
+370,Mouse Gaming RGB Lite,1767000,200,5,12
+371,Audífonos Inalámbricos 3,1543000,108,6,10
+372,Audífonos Inalámbricos Pro,586000,106,6,9
+373,Redmi Note 13,1977000,61,2,9
+374,Access Point 2,269000,106,9,16
+375,Aspire 5 3,4377000,157,1,3
+376,Parlante Bluetooth Lite,1678000,128,6,10
+377,Teclado Mecánico 3,193000,188,4,19
+378,Repetidor Wifi Max,722000,156,9,16
+379,Mouse Inalámbrico 4,175000,140,4,7
+380,Auriculares Gamer Plus,1495000,4,5,12
+381,Cámara de Seguridad Lite,282000,80,7,9
+382,Monitor Gamer 144Hz Plus,612000,58,10,1
+383,Monitor Gamer 144Hz,2676000,58,10,3
+384,MacBook Air Lite,1519000,110,1,4
+385,ThinkPad E14 Max,4996000,4,1,3
+386,Router Wifi 6 Max,304000,136,9,16
+387,Router Wifi 6 Lite,668000,185,9,16
+388,Audífonos Inalámbricos 1,961000,20,6,10
+389,Audífonos Cancelación de Ruido,332000,191,6,10
+390,Teclado Gamer Lite,779000,109,5,12
+391,Cargador USB-C Plus,101000,138,4,19
+392,Router Wifi 6,83000,61,9,14
+393,Galaxy S24 Lite,3631000,31,2,9
+394,Router Wifi 6 4,724000,71,9,16
+395,iPhone 16 Pro,4054000,48,2,9
+396,Router Wifi 6,147000,41,9,16
+397,iPad 10 5,2843000,49,3,5
+398,Impresora Multifuncional Lite,2012000,193,8,15
+399,Cámara de Seguridad Pro,239000,158,7,9
+400,Impresora Láser Max,1967000,117,8,4
+401,Asistente de Voz,78000,115,7,14
+402,Hub USB,194000,95,4,7
+403,Parlante Bluetooth Lite,239000,34,6,10
+404,Nova 12,5773000,34,2,17
+405,Impresora de Tinta Max,2050000,8,8,18
+406,Barra de Sonido Lite,675000,9,6,10
+407,Redmi Note 13 2,2967000,97,2,2
+408,Tab M10,2827000,93,3,5
+409,Redmi Note 13 Lite,991000,6,2,9
+410,Mouse Gaming RGB Pro,2302000,154,5,12
+411,Monitor 4K,1558000,196,10,1
+412,Parlante Bluetooth Max,505000,149,6,10
+413,iPhone 16 Plus,7181000,140,2,1
+414,Access Point 5,392000,25,9,14
+415,Asistente de Voz,389000,68,7,9
+416,Laptop Inspiron Max,1534000,27,1,4
+417,Escáner de Documentos Lite,1487000,27,8,4
+418,Mousepad XL Pro,444000,85,5,12
+419,Galaxy Tab S9 Lite,1516000,186,3,2
+420,iPad 10,3458000,133,3,2
+421,Mouse Gaming RGB Max,1098000,15,5,12
+422,Cámara de Seguridad Max,347000,88,7,14
+423,MatePad 11 Plus,1730000,63,3,17
+424,Monitor Gamer 144Hz 3,2537000,0,10,1
+425,Nova 12 2,2922000,176,2,9
+426,Galaxy Tab S9 Pro,769000,59,3,2
+427,Mouse Inalámbrico Pro,77000,70,4,7
+428,iPhone 16 2,1729000,178,2,17
+429,Laptop Inspiron Pro,5250000,36,1,6
+430,Tab M10 Lite,2188000,168,3,1
+431,Repetidor Wifi 2,233000,52,9,16
+432,Enchufe Inteligente Lite,553000,70,7,14
+433,Asistente de Voz Lite,526000,40,7,9
+434,Aspire 5 Max,3925000,52,1,3
+435,Asistente de Voz Plus,333000,45,7,9
+436,Cámara de Seguridad,517000,89,7,9
+437,Auriculares Gamer 2,1256000,122,5,12
+438,Enchufe Inteligente Pro,499000,34,7,14
+439,Aspire 5 Lite,3336000,141,1,4
+440,Router Wifi 6 3,469000,133,9,20
+441,Teclado Gamer Plus,1793000,5,5,7
+442,iPhone 16 Plus,2915000,62,2,17
+443,Repetidor Wifi,236000,5,9,20
+444,Audífonos Cancelación de Ruido Plus,63000,123,6,9
+445,Mouse Inalámbrico 3,220000,108,4,19
+446,Mousepad XL 2,1786000,171,5,12
+447,Monitor 4K Lite,2429000,159,10,6
+448,Cargador USB-C Plus,114000,120,4,19
+449,Cable HDMI Lite,167000,4,4,19
+450,Nova 12 Pro,4245000,11,2,2
+451,Cable HDMI 5,39000,26,4,7
+452,Switch 8 Puertos 2,305000,55,9,16
+453,Parlante Bluetooth,1292000,104,6,10
+454,Nova 12 Pro,1584000,87,2,9
+455,Mouse Inalámbrico Max,161000,191,4,7
+456,Cable HDMI Max,64000,168,4,7
+457,Laptop Pavilion Plus,2340000,22,1,6
+458,Access Point Lite,810000,89,9,20
+459,Audífonos Inalámbricos 1,264000,160,6,10
+460,Monitor 4K Pro,1108000,59,10,1
+461,Laptop Pavilion Pro,3158000,33,1,8
+462,Silla Gamer Pro,664000,8,5,12
+463,Redmi Note 13 3,4422000,39,2,1
+464,Moto G84,2238000,95,2,1
+465,Laptop Pavilion,2212000,195,1,2
+466,Galaxy Tab S9 Lite,1055000,111,3,2
+467,Cargador USB-C 5,165000,173,4,19
+468,Repetidor Wifi Max,639000,169,9,16
+469,Monitor Gamer 144Hz Pro,2317000,71,10,1
+470,Audífonos Inalámbricos Pro,911000,75,6,10
+471,Bombillo Inteligente,173000,13,7,14
+472,Hub USB Lite,190000,148,4,7
+473,iPad 10 Pro,1130000,61,3,1
+474,Laptop Vivobook,3526000,137,1,2
+475,Access Point Max,178000,66,9,14
+476,Mousepad XL Pro,285000,109,5,12
+477,Impresora Láser 2,1684000,22,8,15
+478,Repetidor Wifi Lite,836000,162,9,20
+479,Access Point Pro,794000,70,9,14
+480,Parlante Bluetooth,1686000,170,6,10
+481,Laptop Inspiron Plus,2883000,193,1,8
+482,Monitor 24 pulgadas Lite,862000,112,10,1
+483,Router Wifi 6,834000,38,9,16
+484,Audífonos Cancelación de Ruido Max,1414000,74,6,10
+485,Mouse Gaming RGB Max,721000,153,5,12
+486,Monitor Gamer 144Hz Lite,2640000,196,10,6
+487,Galaxy S24 Max,6015000,10,2,1
+488,Audífonos Cancelación de Ruido Max,972000,119,6,10
+489,Laptop Vivobook,3692000,62,1,3
+490,Asistente de Voz Plus,581000,70,7,14
+491,Repetidor Wifi Max,209000,60,9,20
+492,Asistente de Voz Pro,377000,94,7,14
+493,ThinkPad E14 Max,4648000,186,1,5
+494,Aspire 5 1,5441000,13,1,2
+495,Enchufe Inteligente Max,522000,158,7,14
+496,Audífonos Inalámbricos,187000,68,6,10
+497,MacBook Air Max,2542000,142,1,3
+498,Access Point 3,266000,140,9,14
+499,Impresora Láser Pro,1143000,183,8,18
+500,Cable HDMI Pro,61000,172,4,7
+501,Moto G84 5,3276000,185,2,1
+502,MatePad 11 Pro,687000,62,3,5
+503,Asistente de Voz Lite,264000,26,7,14
+504,Silla Gamer,1737000,74,5,12
+505,Asistente de Voz Plus,84000,47,7,14
+506,Asistente de Voz Max,236000,75,7,14
+507,Mouse Inalámbrico Lite,101000,105,4,7
+508,Mousepad XL Max,2219000,5,5,12
+509,Cargador USB-C Max,203000,128,4,7
+510,Access Point 3,221000,119,9,20
+511,Monitor 4K Plus,691000,74,10,1
+512,Teclado Mecánico Plus,71000,134,4,19
+513,Teclado Gamer Lite,1031000,36,5,12
+514,iPhone 16 Lite,5214000,119,2,2
+515,iPhone 16 Pro,2822000,151,2,17
+516,Moto G84 Pro,4197000,164,2,1
+517,Parlante Bluetooth,1577000,19,6,10
+518,Nova 12 Plus,4066000,24,2,17
+519,Impresora Multifuncional Pro,788000,6,8,18
+520,Laptop Inspiron Lite,2440000,140,1,2
+521,iPad 10 Plus,2581000,163,3,1
+522,Impresora de Tinta,1870000,106,8,15
+523,Aspire 5 Lite,4586000,156,1,2
+524,Parlante Bluetooth Plus,1326000,18,6,10
+525,Nova 12,5323000,74,2,17
+526,Cable HDMI Lite,110000,6,4,19
+527,Monitor Gamer 144Hz Pro,1111000,55,10,1
+528,"Monitor Curvo 27"" Pro",2343000,70,10,6
+529,Audífonos Cancelación de Ruido,595000,9,6,10
+530,Mousepad XL Lite,280000,93,5,12
+531,Laptop Pavilion Lite,5096000,111,1,5
+532,Aspire 5,2580000,109,1,2
+533,Laptop Pavilion Max,3204000,92,1,3
+534,Bombillo Inteligente Lite,201000,175,7,14
+535,Impresora de Tinta,718000,196,8,4
+536,Cargador USB-C,234000,110,4,19
+537,Repetidor Wifi,589000,160,9,20
+538,Impresora Láser Pro,1450000,67,8,18
+539,Silla Gamer Plus,2426000,1,5,7
+540,Switch 8 Puertos Plus,329000,122,9,16
+541,Repetidor Wifi Pro,325000,165,9,20
+542,Parlante Bluetooth,1459000,94,6,9
+543,Impresora Multifuncional Plus,1534000,148,8,4
+544,Redmi Note 13 Pro,932000,182,2,9
+545,Impresora Láser Max,1831000,146,8,15
+546,Monitor Gamer 144Hz Max,2363000,22,10,1
+547,Switch 8 Puertos Plus,687000,98,9,16
+548,"Monitor Curvo 27"" Max",882000,75,10,1
+549,ThinkPad E14 Max,3131000,44,1,2
+550,Teclado Mecánico Plus,225000,36,4,7
+551,Bombillo Inteligente Max,64000,142,7,14
+552,Escáner de Documentos Lite,1952000,106,8,15
+553,MacBook Air 2,3311000,79,1,8
+554,Switch 8 Puertos 3,775000,154,9,20
+555,Audífonos Inalámbricos,1777000,72,6,10
+556,MacBook Air Pro,6250000,156,1,5
+557,Bombillo Inteligente Pro,466000,151,7,14
+558,Audífonos Inalámbricos 4,618000,23,6,9
+559,Repetidor Wifi Lite,741000,18,9,16
+560,Hub USB Lite,46000,172,4,7
+561,Tab M10 Plus,1104000,64,3,2
+562,Cable HDMI Pro,83000,150,4,19
+563,Teclado Gamer,789000,122,5,12
+564,Mouse Inalámbrico Lite,177000,100,4,7
+565,Bombillo Inteligente Lite,568000,51,7,9
+566,Galaxy S24 Plus,1014000,12,2,2
+567,Nova 12 Max,6238000,71,2,9
+568,Nova 12 1,3496000,13,2,9
+569,Impresora Láser Pro,2178000,149,8,18
+570,Impresora Láser 1,1123000,56,8,18
+571,Silla Gamer Lite,1957000,153,5,12
+572,Mouse Gaming RGB 1,1983000,35,5,12
+573,Enchufe Inteligente Pro,401000,4,7,14
+574,Repetidor Wifi Lite,130000,41,9,14
+575,Monitor 24 pulgadas,2116000,134,10,6
+576,Router Wifi 6 Pro,293000,116,9,16
+577,Teclado Mecánico Plus,207000,43,4,7
+578,Cable HDMI Lite,163000,20,4,19
+579,Impresora Láser 2,563000,20,8,4
+580,Monitor 24 pulgadas,1368000,192,10,1
+581,Asistente de Voz Lite,560000,139,7,14
+582,Monitor Gamer 144Hz Pro,1365000,114,10,3
+583,Redmi Note 13 Plus,5771000,12,2,17
+584,Galaxy Tab S9 Lite,1833000,130,3,5
+585,MacBook Air Plus,1944000,60,1,3
+586,Impresora de Tinta Lite,1336000,136,8,15
+587,Moto G84 4,5107000,43,2,1
+588,Galaxy Tab S9 2,987000,125,3,1
+589,"Monitor Curvo 27"" 1",1261000,66,10,6
+590,Switch 8 Puertos Max,437000,188,9,16
+591,Impresora Láser Pro,2184000,138,8,18
+592,Hub USB Max,199000,81,4,7
+593,Asistente de Voz Max,511000,189,7,9
+594,Aspire 5 Max,5096000,103,1,6
+595,Moto G84 Lite,4965000,60,2,9
+596,Bombillo Inteligente,434000,138,7,14
+597,iPad 10 Pro,3239000,89,3,1
+598,Parlante Bluetooth 4,1443000,93,6,10
+599,Laptop Vivobook,3722000,103,1,5
+600,Monitor 24 pulgadas 5,1181000,18,10,1
+601,Monitor 4K Lite,2366000,193,10,1
+602,Monitor 4K Lite,2723000,73,10,1
+603,Switch 8 Puertos,427000,8,9,14
+604,Monitor Gamer 144Hz 5,1502000,129,10,1
+605,Teclado Gamer Plus,2248000,141,5,12
+606,Redmi Note 13 Lite,6052000,139,2,2
+607,Router Wifi 6,454000,45,9,16
+608,Cable HDMI Lite,71000,138,4,7
+609,MatePad 11 Lite,927000,157,3,1
+610,Moto G84 Max,4931000,98,2,9
+611,Repetidor Wifi Lite,833000,39,9,20
+612,iPad 10 4,760000,164,3,5
+613,Router Wifi 6 4,275000,174,9,16
+614,Mouse Inalámbrico,194000,92,4,19
+615,Asistente de Voz Max,80000,7,7,14
+616,Redmi Note 13 Pro,7330000,191,2,1
+617,Barra de Sonido Pro,1158000,100,6,10
+618,Impresora Láser Plus,2083000,156,8,18
+619,Mouse Gaming RGB 2,2334000,189,5,12
+620,Monitor Gamer 144Hz Pro,2741000,146,10,3
+621,Moto G84 Plus,1468000,175,2,9
+622,Barra de Sonido Pro,780000,99,6,10
+623,MatePad 11 Pro,1532000,87,3,2
+624,Router Wifi 6 Max,191000,143,9,16
+625,Asistente de Voz 1,553000,132,7,14
+626,Mousepad XL,1444000,193,5,12
+627,Impresora de Tinta,757000,78,8,15
+628,Monitor 24 pulgadas Lite,2481000,42,10,1
+629,Laptop Vivobook Max,3480000,68,1,4
+630,ThinkPad E14 Lite,4080000,22,1,3
+631,Audífonos Cancelación de Ruido Plus,1796000,83,6,10
+632,Teclado Mecánico Plus,182000,54,4,7
+633,Bombillo Inteligente Lite,509000,81,7,14
+634,Laptop Vivobook Pro,2415000,72,1,3
+635,Redmi Note 13 Lite,4012000,157,2,2
+636,Repetidor Wifi,714000,187,9,14
+637,Galaxy Tab S9 Plus,1144000,60,3,17
+638,Repetidor Wifi Pro,427000,142,9,16
+639,Bombillo Inteligente Max,571000,106,7,14
+640,Impresora de Tinta Pro,640000,126,8,18
+641,Barra de Sonido Max,1386000,86,6,9
+642,Monitor 4K 3,1658000,45,10,1
+643,Access Point,167000,177,9,20
+644,Bombillo Inteligente,81000,10,7,14
+645,Tab M10 Max,3315000,59,3,5
+646,Galaxy S24 Plus,3462000,17,2,1
+647,Cargador USB-C Lite,29000,133,4,7
+648,Hub USB 2,46000,72,4,7
+649,Mousepad XL Max,1707000,98,5,12
+650,Monitor Gamer 144Hz Lite,1381000,108,10,6
+651,Impresora de Tinta Pro,1916000,1,8,18
+652,iPad 10 Plus,1477000,17,3,5
+653,Switch 8 Puertos,853000,34,9,20
+654,Teclado Mecánico Max,58000,165,4,7
+655,ThinkPad E14,1995000,96,1,8
+656,Laptop Vivobook Lite,3701000,125,1,3
+657,MatePad 11,2834000,42,3,2
+658,Impresora Multifuncional Pro,2000000,46,8,18
+659,Audífonos Cancelación de Ruido Plus,1626000,92,6,10
+660,Repetidor Wifi Lite,242000,146,9,16
+661,Laptop Pavilion,5786000,198,1,5
+662,Impresora Láser Lite,461000,140,8,18
+663,Galaxy Tab S9 Pro,866000,117,3,17
+664,Cable HDMI Max,192000,149,4,19
+665,Tab M10 Pro,1251000,147,3,1
+666,"Monitor Curvo 27"" Pro",873000,187,10,6
+667,Bombillo Inteligente Pro,191000,60,7,14
+668,Tab M10 Max,2866000,52,3,5
+669,Barra de Sonido Lite,316000,125,6,9
+670,Impresora Láser Lite,958000,63,8,18
+671,ThinkPad E14 Plus,6345000,198,1,2
+672,Impresora Láser Max,2080000,149,8,4
+673,Impresora Láser Pro,1273000,17,8,4
+674,Tab M10 2,3099000,119,3,1
+675,Router Wifi 6 Lite,822000,83,9,16
+676,iPad 10,3432000,192,3,2
+677,Redmi Note 13 4,7432000,185,2,1
+678,Laptop Pavilion,1873000,67,1,2
+679,Repetidor Wifi Max,610000,145,9,16
+680,Impresora Láser 3,1429000,91,8,15
+681,MatePad 11,1447000,4,3,2
+682,Mouse Gaming RGB 4,444000,146,5,12
+683,Monitor 24 pulgadas,1905000,41,10,3
+684,Mouse Inalámbrico 2,171000,42,4,7
+685,Monitor 24 pulgadas Plus,1284000,122,10,3
+686,Mouse Gaming RGB Max,923000,1,5,12
+687,Monitor Gamer 144Hz Pro,2547000,23,10,1
+688,"Monitor Curvo 27""",1083000,187,10,1
+689,iPad 10,3481000,179,3,1
+690,Escáner de Documentos,592000,155,8,18
+691,iPhone 16 Lite,1677000,33,2,2
+692,Galaxy Tab S9 5,734000,114,3,1
+693,MatePad 11 Pro,3213000,191,3,5
+694,Cargador USB-C Pro,133000,97,4,7
+695,Parlante Bluetooth Lite,1424000,170,6,10
+696,Silla Gamer Plus,839000,25,5,12
+697,iPhone 16 5,4112000,160,2,9
+698,Access Point Max,777000,83,9,20
+699,Tab M10 Pro,672000,151,3,2
+700,Cargador USB-C,232000,189,4,19
+701,Aspire 5 Max,4396000,32,1,4
+702,Monitor 24 pulgadas Pro,2353000,30,10,1
+703,iPad 10 Plus,2906000,83,3,5
+704,Repetidor Wifi Pro,302000,6,9,16
+705,Mouse Gaming RGB Pro,2121000,13,5,7
+706,Asistente de Voz Pro,543000,59,7,9
+707,Access Point Pro,708000,158,9,16
+708,Aspire 5 Lite,5075000,151,1,6
+709,Laptop Pavilion Pro,3861000,135,1,6
+710,Redmi Note 13 Pro,6542000,161,2,9
+711,Aspire 5,3595000,15,1,4
+712,Nova 12 Lite,4964000,144,2,2
+713,Escáner de Documentos Max,486000,94,8,15
+714,Impresora de Tinta Lite,2119000,44,8,15
+715,Cable HDMI Pro,239000,64,4,19
+716,Impresora Multifuncional,1514000,15,8,18
+717,iPhone 16 Pro,1024000,188,2,17
+718,Bombillo Inteligente Lite,330000,195,7,14
+719,Galaxy S24 Max,1158000,139,2,9
+720,Laptop Inspiron Lite,2401000,37,1,2
+721,Monitor 24 pulgadas 3,705000,118,10,1
+722,Nova 12 Lite,4600000,26,2,1
+723,Cable HDMI Plus,41000,12,4,7
+724,Mousepad XL Lite,1359000,51,5,12
+725,Bombillo Inteligente,58000,144,7,14
+726,Asistente de Voz Max,413000,114,7,14
+727,Asistente de Voz,254000,30,7,14
+728,Access Point 2,895000,51,9,14
+729,"Monitor Curvo 27"" Plus",2285000,100,10,1
+730,Bombillo Inteligente Max,107000,134,7,14
+731,Cable HDMI,35000,68,4,19
+732,Cámara de Seguridad Plus,386000,160,7,14
+733,Monitor 24 pulgadas,2325000,150,10,1
+734,Impresora Multifuncional,391000,191,8,18
+735,Mouse Gaming RGB Max,385000,183,5,12
+736,Monitor 24 pulgadas Pro,726000,81,10,3
+737,Tab M10 Max,2705000,9,3,1
+738,Monitor Gamer 144Hz Max,2670000,126,10,3
+739,Teclado Mecánico Max,135000,175,4,7
+740,Moto G84 Max,7091000,74,2,9
+741,Moto G84 Pro,2614000,124,2,9
+742,Auriculares Gamer Max,1216000,63,5,7
+743,Cargador USB-C Pro,75000,188,4,19
+744,Router Wifi 6 Lite,95000,17,9,16
+745,Auriculares Gamer,999000,119,5,12
+746,MacBook Air Pro,2387000,22,1,2
+747,Enchufe Inteligente 1,312000,24,7,9
+748,Switch 8 Puertos 3,816000,192,9,14
+749,Monitor Gamer 144Hz,800000,113,10,6
+750,Laptop Vivobook 5,6430000,74,1,8
+751,Router Wifi 6 Lite,353000,77,9,14
+752,Switch 8 Puertos Lite,453000,133,9,20
+753,Repetidor Wifi Plus,539000,2,9,20
+754,Router Wifi 6 Plus,646000,11,9,20
+755,Asistente de Voz 4,138000,46,7,14
+756,Hub USB Plus,176000,103,4,7
+757,Galaxy S24 Lite,6457000,151,2,2
+758,Mousepad XL Max,2217000,38,5,12
+759,Escáner de Documentos Plus,440000,150,8,18
+760,Parlante Bluetooth,1717000,148,6,10
+761,Asistente de Voz,558000,141,7,9
+762,Cable HDMI 3,232000,176,4,19
+763,Access Point Plus,192000,199,9,20
+764,Impresora Láser 3,445000,154,8,18
+765,Cámara de Seguridad Max,301000,184,7,14
+766,Auriculares Gamer Plus,2000000,130,5,12
+767,Silla Gamer,742000,143,5,12
+768,Audífonos Cancelación de Ruido Pro,806000,148,6,10
+769,Cargador USB-C Max,53000,0,4,7
+770,Access Point Lite,639000,178,9,20
+771,Router Wifi 6 Pro,351000,101,9,20
+772,Escáner de Documentos Max,493000,108,8,15
+773,Laptop Inspiron Plus,2120000,54,1,2
+774,Galaxy S24 3,7138000,153,2,17
+775,MatePad 11 Pro,1495000,121,3,2
+776,Asistente de Voz Pro,86000,65,7,9
+777,Parlante Bluetooth Plus,1695000,179,6,9
+778,ThinkPad E14 Plus,5657000,37,1,4
+779,Mousepad XL Lite,1433000,166,5,7
+780,Aspire 5 Plus,1737000,145,1,4
+781,Bombillo Inteligente 4,548000,191,7,14
+782,Galaxy S24 Max,5315000,146,2,17
+783,Router Wifi 6 Lite,658000,37,9,14
+784,iPhone 16 Plus,4270000,132,2,9
+785,Redmi Note 13 Pro,4109000,160,2,1
+786,Cámara de Seguridad 5,301000,178,7,14
+787,Monitor Gamer 144Hz Max,2049000,145,10,1
+788,Teclado Gamer Max,1196000,80,5,7
+789,Laptop Inspiron Pro,3015000,14,1,3
+790,Impresora Láser 4,443000,89,8,15
+791,Moto G84 Lite,6527000,186,2,2
+792,Laptop Vivobook Max,4813000,53,1,4
+793,Enchufe Inteligente 4,172000,25,7,14
+794,Access Point Max,139000,97,9,16
+795,Impresora Multifuncional Max,1726000,166,8,4
+796,"Monitor Curvo 27"" Max",1499000,45,10,3
+797,MacBook Air 4,3798000,189,1,5
+798,Repetidor Wifi Lite,132000,83,9,16
+799,Enchufe Inteligente Plus,370000,108,7,14
+800,Audífonos Cancelación de Ruido Max,121000,146,6,10

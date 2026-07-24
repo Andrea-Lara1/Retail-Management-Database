@@ -1,0 +1,3001 @@
+﻿IdMovimiento,IdProducto,FechaMovimiento,TipoMovimiento,Cantidad,Observacion
+1,227,2024-06-13,Ajuste,20,Producto vencido/obsoleto
+2,790,2024-03-05,Salida,9,Muestra comercial
+3,218,2024-04-10,Entrada,130,Traslado entre sucursales
+4,699,2024-03-02,Salida,4,Muestra comercial
+5,493,2025-06-26,Ajuste,9,Corrección de inventario
+6,534,2025-12-01,Entrada,91,Reposición de stock
+7,172,2024-05-20,Salida,8,Muestra comercial
+8,275,2025-07-30,Entrada,151,Reposición de stock
+9,781,2025-08-26,Entrada,97,Compra proveedor
+10,377,2025-01-23,Ajuste,5,Diferencia en auditoría
+11,597,2024-10-16,Ajuste,13,Corrección de inventario
+12,322,2024-01-30,Entrada,127,Compra proveedor
+13,292,2025-04-11,Salida,10,Producto dañado
+14,493,2025-10-11,Entrada,180,Devolución de cliente
+15,369,2024-07-11,Salida,5,Producto dañado
+16,727,2024-09-07,Salida,10,Venta
+17,431,2024-01-11,Entrada,28,Devolución de cliente
+18,528,2025-06-03,Salida,4,Venta
+19,701,2024-10-20,Ajuste,7,Conteo físico
+20,273,2024-02-20,Ajuste,3,Producto vencido/obsoleto
+21,321,2025-08-05,Salida,9,Muestra comercial
+22,359,2025-12-28,Salida,3,Venta
+23,587,2024-07-26,Ajuste,8,Conteo físico
+24,216,2024-05-04,Entrada,199,Traslado entre sucursales
+25,692,2025-01-28,Entrada,188,Compra proveedor
+26,69,2025-09-02,Salida,7,Venta
+27,765,2024-10-03,Salida,7,Producto dañado
+28,678,2024-01-23,Ajuste,2,Diferencia en auditoría
+29,639,2025-06-28,Salida,3,Producto dañado
+30,744,2025-01-09,Salida,6,Producto dañado
+31,262,2025-07-10,Entrada,50,Devolución de cliente
+32,153,2024-04-23,Salida,2,Traslado a otra sucursal
+33,317,2025-05-29,Salida,2,Muestra comercial
+34,423,2025-04-19,Salida,1,Venta
+35,242,2025-03-08,Entrada,11,Devolución de cliente
+36,366,2024-09-04,Salida,8,Muestra comercial
+37,440,2024-12-09,Salida,1,Traslado a otra sucursal
+38,687,2024-02-20,Salida,9,Traslado a otra sucursal
+39,39,2025-09-10,Ajuste,7,Conteo físico
+40,267,2024-03-25,Salida,2,Producto dañado
+41,665,2024-03-21,Entrada,88,Compra proveedor
+42,525,2025-04-02,Entrada,49,Devolución de cliente
+43,313,2025-03-18,Entrada,37,Reposición de stock
+44,170,2025-08-24,Entrada,41,Devolución de cliente
+45,641,2024-02-29,Entrada,20,Traslado entre sucursales
+46,49,2024-04-14,Salida,4,Muestra comercial
+47,173,2024-08-22,Salida,7,Producto dañado
+48,678,2025-04-09,Entrada,129,Compra proveedor
+49,719,2024-08-16,Salida,2,Traslado a otra sucursal
+50,418,2024-03-30,Salida,5,Producto dañado
+51,344,2024-09-11,Entrada,181,Traslado entre sucursales
+52,228,2024-02-08,Entrada,186,Reposición de stock
+53,71,2024-06-08,Entrada,24,Devolución de cliente
+54,270,2025-10-05,Entrada,138,Reposición de stock
+55,260,2024-07-17,Entrada,136,Reposición de stock
+56,299,2024-03-05,Ajuste,16,Corrección de inventario
+57,145,2024-03-09,Salida,3,Venta
+58,715,2024-07-08,Salida,1,Venta
+59,116,2024-11-25,Entrada,66,Traslado entre sucursales
+60,357,2024-06-23,Salida,6,Muestra comercial
+61,730,2024-10-10,Entrada,122,Reposición de stock
+62,184,2024-01-04,Entrada,149,Reposición de stock
+63,241,2025-10-14,Ajuste,9,Conteo físico
+64,118,2025-01-24,Entrada,66,Compra proveedor
+65,157,2024-02-13,Salida,2,Producto dañado
+66,605,2024-11-21,Salida,9,Muestra comercial
+67,660,2025-08-02,Salida,5,Traslado a otra sucursal
+68,495,2024-12-11,Entrada,100,Devolución de cliente
+69,635,2024-10-11,Salida,3,Venta
+70,429,2025-03-16,Salida,3,Venta
+71,545,2024-10-27,Entrada,170,Reposición de stock
+72,800,2025-01-18,Salida,4,Muestra comercial
+73,558,2024-10-24,Entrada,191,Compra proveedor
+74,263,2025-05-09,Entrada,184,Devolución de cliente
+75,747,2025-04-07,Salida,5,Muestra comercial
+76,369,2024-03-29,Salida,4,Traslado a otra sucursal
+77,443,2025-11-01,Salida,5,Producto dañado
+78,711,2024-01-18,Entrada,25,Traslado entre sucursales
+79,370,2025-02-23,Entrada,165,Traslado entre sucursales
+80,235,2024-12-14,Entrada,37,Devolución de cliente
+81,500,2024-04-14,Entrada,79,Reposición de stock
+82,45,2025-12-30,Entrada,96,Reposición de stock
+83,450,2024-10-22,Entrada,90,Devolución de cliente
+84,657,2024-07-06,Salida,6,Producto dañado
+85,63,2025-11-21,Salida,6,Venta
+86,178,2024-02-25,Entrada,59,Devolución de cliente
+87,792,2025-01-18,Salida,2,Producto dañado
+88,451,2025-06-06,Entrada,162,Traslado entre sucursales
+89,21,2025-02-05,Entrada,107,Compra proveedor
+90,754,2025-01-15,Entrada,92,Traslado entre sucursales
+91,130,2025-11-26,Entrada,193,Devolución de cliente
+92,212,2024-01-21,Salida,10,Traslado a otra sucursal
+93,301,2024-04-10,Entrada,71,Devolución de cliente
+94,483,2025-08-23,Salida,6,Venta
+95,38,2025-08-08,Entrada,174,Compra proveedor
+96,523,2025-04-16,Entrada,64,Reposición de stock
+97,319,2025-03-02,Ajuste,1,Corrección de inventario
+98,119,2024-12-05,Ajuste,8,Diferencia en auditoría
+99,250,2024-12-07,Salida,7,Venta
+100,533,2025-07-17,Salida,5,Muestra comercial
+101,795,2025-05-05,Salida,1,Venta
+102,680,2025-01-24,Salida,10,Traslado a otra sucursal
+103,797,2025-09-05,Salida,9,Muestra comercial
+104,164,2024-04-17,Ajuste,15,Conteo físico
+105,319,2025-04-17,Salida,1,Venta
+106,96,2024-04-03,Entrada,11,Reposición de stock
+107,421,2025-06-03,Salida,6,Producto dañado
+108,731,2024-06-22,Entrada,145,Reposición de stock
+109,117,2025-01-15,Entrada,148,Devolución de cliente
+110,226,2025-01-31,Entrada,95,Traslado entre sucursales
+111,291,2024-03-27,Salida,6,Venta
+112,375,2025-11-03,Ajuste,11,Corrección de inventario
+113,337,2025-11-21,Salida,6,Traslado a otra sucursal
+114,428,2024-01-24,Ajuste,12,Corrección de inventario
+115,412,2024-01-04,Entrada,179,Devolución de cliente
+116,681,2025-06-28,Entrada,113,Traslado entre sucursales
+117,239,2024-06-25,Salida,8,Traslado a otra sucursal
+118,384,2024-02-29,Entrada,66,Traslado entre sucursales
+119,699,2025-02-15,Salida,8,Muestra comercial
+120,203,2025-07-08,Entrada,175,Devolución de cliente
+121,711,2024-07-09,Entrada,175,Devolución de cliente
+122,719,2025-09-19,Salida,9,Producto dañado
+123,298,2025-07-17,Salida,8,Venta
+124,138,2024-10-07,Entrada,183,Devolución de cliente
+125,560,2025-09-23,Salida,10,Traslado a otra sucursal
+126,688,2025-03-29,Salida,6,Traslado a otra sucursal
+127,772,2025-01-07,Salida,9,Traslado a otra sucursal
+128,61,2025-10-30,Ajuste,3,Conteo físico
+129,607,2025-12-06,Ajuste,5,Producto vencido/obsoleto
+130,72,2024-06-30,Ajuste,17,Conteo físico
+131,17,2025-09-25,Salida,8,Venta
+132,706,2025-04-09,Salida,3,Traslado a otra sucursal
+133,322,2025-10-11,Entrada,16,Devolución de cliente
+134,345,2025-01-16,Entrada,28,Compra proveedor
+135,640,2024-05-03,Entrada,189,Traslado entre sucursales
+136,688,2024-10-12,Entrada,198,Compra proveedor
+137,210,2025-03-26,Salida,5,Venta
+138,61,2024-10-20,Entrada,33,Reposición de stock
+139,628,2025-09-07,Salida,3,Muestra comercial
+140,717,2025-07-09,Salida,8,Traslado a otra sucursal
+141,226,2024-10-14,Entrada,140,Devolución de cliente
+142,137,2025-12-12,Entrada,21,Devolución de cliente
+143,98,2024-08-10,Entrada,104,Reposición de stock
+144,523,2024-12-22,Salida,1,Producto dañado
+145,411,2024-08-02,Entrada,137,Reposición de stock
+146,161,2025-06-21,Salida,7,Traslado a otra sucursal
+147,484,2025-06-02,Entrada,60,Devolución de cliente
+148,362,2025-08-07,Salida,2,Producto dañado
+149,283,2024-12-22,Salida,8,Producto dañado
+150,386,2025-08-30,Salida,4,Producto dañado
+151,448,2024-01-02,Salida,5,Producto dañado
+152,142,2025-07-19,Salida,10,Traslado a otra sucursal
+153,718,2024-06-23,Entrada,34,Reposición de stock
+154,479,2025-03-23,Salida,7,Traslado a otra sucursal
+155,104,2024-06-08,Entrada,140,Devolución de cliente
+156,326,2024-08-14,Salida,7,Muestra comercial
+157,285,2024-06-01,Entrada,194,Devolución de cliente
+158,166,2025-05-01,Salida,4,Muestra comercial
+159,662,2025-05-30,Salida,2,Venta
+160,205,2025-03-30,Entrada,175,Compra proveedor
+161,551,2025-03-21,Entrada,88,Devolución de cliente
+162,587,2024-06-25,Salida,6,Venta
+163,492,2024-03-07,Ajuste,6,Producto vencido/obsoleto
+164,158,2024-09-15,Salida,2,Venta
+165,587,2024-02-21,Entrada,62,Compra proveedor
+166,262,2024-09-15,Salida,5,Muestra comercial
+167,187,2024-09-13,Entrada,128,Devolución de cliente
+168,381,2024-09-05,Salida,7,Venta
+169,773,2024-08-16,Salida,2,Producto dañado
+170,768,2024-04-20,Salida,8,Venta
+171,231,2024-08-02,Entrada,90,Reposición de stock
+172,422,2025-10-29,Ajuste,13,Corrección de inventario
+173,320,2025-03-03,Entrada,141,Reposición de stock
+174,694,2025-03-23,Salida,9,Muestra comercial
+175,282,2024-07-01,Salida,7,Traslado a otra sucursal
+176,677,2024-02-20,Salida,8,Traslado a otra sucursal
+177,571,2025-06-04,Salida,2,Producto dañado
+178,442,2024-01-10,Entrada,170,Reposición de stock
+179,648,2024-06-10,Salida,8,Traslado a otra sucursal
+180,308,2025-03-20,Salida,4,Traslado a otra sucursal
+181,659,2025-02-06,Salida,5,Venta
+182,392,2025-03-28,Salida,9,Traslado a otra sucursal
+183,345,2024-03-10,Entrada,181,Compra proveedor
+184,294,2024-02-14,Salida,5,Traslado a otra sucursal
+185,119,2024-04-03,Salida,2,Producto dañado
+186,26,2025-01-12,Salida,10,Muestra comercial
+187,652,2025-05-28,Salida,2,Venta
+188,536,2025-04-20,Entrada,123,Reposición de stock
+189,110,2025-03-21,Ajuste,13,Corrección de inventario
+190,330,2025-05-06,Salida,7,Muestra comercial
+191,532,2025-07-23,Entrada,38,Compra proveedor
+192,668,2025-04-04,Entrada,61,Devolución de cliente
+193,452,2025-02-03,Salida,5,Producto dañado
+194,157,2025-09-09,Salida,7,Traslado a otra sucursal
+195,280,2024-08-31,Entrada,14,Reposición de stock
+196,84,2024-02-04,Salida,5,Muestra comercial
+197,728,2024-03-05,Entrada,37,Reposición de stock
+198,309,2025-06-02,Salida,1,Muestra comercial
+199,373,2024-05-09,Salida,2,Venta
+200,28,2024-06-03,Salida,2,Venta
+201,567,2024-07-18,Salida,2,Traslado a otra sucursal
+202,297,2025-03-02,Entrada,160,Devolución de cliente
+203,321,2024-02-18,Salida,2,Muestra comercial
+204,313,2025-09-03,Entrada,38,Compra proveedor
+205,439,2024-03-06,Salida,4,Producto dañado
+206,694,2025-05-23,Entrada,157,Reposición de stock
+207,22,2024-10-15,Salida,6,Producto dañado
+208,564,2024-10-08,Salida,9,Venta
+209,97,2025-06-12,Salida,4,Producto dañado
+210,118,2024-11-20,Salida,9,Producto dañado
+211,737,2024-11-11,Entrada,115,Traslado entre sucursales
+212,610,2025-09-04,Salida,7,Muestra comercial
+213,264,2025-09-18,Salida,3,Traslado a otra sucursal
+214,572,2024-01-16,Entrada,190,Devolución de cliente
+215,370,2024-09-22,Salida,4,Muestra comercial
+216,474,2024-06-27,Salida,2,Producto dañado
+217,677,2024-04-16,Entrada,174,Reposición de stock
+218,45,2024-07-14,Ajuste,13,Diferencia en auditoría
+219,702,2025-03-11,Entrada,180,Traslado entre sucursales
+220,413,2025-11-05,Salida,9,Muestra comercial
+221,193,2025-02-03,Ajuste,17,Producto vencido/obsoleto
+222,570,2025-04-21,Entrada,30,Devolución de cliente
+223,700,2024-03-18,Salida,3,Producto dañado
+224,275,2025-04-15,Salida,5,Producto dañado
+225,189,2025-07-12,Salida,3,Venta
+226,160,2025-08-04,Salida,8,Producto dañado
+227,105,2025-06-21,Entrada,193,Devolución de cliente
+228,337,2024-10-22,Entrada,78,Devolución de cliente
+229,405,2024-01-13,Ajuste,8,Diferencia en auditoría
+230,478,2024-01-13,Entrada,171,Reposición de stock
+231,1,2024-04-06,Ajuste,8,Diferencia en auditoría
+232,260,2024-09-03,Entrada,35,Reposición de stock
+233,727,2025-03-05,Salida,9,Venta
+234,253,2025-04-04,Entrada,24,Traslado entre sucursales
+235,588,2024-02-02,Salida,2,Venta
+236,644,2025-12-29,Salida,8,Traslado a otra sucursal
+237,409,2024-06-07,Salida,8,Producto dañado
+238,355,2025-02-12,Entrada,33,Traslado entre sucursales
+239,614,2025-03-20,Ajuste,10,Producto vencido/obsoleto
+240,49,2025-05-27,Entrada,36,Compra proveedor
+241,342,2024-09-17,Salida,5,Producto dañado
+242,441,2025-06-20,Entrada,128,Reposición de stock
+243,778,2025-08-03,Entrada,38,Devolución de cliente
+244,117,2024-09-11,Salida,3,Traslado a otra sucursal
+245,139,2024-08-02,Salida,6,Traslado a otra sucursal
+246,342,2025-04-01,Salida,1,Traslado a otra sucursal
+247,60,2024-06-27,Entrada,27,Reposición de stock
+248,32,2024-01-19,Salida,7,Venta
+249,424,2024-08-25,Salida,1,Muestra comercial
+250,244,2024-12-13,Entrada,135,Reposición de stock
+251,405,2024-02-28,Salida,9,Venta
+252,331,2024-02-08,Salida,7,Traslado a otra sucursal
+253,227,2024-12-09,Ajuste,1,Conteo físico
+254,57,2025-03-09,Salida,8,Muestra comercial
+255,383,2024-04-11,Salida,10,Producto dañado
+256,13,2025-01-27,Salida,7,Venta
+257,512,2025-07-09,Salida,2,Muestra comercial
+258,101,2025-02-18,Salida,8,Muestra comercial
+259,517,2025-09-04,Entrada,197,Reposición de stock
+260,786,2024-11-07,Entrada,117,Traslado entre sucursales
+261,685,2024-01-03,Salida,4,Producto dañado
+262,591,2025-04-24,Entrada,85,Compra proveedor
+263,340,2024-11-10,Salida,10,Muestra comercial
+264,580,2025-11-06,Entrada,127,Devolución de cliente
+265,639,2025-05-04,Entrada,146,Compra proveedor
+266,722,2024-10-23,Ajuste,1,Corrección de inventario
+267,329,2025-12-27,Salida,1,Traslado a otra sucursal
+268,32,2025-10-25,Entrada,77,Devolución de cliente
+269,751,2025-01-25,Salida,9,Producto dañado
+270,630,2025-08-23,Entrada,35,Devolución de cliente
+271,450,2025-06-12,Salida,6,Traslado a otra sucursal
+272,460,2024-06-28,Salida,5,Producto dañado
+273,20,2025-06-24,Entrada,136,Compra proveedor
+274,126,2024-06-16,Salida,1,Muestra comercial
+275,561,2025-11-28,Ajuste,3,Producto vencido/obsoleto
+276,338,2024-03-13,Entrada,44,Traslado entre sucursales
+277,555,2025-12-18,Entrada,41,Reposición de stock
+278,520,2024-05-26,Salida,2,Traslado a otra sucursal
+279,158,2024-11-10,Entrada,10,Compra proveedor
+280,265,2024-04-09,Salida,3,Muestra comercial
+281,649,2025-06-18,Salida,6,Traslado a otra sucursal
+282,190,2024-11-17,Salida,7,Traslado a otra sucursal
+283,693,2025-08-03,Entrada,74,Devolución de cliente
+284,139,2025-09-21,Salida,3,Traslado a otra sucursal
+285,712,2025-12-14,Entrada,41,Devolución de cliente
+286,798,2024-11-09,Salida,5,Producto dañado
+287,101,2024-10-15,Ajuste,15,Corrección de inventario
+288,454,2024-04-19,Entrada,112,Devolución de cliente
+289,166,2024-07-31,Entrada,11,Compra proveedor
+290,684,2025-02-14,Entrada,73,Reposición de stock
+291,680,2024-02-23,Salida,7,Muestra comercial
+292,120,2024-02-01,Entrada,61,Devolución de cliente
+293,602,2025-03-22,Salida,8,Producto dañado
+294,717,2024-05-10,Salida,2,Producto dañado
+295,429,2024-10-15,Entrada,40,Devolución de cliente
+296,448,2024-11-29,Entrada,58,Reposición de stock
+297,311,2025-01-23,Salida,2,Venta
+298,461,2024-03-05,Salida,7,Producto dañado
+299,507,2024-09-21,Entrada,69,Devolución de cliente
+300,524,2025-03-18,Entrada,11,Reposición de stock
+301,392,2024-12-17,Entrada,41,Compra proveedor
+302,402,2025-11-06,Entrada,115,Devolución de cliente
+303,295,2024-11-28,Entrada,129,Traslado entre sucursales
+304,794,2025-08-26,Salida,10,Traslado a otra sucursal
+305,178,2024-09-17,Salida,1,Muestra comercial
+306,727,2024-01-26,Entrada,147,Reposición de stock
+307,384,2024-08-06,Entrada,15,Reposición de stock
+308,421,2024-07-20,Salida,2,Venta
+309,653,2024-08-14,Entrada,61,Reposición de stock
+310,381,2025-08-13,Salida,8,Muestra comercial
+311,375,2025-02-02,Entrada,27,Traslado entre sucursales
+312,532,2024-04-27,Salida,8,Muestra comercial
+313,678,2024-12-25,Salida,3,Traslado a otra sucursal
+314,642,2025-08-28,Salida,7,Producto dañado
+315,257,2025-01-29,Entrada,136,Reposición de stock
+316,39,2025-05-26,Salida,4,Venta
+317,163,2024-02-27,Entrada,30,Devolución de cliente
+318,243,2025-05-25,Salida,8,Muestra comercial
+319,546,2024-03-19,Entrada,26,Devolución de cliente
+320,684,2024-07-31,Salida,7,Traslado a otra sucursal
+321,541,2024-11-05,Entrada,46,Traslado entre sucursales
+322,671,2025-03-14,Entrada,21,Compra proveedor
+323,499,2024-11-28,Entrada,198,Reposición de stock
+324,641,2024-10-12,Entrada,69,Traslado entre sucursales
+325,191,2025-04-23,Entrada,126,Traslado entre sucursales
+326,778,2024-05-17,Salida,7,Venta
+327,196,2024-11-06,Ajuste,9,Corrección de inventario
+328,655,2024-04-12,Salida,7,Traslado a otra sucursal
+329,635,2024-11-22,Entrada,123,Reposición de stock
+330,648,2025-01-15,Entrada,69,Devolución de cliente
+331,306,2024-08-01,Salida,6,Muestra comercial
+332,587,2024-12-30,Salida,7,Venta
+333,11,2025-08-12,Salida,1,Muestra comercial
+334,646,2025-10-25,Entrada,63,Reposición de stock
+335,665,2025-07-17,Salida,4,Muestra comercial
+336,38,2025-04-25,Salida,4,Producto dañado
+337,484,2024-01-01,Salida,5,Traslado a otra sucursal
+338,652,2025-03-29,Salida,10,Traslado a otra sucursal
+339,292,2025-07-01,Salida,3,Traslado a otra sucursal
+340,319,2025-02-11,Entrada,34,Traslado entre sucursales
+341,357,2024-07-16,Salida,3,Muestra comercial
+342,750,2024-10-19,Entrada,160,Devolución de cliente
+343,99,2024-11-06,Entrada,141,Reposición de stock
+344,277,2025-10-19,Salida,5,Producto dañado
+345,262,2025-11-05,Ajuste,1,Corrección de inventario
+346,339,2024-08-22,Entrada,60,Reposición de stock
+347,270,2024-12-16,Entrada,175,Traslado entre sucursales
+348,289,2024-01-14,Salida,5,Traslado a otra sucursal
+349,218,2025-01-09,Entrada,104,Traslado entre sucursales
+350,123,2025-06-04,Entrada,74,Compra proveedor
+351,593,2025-04-01,Salida,6,Venta
+352,352,2025-03-06,Ajuste,9,Corrección de inventario
+353,487,2025-05-25,Entrada,44,Devolución de cliente
+354,265,2025-09-14,Salida,4,Traslado a otra sucursal
+355,253,2024-02-04,Entrada,144,Devolución de cliente
+356,134,2025-07-02,Salida,8,Producto dañado
+357,511,2025-01-17,Salida,4,Traslado a otra sucursal
+358,436,2025-06-14,Ajuste,7,Conteo físico
+359,729,2024-12-17,Entrada,80,Traslado entre sucursales
+360,121,2025-05-12,Entrada,145,Devolución de cliente
+361,647,2024-04-08,Salida,3,Muestra comercial
+362,130,2024-11-06,Entrada,95,Reposición de stock
+363,81,2025-05-05,Entrada,111,Devolución de cliente
+364,792,2024-12-18,Entrada,135,Reposición de stock
+365,206,2024-07-22,Salida,2,Muestra comercial
+366,793,2024-08-17,Salida,2,Producto dañado
+367,154,2024-04-14,Entrada,153,Traslado entre sucursales
+368,371,2025-12-02,Entrada,36,Compra proveedor
+369,305,2025-10-02,Entrada,128,Reposición de stock
+370,277,2024-12-16,Entrada,149,Compra proveedor
+371,193,2025-05-16,Entrada,62,Traslado entre sucursales
+372,694,2025-08-18,Entrada,196,Compra proveedor
+373,686,2024-03-25,Salida,1,Traslado a otra sucursal
+374,17,2025-06-23,Ajuste,15,Producto vencido/obsoleto
+375,282,2024-01-30,Entrada,154,Traslado entre sucursales
+376,541,2024-02-12,Entrada,128,Devolución de cliente
+377,758,2024-08-02,Entrada,17,Traslado entre sucursales
+378,135,2025-05-13,Entrada,10,Reposición de stock
+379,430,2025-12-15,Entrada,36,Reposición de stock
+380,599,2024-02-13,Entrada,44,Reposición de stock
+381,790,2025-05-18,Entrada,141,Reposición de stock
+382,135,2025-05-30,Salida,7,Producto dañado
+383,273,2024-03-28,Entrada,127,Traslado entre sucursales
+384,584,2024-04-10,Salida,9,Traslado a otra sucursal
+385,531,2024-08-08,Entrada,33,Traslado entre sucursales
+386,237,2024-11-16,Entrada,22,Reposición de stock
+387,186,2024-02-05,Entrada,132,Reposición de stock
+388,673,2025-12-15,Salida,4,Muestra comercial
+389,309,2025-10-10,Entrada,152,Reposición de stock
+390,795,2025-04-26,Entrada,98,Devolución de cliente
+391,343,2024-05-01,Salida,8,Venta
+392,121,2024-12-08,Salida,9,Traslado a otra sucursal
+393,701,2025-10-25,Entrada,78,Compra proveedor
+394,506,2025-08-14,Salida,10,Venta
+395,133,2024-12-03,Entrada,117,Compra proveedor
+396,443,2024-09-02,Salida,6,Muestra comercial
+397,151,2025-03-13,Entrada,86,Compra proveedor
+398,452,2024-01-18,Entrada,39,Reposición de stock
+399,508,2025-04-04,Entrada,40,Traslado entre sucursales
+400,38,2024-09-01,Salida,3,Venta
+401,727,2024-10-19,Salida,6,Venta
+402,241,2025-11-16,Entrada,75,Reposición de stock
+403,455,2025-01-31,Entrada,57,Traslado entre sucursales
+404,118,2024-12-23,Salida,8,Traslado a otra sucursal
+405,62,2025-03-10,Salida,2,Muestra comercial
+406,682,2025-08-16,Salida,10,Traslado a otra sucursal
+407,103,2025-12-13,Salida,7,Muestra comercial
+408,256,2025-05-30,Ajuste,4,Corrección de inventario
+409,451,2024-12-16,Entrada,93,Compra proveedor
+410,451,2025-09-18,Salida,3,Producto dañado
+411,745,2024-03-07,Entrada,165,Compra proveedor
+412,114,2024-09-13,Entrada,169,Devolución de cliente
+413,654,2025-05-27,Entrada,18,Reposición de stock
+414,128,2024-11-25,Salida,3,Producto dañado
+415,549,2025-09-25,Entrada,141,Traslado entre sucursales
+416,261,2025-08-22,Salida,8,Traslado a otra sucursal
+417,301,2024-09-25,Salida,4,Traslado a otra sucursal
+418,602,2024-07-15,Entrada,64,Traslado entre sucursales
+419,178,2025-02-08,Salida,5,Muestra comercial
+420,487,2025-02-09,Entrada,103,Compra proveedor
+421,436,2025-10-22,Entrada,144,Traslado entre sucursales
+422,699,2024-07-30,Entrada,79,Devolución de cliente
+423,132,2025-01-03,Ajuste,15,Corrección de inventario
+424,141,2024-06-30,Salida,9,Producto dañado
+425,3,2025-11-20,Salida,7,Traslado a otra sucursal
+426,71,2024-09-23,Entrada,37,Traslado entre sucursales
+427,564,2025-05-26,Entrada,73,Traslado entre sucursales
+428,287,2024-12-20,Salida,1,Venta
+429,587,2024-02-15,Entrada,154,Traslado entre sucursales
+430,541,2024-03-21,Salida,10,Muestra comercial
+431,198,2024-09-04,Salida,9,Producto dañado
+432,466,2024-02-17,Salida,5,Producto dañado
+433,786,2024-04-30,Entrada,101,Traslado entre sucursales
+434,727,2024-04-13,Salida,10,Producto dañado
+435,289,2024-10-07,Entrada,32,Devolución de cliente
+436,798,2024-02-14,Entrada,107,Traslado entre sucursales
+437,589,2024-07-10,Salida,6,Producto dañado
+438,254,2025-10-02,Entrada,171,Traslado entre sucursales
+439,184,2025-08-14,Salida,2,Traslado a otra sucursal
+440,32,2024-09-04,Entrada,141,Reposición de stock
+441,140,2025-07-20,Ajuste,14,Diferencia en auditoría
+442,170,2024-02-12,Entrada,32,Compra proveedor
+443,666,2024-11-21,Salida,1,Venta
+444,189,2024-05-11,Entrada,186,Compra proveedor
+445,519,2025-12-03,Entrada,114,Devolución de cliente
+446,556,2025-11-05,Entrada,54,Devolución de cliente
+447,460,2024-06-17,Entrada,56,Devolución de cliente
+448,311,2025-01-29,Entrada,92,Devolución de cliente
+449,414,2025-01-13,Salida,2,Producto dañado
+450,621,2025-04-12,Salida,2,Venta
+451,582,2024-09-18,Salida,3,Producto dañado
+452,330,2025-02-21,Entrada,35,Compra proveedor
+453,185,2025-12-23,Ajuste,14,Producto vencido/obsoleto
+454,325,2024-02-26,Entrada,80,Compra proveedor
+455,381,2024-12-21,Entrada,49,Reposición de stock
+456,472,2025-10-30,Salida,6,Producto dañado
+457,329,2025-12-27,Salida,6,Venta
+458,362,2025-12-29,Salida,7,Producto dañado
+459,779,2025-07-21,Salida,6,Muestra comercial
+460,281,2024-05-21,Salida,5,Venta
+461,711,2024-07-18,Salida,7,Venta
+462,42,2025-06-25,Entrada,148,Devolución de cliente
+463,421,2025-07-24,Salida,3,Traslado a otra sucursal
+464,106,2025-11-27,Entrada,182,Reposición de stock
+465,657,2025-09-30,Salida,1,Traslado a otra sucursal
+466,53,2024-08-18,Entrada,70,Devolución de cliente
+467,387,2025-06-28,Salida,3,Traslado a otra sucursal
+468,541,2025-08-12,Entrada,132,Traslado entre sucursales
+469,5,2024-08-25,Salida,5,Muestra comercial
+470,36,2025-01-07,Entrada,42,Reposición de stock
+471,133,2025-07-30,Salida,9,Producto dañado
+472,667,2024-01-08,Salida,8,Traslado a otra sucursal
+473,10,2024-12-11,Salida,7,Producto dañado
+474,581,2024-01-29,Salida,1,Venta
+475,481,2024-03-19,Entrada,112,Traslado entre sucursales
+476,239,2024-09-24,Salida,2,Muestra comercial
+477,552,2025-07-26,Ajuste,19,Producto vencido/obsoleto
+478,544,2025-09-09,Salida,8,Traslado a otra sucursal
+479,442,2024-03-18,Entrada,140,Traslado entre sucursales
+480,730,2024-05-09,Salida,4,Traslado a otra sucursal
+481,227,2024-09-03,Entrada,15,Reposición de stock
+482,281,2024-10-20,Entrada,145,Reposición de stock
+483,308,2025-11-20,Salida,7,Producto dañado
+484,779,2025-08-10,Salida,3,Muestra comercial
+485,466,2025-04-20,Salida,7,Venta
+486,100,2025-04-22,Ajuste,11,Corrección de inventario
+487,652,2025-06-03,Salida,8,Traslado a otra sucursal
+488,237,2024-10-04,Entrada,166,Compra proveedor
+489,337,2024-01-07,Salida,6,Muestra comercial
+490,613,2024-04-25,Ajuste,11,Producto vencido/obsoleto
+491,735,2024-12-03,Salida,3,Traslado a otra sucursal
+492,24,2025-08-26,Salida,2,Muestra comercial
+493,556,2024-11-17,Ajuste,17,Conteo físico
+494,3,2025-01-17,Entrada,114,Traslado entre sucursales
+495,340,2024-09-16,Salida,2,Producto dañado
+496,713,2025-07-28,Salida,2,Muestra comercial
+497,590,2024-09-19,Ajuste,1,Producto vencido/obsoleto
+498,427,2024-01-26,Ajuste,9,Conteo físico
+499,377,2024-02-20,Salida,4,Muestra comercial
+500,98,2025-08-31,Ajuste,3,Producto vencido/obsoleto
+501,357,2024-04-10,Entrada,29,Reposición de stock
+502,461,2024-08-29,Ajuste,18,Producto vencido/obsoleto
+503,531,2024-12-14,Ajuste,16,Producto vencido/obsoleto
+504,419,2025-09-26,Salida,4,Venta
+505,26,2025-07-09,Salida,10,Venta
+506,150,2025-03-25,Entrada,114,Reposición de stock
+507,606,2024-10-30,Entrada,10,Compra proveedor
+508,731,2025-07-11,Entrada,75,Reposición de stock
+509,607,2025-11-26,Salida,3,Venta
+510,773,2024-01-28,Salida,6,Producto dañado
+511,19,2024-03-02,Entrada,70,Devolución de cliente
+512,603,2024-04-18,Ajuste,7,Conteo físico
+513,655,2025-12-12,Entrada,68,Devolución de cliente
+514,102,2025-03-25,Salida,2,Producto dañado
+515,446,2024-11-19,Ajuste,6,Diferencia en auditoría
+516,483,2025-12-18,Entrada,107,Reposición de stock
+517,189,2025-07-02,Entrada,170,Compra proveedor
+518,464,2025-07-28,Ajuste,4,Conteo físico
+519,765,2024-09-03,Salida,6,Traslado a otra sucursal
+520,86,2025-09-18,Salida,7,Muestra comercial
+521,484,2025-01-21,Salida,10,Muestra comercial
+522,509,2024-07-09,Ajuste,10,Conteo físico
+523,615,2025-07-24,Entrada,105,Devolución de cliente
+524,611,2025-10-07,Salida,4,Traslado a otra sucursal
+525,457,2025-12-07,Salida,7,Muestra comercial
+526,448,2025-07-05,Salida,3,Traslado a otra sucursal
+527,234,2024-12-19,Salida,6,Venta
+528,73,2024-11-09,Entrada,56,Reposición de stock
+529,646,2025-11-16,Salida,7,Venta
+530,594,2024-02-07,Salida,4,Venta
+531,539,2025-10-09,Entrada,98,Reposición de stock
+532,334,2024-08-02,Entrada,168,Devolución de cliente
+533,555,2024-09-26,Entrada,11,Devolución de cliente
+534,329,2025-05-27,Entrada,180,Traslado entre sucursales
+535,15,2025-09-16,Salida,2,Venta
+536,798,2025-02-03,Ajuste,14,Diferencia en auditoría
+537,365,2024-01-17,Ajuste,20,Diferencia en auditoría
+538,145,2025-08-24,Entrada,182,Reposición de stock
+539,321,2025-08-07,Entrada,146,Reposición de stock
+540,21,2024-10-21,Entrada,99,Compra proveedor
+541,70,2024-03-15,Ajuste,1,Diferencia en auditoría
+542,115,2025-05-06,Salida,2,Venta
+543,276,2024-01-14,Entrada,146,Devolución de cliente
+544,406,2024-08-14,Entrada,93,Compra proveedor
+545,705,2025-06-15,Entrada,155,Devolución de cliente
+546,543,2025-10-11,Ajuste,1,Conteo físico
+547,181,2024-08-26,Entrada,93,Traslado entre sucursales
+548,401,2024-03-02,Entrada,180,Devolución de cliente
+549,513,2025-05-23,Entrada,87,Compra proveedor
+550,786,2024-07-26,Entrada,115,Devolución de cliente
+551,763,2025-04-06,Salida,4,Producto dañado
+552,43,2024-12-12,Salida,10,Traslado a otra sucursal
+553,418,2025-08-03,Entrada,33,Compra proveedor
+554,109,2024-11-14,Salida,8,Venta
+555,735,2024-03-30,Salida,10,Venta
+556,211,2024-02-07,Salida,10,Traslado a otra sucursal
+557,636,2025-08-01,Entrada,71,Traslado entre sucursales
+558,354,2024-06-01,Salida,6,Muestra comercial
+559,177,2025-04-04,Entrada,140,Reposición de stock
+560,61,2024-11-05,Entrada,68,Reposición de stock
+561,309,2025-08-14,Salida,10,Producto dañado
+562,666,2024-01-01,Salida,9,Traslado a otra sucursal
+563,76,2024-04-24,Ajuste,5,Conteo físico
+564,165,2025-05-21,Entrada,148,Traslado entre sucursales
+565,375,2025-01-26,Salida,8,Venta
+566,267,2025-12-03,Entrada,93,Devolución de cliente
+567,425,2024-09-26,Entrada,92,Devolución de cliente
+568,20,2025-06-01,Salida,10,Muestra comercial
+569,679,2024-01-03,Salida,2,Muestra comercial
+570,469,2025-11-03,Entrada,133,Devolución de cliente
+571,126,2025-05-28,Salida,2,Venta
+572,328,2024-07-07,Salida,4,Muestra comercial
+573,544,2024-03-11,Salida,4,Producto dañado
+574,78,2024-04-28,Entrada,98,Compra proveedor
+575,206,2025-07-31,Salida,7,Producto dañado
+576,203,2024-09-23,Entrada,39,Reposición de stock
+577,240,2024-09-16,Entrada,35,Reposición de stock
+578,543,2024-07-07,Entrada,81,Devolución de cliente
+579,656,2025-11-08,Salida,9,Traslado a otra sucursal
+580,506,2025-07-01,Ajuste,7,Corrección de inventario
+581,190,2024-05-30,Entrada,130,Traslado entre sucursales
+582,711,2024-11-22,Salida,2,Traslado a otra sucursal
+583,66,2025-08-28,Ajuste,1,Conteo físico
+584,691,2024-04-06,Salida,10,Venta
+585,108,2025-01-13,Entrada,160,Reposición de stock
+586,543,2024-12-14,Entrada,196,Reposición de stock
+587,579,2025-03-09,Salida,3,Venta
+588,307,2024-07-28,Entrada,155,Reposición de stock
+589,451,2024-08-24,Entrada,130,Devolución de cliente
+590,754,2025-12-27,Entrada,119,Reposición de stock
+591,724,2024-10-01,Salida,7,Producto dañado
+592,728,2025-11-16,Salida,1,Muestra comercial
+593,510,2025-01-01,Salida,8,Traslado a otra sucursal
+594,546,2024-11-11,Entrada,135,Reposición de stock
+595,77,2024-03-13,Salida,8,Muestra comercial
+596,357,2025-05-04,Salida,9,Producto dañado
+597,398,2025-09-25,Entrada,14,Compra proveedor
+598,376,2024-10-15,Entrada,91,Traslado entre sucursales
+599,761,2025-02-26,Salida,1,Traslado a otra sucursal
+600,136,2024-07-30,Ajuste,8,Diferencia en auditoría
+601,339,2025-01-29,Entrada,154,Reposición de stock
+602,599,2025-08-12,Salida,1,Traslado a otra sucursal
+603,343,2025-12-07,Entrada,46,Compra proveedor
+604,763,2024-11-11,Entrada,174,Reposición de stock
+605,291,2025-01-19,Ajuste,12,Corrección de inventario
+606,283,2025-06-12,Salida,4,Muestra comercial
+607,278,2024-07-01,Salida,9,Venta
+608,216,2025-04-25,Salida,2,Muestra comercial
+609,518,2025-12-07,Salida,2,Venta
+610,785,2024-04-12,Entrada,67,Reposición de stock
+611,81,2025-05-04,Entrada,48,Reposición de stock
+612,130,2024-02-21,Salida,4,Muestra comercial
+613,617,2024-06-03,Entrada,78,Reposición de stock
+614,7,2024-04-20,Entrada,194,Devolución de cliente
+615,522,2025-09-16,Entrada,37,Traslado entre sucursales
+616,609,2024-02-21,Entrada,172,Devolución de cliente
+617,246,2025-10-21,Entrada,141,Reposición de stock
+618,137,2025-04-26,Entrada,63,Traslado entre sucursales
+619,317,2024-10-19,Salida,1,Producto dañado
+620,475,2024-03-11,Entrada,75,Reposición de stock
+621,160,2024-09-19,Salida,2,Traslado a otra sucursal
+622,253,2025-06-02,Ajuste,7,Diferencia en auditoría
+623,172,2024-04-17,Entrada,92,Reposición de stock
+624,186,2024-07-09,Entrada,113,Compra proveedor
+625,791,2025-09-17,Salida,2,Venta
+626,434,2024-06-13,Entrada,36,Devolución de cliente
+627,241,2024-02-18,Entrada,177,Compra proveedor
+628,791,2025-02-01,Ajuste,17,Producto vencido/obsoleto
+629,101,2025-12-15,Entrada,142,Devolución de cliente
+630,553,2025-06-04,Entrada,158,Reposición de stock
+631,336,2024-04-05,Salida,2,Venta
+632,410,2024-04-18,Entrada,70,Traslado entre sucursales
+633,610,2025-10-13,Salida,1,Producto dañado
+634,362,2024-05-07,Salida,8,Traslado a otra sucursal
+635,614,2025-05-15,Entrada,65,Devolución de cliente
+636,5,2025-09-17,Entrada,186,Compra proveedor
+637,11,2024-03-20,Ajuste,9,Producto vencido/obsoleto
+638,215,2024-04-24,Entrada,96,Devolución de cliente
+639,576,2025-09-15,Salida,3,Traslado a otra sucursal
+640,629,2025-03-07,Salida,9,Venta
+641,117,2024-04-13,Entrada,177,Compra proveedor
+642,82,2024-04-19,Entrada,197,Reposición de stock
+643,560,2025-02-12,Entrada,18,Devolución de cliente
+644,72,2025-08-02,Salida,1,Producto dañado
+645,695,2025-03-20,Salida,7,Muestra comercial
+646,186,2024-02-23,Salida,6,Muestra comercial
+647,13,2025-12-31,Entrada,139,Traslado entre sucursales
+648,322,2025-06-30,Salida,8,Venta
+649,296,2024-04-27,Entrada,140,Compra proveedor
+650,546,2024-08-16,Entrada,137,Devolución de cliente
+651,365,2024-12-03,Entrada,87,Traslado entre sucursales
+652,254,2024-11-12,Entrada,171,Compra proveedor
+653,27,2025-11-26,Entrada,167,Reposición de stock
+654,270,2025-11-30,Entrada,106,Traslado entre sucursales
+655,236,2024-04-01,Salida,10,Venta
+656,120,2024-08-10,Salida,1,Producto dañado
+657,656,2025-10-23,Salida,8,Muestra comercial
+658,481,2024-01-19,Salida,5,Venta
+659,476,2024-02-24,Ajuste,16,Diferencia en auditoría
+660,3,2024-11-25,Entrada,60,Compra proveedor
+661,639,2024-01-20,Salida,8,Producto dañado
+662,256,2024-06-13,Entrada,17,Traslado entre sucursales
+663,718,2025-01-25,Salida,10,Venta
+664,37,2025-01-27,Salida,1,Traslado a otra sucursal
+665,46,2024-12-19,Entrada,32,Devolución de cliente
+666,198,2025-12-24,Salida,2,Producto dañado
+667,475,2025-02-25,Entrada,46,Devolución de cliente
+668,595,2025-12-22,Entrada,40,Compra proveedor
+669,571,2025-09-24,Entrada,36,Traslado entre sucursales
+670,187,2024-12-05,Ajuste,15,Conteo físico
+671,673,2025-10-23,Entrada,46,Compra proveedor
+672,78,2025-08-18,Salida,6,Muestra comercial
+673,84,2024-11-24,Salida,3,Traslado a otra sucursal
+674,505,2025-07-07,Entrada,179,Traslado entre sucursales
+675,727,2024-08-15,Salida,5,Muestra comercial
+676,315,2025-07-06,Entrada,50,Traslado entre sucursales
+677,496,2025-01-07,Salida,2,Producto dañado
+678,490,2024-03-01,Entrada,172,Traslado entre sucursales
+679,109,2024-03-28,Entrada,48,Traslado entre sucursales
+680,50,2025-12-21,Ajuste,14,Diferencia en auditoría
+681,681,2024-07-31,Salida,3,Venta
+682,713,2025-04-27,Entrada,89,Traslado entre sucursales
+683,118,2025-08-04,Salida,8,Muestra comercial
+684,132,2025-01-28,Ajuste,1,Producto vencido/obsoleto
+685,392,2024-02-10,Entrada,140,Compra proveedor
+686,670,2025-01-13,Entrada,71,Traslado entre sucursales
+687,450,2024-04-26,Salida,10,Producto dañado
+688,302,2025-07-09,Salida,4,Producto dañado
+689,12,2025-02-24,Entrada,152,Compra proveedor
+690,783,2025-08-08,Salida,8,Muestra comercial
+691,559,2025-06-06,Salida,2,Venta
+692,367,2024-03-15,Salida,9,Venta
+693,510,2025-11-17,Entrada,67,Compra proveedor
+694,350,2024-01-24,Ajuste,11,Producto vencido/obsoleto
+695,619,2025-06-10,Entrada,35,Traslado entre sucursales
+696,298,2024-03-17,Salida,2,Muestra comercial
+697,781,2024-09-05,Entrada,80,Compra proveedor
+698,738,2025-09-07,Salida,2,Traslado a otra sucursal
+699,399,2025-03-11,Entrada,104,Traslado entre sucursales
+700,559,2024-11-30,Entrada,152,Compra proveedor
+701,505,2024-03-18,Entrada,194,Traslado entre sucursales
+702,513,2025-04-29,Ajuste,1,Corrección de inventario
+703,591,2025-10-12,Entrada,91,Devolución de cliente
+704,134,2025-01-13,Salida,3,Producto dañado
+705,734,2024-07-11,Salida,9,Traslado a otra sucursal
+706,347,2024-03-11,Entrada,200,Devolución de cliente
+707,298,2025-05-07,Ajuste,2,Conteo físico
+708,64,2025-04-19,Entrada,29,Devolución de cliente
+709,368,2025-02-01,Entrada,27,Devolución de cliente
+710,646,2025-03-26,Salida,9,Producto dañado
+711,670,2025-06-22,Salida,3,Traslado a otra sucursal
+712,150,2025-06-26,Salida,7,Muestra comercial
+713,45,2024-03-01,Entrada,45,Compra proveedor
+714,666,2025-07-17,Entrada,76,Reposición de stock
+715,112,2025-04-19,Entrada,117,Traslado entre sucursales
+716,413,2025-06-17,Salida,1,Traslado a otra sucursal
+717,721,2024-05-15,Salida,6,Traslado a otra sucursal
+718,739,2024-12-21,Entrada,183,Traslado entre sucursales
+719,186,2024-11-03,Ajuste,7,Producto vencido/obsoleto
+720,550,2025-06-30,Entrada,181,Reposición de stock
+721,422,2025-10-12,Salida,5,Traslado a otra sucursal
+722,468,2025-08-20,Salida,10,Muestra comercial
+723,432,2024-03-28,Entrada,133,Devolución de cliente
+724,358,2024-07-07,Salida,6,Traslado a otra sucursal
+725,240,2024-09-08,Salida,8,Traslado a otra sucursal
+726,718,2025-11-29,Salida,5,Venta
+727,75,2025-11-22,Salida,10,Muestra comercial
+728,758,2024-04-03,Salida,8,Producto dañado
+729,120,2025-10-16,Entrada,112,Compra proveedor
+730,383,2024-11-14,Entrada,141,Traslado entre sucursales
+731,22,2024-08-02,Salida,2,Traslado a otra sucursal
+732,384,2025-04-11,Ajuste,14,Conteo físico
+733,133,2024-07-15,Ajuste,10,Producto vencido/obsoleto
+734,635,2024-11-17,Entrada,118,Devolución de cliente
+735,684,2025-07-15,Salida,4,Venta
+736,288,2025-03-14,Salida,5,Producto dañado
+737,43,2024-03-17,Entrada,175,Devolución de cliente
+738,569,2024-11-29,Entrada,49,Reposición de stock
+739,536,2025-10-29,Entrada,57,Traslado entre sucursales
+740,199,2024-02-19,Entrada,172,Devolución de cliente
+741,33,2025-06-07,Entrada,191,Reposición de stock
+742,368,2024-04-25,Salida,6,Muestra comercial
+743,721,2025-07-24,Entrada,187,Compra proveedor
+744,396,2025-12-27,Salida,6,Venta
+745,292,2024-07-10,Salida,7,Venta
+746,566,2025-11-14,Entrada,18,Devolución de cliente
+747,754,2024-06-15,Ajuste,17,Conteo físico
+748,399,2024-01-23,Salida,4,Venta
+749,575,2025-11-06,Entrada,55,Compra proveedor
+750,420,2025-05-15,Salida,1,Traslado a otra sucursal
+751,488,2024-03-25,Entrada,113,Compra proveedor
+752,601,2025-08-17,Salida,1,Muestra comercial
+753,178,2025-02-03,Salida,10,Venta
+754,729,2025-03-13,Ajuste,10,Diferencia en auditoría
+755,700,2024-02-14,Entrada,138,Devolución de cliente
+756,268,2025-05-20,Ajuste,4,Corrección de inventario
+757,347,2025-06-27,Salida,8,Muestra comercial
+758,405,2024-10-25,Salida,9,Traslado a otra sucursal
+759,33,2024-01-14,Entrada,164,Compra proveedor
+760,543,2024-05-10,Entrada,161,Devolución de cliente
+761,95,2024-05-17,Entrada,183,Reposición de stock
+762,611,2024-01-27,Salida,9,Venta
+763,553,2025-03-02,Salida,7,Traslado a otra sucursal
+764,707,2025-12-29,Entrada,187,Reposición de stock
+765,643,2024-04-05,Salida,6,Producto dañado
+766,100,2025-09-16,Entrada,148,Devolución de cliente
+767,372,2025-04-23,Salida,8,Traslado a otra sucursal
+768,481,2024-07-10,Entrada,166,Devolución de cliente
+769,460,2025-02-28,Entrada,137,Reposición de stock
+770,14,2025-03-05,Entrada,133,Reposición de stock
+771,724,2025-04-26,Entrada,179,Reposición de stock
+772,790,2024-01-13,Entrada,99,Traslado entre sucursales
+773,559,2024-10-22,Ajuste,7,Conteo físico
+774,95,2024-07-29,Entrada,33,Devolución de cliente
+775,43,2025-11-12,Entrada,140,Traslado entre sucursales
+776,179,2025-11-11,Entrada,123,Devolución de cliente
+777,612,2024-04-23,Entrada,143,Compra proveedor
+778,664,2025-09-05,Entrada,150,Reposición de stock
+779,317,2025-07-17,Salida,10,Traslado a otra sucursal
+780,797,2025-09-13,Salida,7,Traslado a otra sucursal
+781,88,2025-12-21,Salida,3,Venta
+782,543,2025-03-02,Entrada,129,Compra proveedor
+783,784,2025-06-24,Entrada,168,Reposición de stock
+784,271,2025-04-30,Entrada,191,Devolución de cliente
+785,173,2025-05-04,Salida,3,Venta
+786,321,2025-10-11,Entrada,153,Compra proveedor
+787,133,2024-07-24,Entrada,188,Compra proveedor
+788,166,2024-07-17,Salida,1,Venta
+789,218,2025-01-01,Entrada,139,Reposición de stock
+790,133,2024-12-20,Entrada,38,Reposición de stock
+791,799,2025-06-07,Salida,3,Muestra comercial
+792,67,2024-08-28,Salida,9,Traslado a otra sucursal
+793,175,2024-08-10,Entrada,66,Devolución de cliente
+794,343,2025-09-20,Entrada,27,Traslado entre sucursales
+795,587,2025-01-05,Entrada,83,Traslado entre sucursales
+796,648,2024-09-01,Ajuste,13,Producto vencido/obsoleto
+797,144,2024-08-18,Entrada,14,Devolución de cliente
+798,647,2025-07-12,Entrada,31,Traslado entre sucursales
+799,7,2025-05-03,Salida,9,Venta
+800,523,2024-06-08,Entrada,160,Traslado entre sucursales
+801,500,2024-07-30,Entrada,129,Traslado entre sucursales
+802,766,2024-01-04,Salida,5,Producto dañado
+803,568,2024-01-09,Ajuste,4,Diferencia en auditoría
+804,482,2025-11-17,Salida,9,Muestra comercial
+805,75,2024-06-23,Salida,3,Producto dañado
+806,271,2025-12-29,Entrada,112,Compra proveedor
+807,73,2024-09-18,Entrada,148,Devolución de cliente
+808,477,2025-02-07,Ajuste,11,Corrección de inventario
+809,753,2025-06-22,Salida,7,Muestra comercial
+810,531,2025-06-04,Salida,5,Muestra comercial
+811,163,2024-12-13,Salida,2,Traslado a otra sucursal
+812,683,2025-06-14,Entrada,123,Traslado entre sucursales
+813,448,2024-07-29,Entrada,25,Compra proveedor
+814,293,2024-09-18,Salida,3,Venta
+815,306,2025-09-02,Salida,3,Producto dañado
+816,528,2025-03-21,Entrada,125,Traslado entre sucursales
+817,698,2024-01-11,Entrada,11,Traslado entre sucursales
+818,424,2024-04-18,Entrada,73,Devolución de cliente
+819,772,2025-12-28,Salida,9,Venta
+820,744,2024-02-12,Salida,10,Traslado a otra sucursal
+821,708,2024-12-14,Entrada,93,Reposición de stock
+822,577,2024-06-30,Entrada,71,Reposición de stock
+823,82,2024-01-15,Salida,2,Muestra comercial
+824,684,2024-05-17,Entrada,42,Traslado entre sucursales
+825,768,2024-11-19,Salida,10,Venta
+826,632,2025-07-02,Entrada,164,Traslado entre sucursales
+827,300,2024-11-13,Salida,6,Venta
+828,187,2025-12-04,Ajuste,19,Conteo físico
+829,296,2025-09-04,Entrada,195,Traslado entre sucursales
+830,690,2024-03-05,Entrada,78,Reposición de stock
+831,334,2025-04-11,Entrada,160,Reposición de stock
+832,289,2024-10-16,Entrada,57,Compra proveedor
+833,553,2024-01-29,Ajuste,5,Producto vencido/obsoleto
+834,17,2025-07-02,Ajuste,10,Producto vencido/obsoleto
+835,512,2024-03-09,Salida,4,Venta
+836,616,2024-09-16,Salida,10,Traslado a otra sucursal
+837,127,2025-06-04,Entrada,33,Devolución de cliente
+838,126,2025-12-16,Entrada,162,Compra proveedor
+839,612,2025-05-19,Salida,10,Producto dañado
+840,113,2025-02-14,Entrada,21,Compra proveedor
+841,374,2024-08-14,Entrada,189,Compra proveedor
+842,600,2024-04-06,Entrada,47,Traslado entre sucursales
+843,689,2025-05-11,Entrada,132,Devolución de cliente
+844,396,2025-10-07,Salida,10,Traslado a otra sucursal
+845,63,2024-12-10,Salida,9,Traslado a otra sucursal
+846,605,2025-09-02,Salida,9,Producto dañado
+847,285,2024-08-10,Salida,4,Muestra comercial
+848,6,2025-02-04,Salida,3,Traslado a otra sucursal
+849,542,2025-06-04,Salida,10,Venta
+850,472,2025-06-05,Ajuste,15,Conteo físico
+851,529,2024-01-09,Salida,7,Venta
+852,763,2024-09-22,Entrada,83,Traslado entre sucursales
+853,221,2025-05-17,Ajuste,15,Corrección de inventario
+854,752,2024-11-14,Entrada,189,Traslado entre sucursales
+855,164,2025-10-06,Entrada,106,Compra proveedor
+856,328,2025-12-12,Entrada,163,Reposición de stock
+857,450,2024-12-24,Entrada,196,Reposición de stock
+858,401,2025-05-29,Salida,3,Producto dañado
+859,144,2024-01-08,Entrada,91,Traslado entre sucursales
+860,182,2025-11-12,Salida,3,Muestra comercial
+861,231,2024-09-09,Entrada,11,Traslado entre sucursales
+862,284,2024-01-25,Salida,4,Producto dañado
+863,271,2024-09-12,Salida,3,Venta
+864,669,2024-01-21,Salida,1,Venta
+865,291,2025-03-09,Salida,3,Venta
+866,790,2024-08-21,Salida,3,Traslado a otra sucursal
+867,256,2024-09-04,Entrada,151,Compra proveedor
+868,218,2024-07-11,Salida,1,Venta
+869,293,2024-06-05,Ajuste,6,Corrección de inventario
+870,89,2025-01-25,Salida,5,Venta
+871,2,2025-07-11,Entrada,96,Compra proveedor
+872,39,2024-04-11,Salida,3,Traslado a otra sucursal
+873,386,2024-10-12,Salida,2,Traslado a otra sucursal
+874,129,2024-02-09,Salida,5,Traslado a otra sucursal
+875,783,2025-07-05,Salida,1,Traslado a otra sucursal
+876,260,2024-02-13,Salida,6,Muestra comercial
+877,10,2024-06-16,Salida,10,Producto dañado
+878,532,2024-05-12,Salida,9,Muestra comercial
+879,788,2025-05-16,Ajuste,7,Diferencia en auditoría
+880,424,2024-07-31,Entrada,110,Compra proveedor
+881,227,2024-11-15,Salida,4,Muestra comercial
+882,230,2025-06-10,Entrada,142,Devolución de cliente
+883,763,2024-04-10,Salida,7,Muestra comercial
+884,172,2025-12-22,Salida,2,Producto dañado
+885,116,2024-02-01,Salida,7,Producto dañado
+886,680,2024-05-29,Salida,10,Traslado a otra sucursal
+887,149,2025-08-17,Salida,3,Traslado a otra sucursal
+888,94,2024-09-28,Salida,10,Producto dañado
+889,499,2024-11-07,Salida,2,Producto dañado
+890,794,2024-02-26,Entrada,170,Traslado entre sucursales
+891,547,2024-03-16,Entrada,195,Compra proveedor
+892,79,2025-06-05,Salida,2,Producto dañado
+893,540,2024-08-01,Salida,3,Traslado a otra sucursal
+894,429,2024-05-26,Salida,9,Traslado a otra sucursal
+895,391,2025-03-13,Salida,1,Venta
+896,429,2024-03-03,Entrada,43,Devolución de cliente
+897,118,2024-11-02,Salida,6,Traslado a otra sucursal
+898,32,2025-06-16,Entrada,183,Devolución de cliente
+899,415,2024-02-11,Entrada,132,Traslado entre sucursales
+900,50,2025-09-09,Entrada,29,Compra proveedor
+901,797,2025-02-06,Entrada,148,Traslado entre sucursales
+902,259,2025-12-24,Entrada,129,Traslado entre sucursales
+903,724,2025-03-23,Entrada,151,Reposición de stock
+904,58,2025-07-31,Entrada,117,Devolución de cliente
+905,109,2025-02-12,Salida,10,Producto dañado
+906,407,2024-01-12,Entrada,192,Devolución de cliente
+907,250,2025-09-23,Entrada,155,Devolución de cliente
+908,180,2024-11-12,Entrada,198,Compra proveedor
+909,22,2024-04-03,Entrada,99,Compra proveedor
+910,620,2025-04-03,Salida,1,Venta
+911,194,2025-10-28,Salida,6,Traslado a otra sucursal
+912,11,2024-03-26,Entrada,111,Reposición de stock
+913,184,2025-08-04,Entrada,65,Traslado entre sucursales
+914,191,2024-12-07,Ajuste,15,Diferencia en auditoría
+915,479,2025-09-30,Entrada,29,Traslado entre sucursales
+916,178,2025-05-04,Entrada,133,Reposición de stock
+917,505,2024-09-06,Entrada,89,Devolución de cliente
+918,44,2025-02-14,Salida,6,Producto dañado
+919,431,2025-07-09,Entrada,144,Traslado entre sucursales
+920,430,2025-06-25,Ajuste,17,Producto vencido/obsoleto
+921,203,2025-05-12,Entrada,115,Traslado entre sucursales
+922,712,2024-02-07,Salida,3,Muestra comercial
+923,682,2024-03-04,Entrada,107,Devolución de cliente
+924,446,2025-01-05,Entrada,165,Traslado entre sucursales
+925,234,2025-08-28,Entrada,173,Traslado entre sucursales
+926,14,2025-07-12,Salida,10,Venta
+927,499,2025-03-07,Entrada,188,Traslado entre sucursales
+928,417,2025-06-19,Salida,4,Producto dañado
+929,709,2024-07-04,Salida,6,Muestra comercial
+930,371,2025-05-26,Ajuste,4,Diferencia en auditoría
+931,231,2024-01-14,Salida,2,Muestra comercial
+932,652,2025-09-04,Ajuste,13,Diferencia en auditoría
+933,74,2024-04-17,Salida,6,Traslado a otra sucursal
+934,630,2024-02-13,Entrada,79,Reposición de stock
+935,376,2024-06-29,Entrada,78,Traslado entre sucursales
+936,345,2025-09-05,Ajuste,1,Corrección de inventario
+937,91,2024-11-13,Salida,6,Venta
+938,201,2025-11-21,Salida,4,Venta
+939,780,2025-05-09,Entrada,56,Compra proveedor
+940,455,2024-09-05,Entrada,157,Devolución de cliente
+941,97,2024-10-19,Entrada,194,Reposición de stock
+942,26,2024-06-04,Ajuste,7,Producto vencido/obsoleto
+943,196,2024-11-06,Salida,10,Traslado a otra sucursal
+944,543,2024-02-21,Entrada,181,Compra proveedor
+945,52,2025-05-12,Entrada,168,Devolución de cliente
+946,442,2024-01-25,Salida,5,Traslado a otra sucursal
+947,594,2025-09-01,Salida,6,Producto dañado
+948,106,2024-10-08,Ajuste,3,Conteo físico
+949,678,2025-12-26,Ajuste,20,Corrección de inventario
+950,764,2024-03-02,Salida,4,Traslado a otra sucursal
+951,81,2025-08-02,Salida,8,Muestra comercial
+952,128,2024-01-10,Salida,5,Muestra comercial
+953,269,2024-12-14,Salida,10,Muestra comercial
+954,261,2025-04-07,Salida,4,Producto dañado
+955,345,2024-03-04,Salida,5,Traslado a otra sucursal
+956,207,2024-01-09,Entrada,80,Devolución de cliente
+957,338,2025-04-16,Ajuste,11,Corrección de inventario
+958,502,2024-05-13,Entrada,80,Reposición de stock
+959,673,2025-06-25,Entrada,143,Traslado entre sucursales
+960,105,2024-03-02,Salida,9,Venta
+961,407,2025-04-03,Entrada,43,Compra proveedor
+962,256,2025-07-21,Entrada,53,Devolución de cliente
+963,539,2025-04-30,Entrada,19,Reposición de stock
+964,624,2024-03-12,Entrada,151,Traslado entre sucursales
+965,552,2024-08-24,Salida,3,Muestra comercial
+966,120,2024-06-06,Salida,6,Producto dañado
+967,426,2025-12-14,Salida,7,Venta
+968,537,2024-08-15,Salida,1,Producto dañado
+969,553,2025-08-04,Entrada,97,Traslado entre sucursales
+970,391,2024-11-03,Salida,1,Producto dañado
+971,168,2025-06-22,Salida,7,Producto dañado
+972,771,2024-10-19,Entrada,167,Reposición de stock
+973,159,2024-12-17,Ajuste,17,Conteo físico
+974,749,2024-06-04,Entrada,16,Traslado entre sucursales
+975,395,2025-10-13,Salida,2,Producto dañado
+976,211,2025-08-24,Salida,6,Venta
+977,71,2024-09-09,Salida,3,Traslado a otra sucursal
+978,234,2025-05-11,Entrada,154,Traslado entre sucursales
+979,705,2024-11-22,Salida,5,Venta
+980,428,2025-11-03,Salida,9,Producto dañado
+981,395,2024-12-26,Salida,1,Traslado a otra sucursal
+982,504,2025-10-27,Salida,8,Traslado a otra sucursal
+983,457,2025-08-24,Salida,8,Producto dañado
+984,114,2024-08-23,Salida,4,Producto dañado
+985,56,2024-10-27,Entrada,168,Traslado entre sucursales
+986,487,2024-10-27,Entrada,21,Traslado entre sucursales
+987,604,2024-06-10,Ajuste,5,Producto vencido/obsoleto
+988,231,2025-01-22,Entrada,123,Traslado entre sucursales
+989,599,2025-11-21,Salida,2,Venta
+990,20,2024-04-24,Entrada,133,Devolución de cliente
+991,146,2025-03-18,Entrada,128,Compra proveedor
+992,431,2025-12-17,Salida,3,Muestra comercial
+993,626,2024-06-04,Salida,5,Traslado a otra sucursal
+994,171,2024-06-04,Ajuste,2,Conteo físico
+995,758,2025-09-25,Entrada,37,Traslado entre sucursales
+996,330,2024-11-20,Entrada,197,Compra proveedor
+997,718,2025-09-27,Entrada,160,Traslado entre sucursales
+998,228,2025-02-06,Entrada,66,Devolución de cliente
+999,734,2025-03-13,Salida,8,Producto dañado
+1000,743,2024-06-03,Ajuste,16,Corrección de inventario
+1001,98,2025-02-14,Entrada,194,Traslado entre sucursales
+1002,774,2025-01-17,Salida,3,Muestra comercial
+1003,185,2024-01-08,Entrada,89,Traslado entre sucursales
+1004,796,2024-01-01,Entrada,19,Traslado entre sucursales
+1005,469,2024-10-23,Entrada,102,Compra proveedor
+1006,690,2025-11-20,Entrada,33,Devolución de cliente
+1007,582,2025-12-06,Salida,9,Traslado a otra sucursal
+1008,435,2025-05-21,Entrada,155,Reposición de stock
+1009,696,2025-05-05,Entrada,63,Reposición de stock
+1010,698,2025-11-20,Salida,1,Venta
+1011,391,2024-12-25,Salida,10,Venta
+1012,774,2025-07-12,Entrada,142,Compra proveedor
+1013,586,2024-08-07,Ajuste,13,Conteo físico
+1014,772,2025-04-04,Entrada,40,Devolución de cliente
+1015,558,2024-06-08,Salida,4,Muestra comercial
+1016,474,2025-06-10,Ajuste,16,Diferencia en auditoría
+1017,440,2025-05-13,Salida,3,Traslado a otra sucursal
+1018,790,2024-02-12,Entrada,162,Traslado entre sucursales
+1019,308,2025-09-05,Salida,6,Muestra comercial
+1020,600,2025-10-20,Salida,2,Producto dañado
+1021,236,2024-01-05,Entrada,15,Compra proveedor
+1022,662,2024-08-16,Salida,7,Muestra comercial
+1023,400,2025-02-03,Entrada,72,Traslado entre sucursales
+1024,430,2024-10-22,Entrada,97,Devolución de cliente
+1025,422,2024-07-28,Salida,1,Traslado a otra sucursal
+1026,82,2025-07-26,Salida,9,Producto dañado
+1027,783,2024-05-18,Salida,7,Muestra comercial
+1028,225,2024-09-13,Entrada,145,Reposición de stock
+1029,750,2025-10-17,Salida,1,Producto dañado
+1030,721,2025-08-12,Entrada,22,Compra proveedor
+1031,333,2024-09-25,Salida,6,Traslado a otra sucursal
+1032,768,2025-10-21,Entrada,18,Compra proveedor
+1033,565,2025-12-14,Salida,9,Muestra comercial
+1034,9,2025-06-23,Ajuste,20,Diferencia en auditoría
+1035,361,2024-08-30,Salida,10,Traslado a otra sucursal
+1036,10,2025-09-30,Entrada,156,Devolución de cliente
+1037,492,2024-08-07,Entrada,74,Compra proveedor
+1038,39,2024-04-19,Entrada,91,Devolución de cliente
+1039,464,2024-10-22,Entrada,29,Traslado entre sucursales
+1040,363,2025-11-16,Salida,5,Venta
+1041,435,2025-08-16,Salida,2,Traslado a otra sucursal
+1042,50,2024-11-23,Salida,2,Producto dañado
+1043,160,2025-12-08,Entrada,113,Reposición de stock
+1044,731,2024-02-27,Ajuste,12,Conteo físico
+1045,772,2025-10-14,Salida,6,Muestra comercial
+1046,408,2024-11-04,Salida,10,Producto dañado
+1047,353,2024-12-10,Entrada,112,Devolución de cliente
+1048,85,2024-12-29,Ajuste,7,Diferencia en auditoría
+1049,226,2024-10-17,Entrada,162,Devolución de cliente
+1050,119,2025-09-29,Salida,4,Traslado a otra sucursal
+1051,662,2025-10-11,Salida,4,Muestra comercial
+1052,237,2025-07-27,Entrada,94,Traslado entre sucursales
+1053,404,2025-04-13,Salida,8,Muestra comercial
+1054,94,2025-02-07,Salida,5,Muestra comercial
+1055,594,2024-02-23,Entrada,172,Reposición de stock
+1056,739,2025-05-25,Salida,5,Muestra comercial
+1057,257,2024-10-18,Salida,1,Traslado a otra sucursal
+1058,506,2025-01-05,Ajuste,18,Conteo físico
+1059,121,2025-09-02,Entrada,185,Reposición de stock
+1060,770,2025-04-12,Entrada,36,Traslado entre sucursales
+1061,211,2025-07-03,Salida,2,Muestra comercial
+1062,723,2024-04-14,Salida,5,Muestra comercial
+1063,517,2024-02-23,Salida,10,Venta
+1064,236,2024-07-12,Entrada,50,Compra proveedor
+1065,128,2025-07-23,Salida,2,Traslado a otra sucursal
+1066,638,2025-08-29,Entrada,95,Devolución de cliente
+1067,703,2025-10-13,Entrada,17,Compra proveedor
+1068,140,2024-06-27,Ajuste,11,Diferencia en auditoría
+1069,349,2025-04-20,Salida,9,Producto dañado
+1070,375,2024-04-03,Salida,1,Traslado a otra sucursal
+1071,411,2024-06-19,Ajuste,6,Conteo físico
+1072,753,2025-06-10,Salida,6,Venta
+1073,87,2024-05-23,Salida,8,Traslado a otra sucursal
+1074,615,2025-07-20,Ajuste,11,Diferencia en auditoría
+1075,34,2025-06-08,Salida,3,Muestra comercial
+1076,52,2024-09-18,Entrada,75,Devolución de cliente
+1077,527,2024-05-23,Ajuste,6,Producto vencido/obsoleto
+1078,215,2024-12-26,Salida,4,Venta
+1079,445,2025-06-14,Entrada,103,Traslado entre sucursales
+1080,298,2024-05-26,Entrada,138,Traslado entre sucursales
+1081,611,2024-02-18,Salida,5,Venta
+1082,704,2024-05-16,Salida,5,Producto dañado
+1083,789,2025-03-15,Entrada,92,Traslado entre sucursales
+1084,109,2025-01-20,Salida,2,Muestra comercial
+1085,671,2024-01-24,Salida,7,Traslado a otra sucursal
+1086,199,2024-04-07,Entrada,88,Compra proveedor
+1087,323,2025-01-25,Entrada,197,Reposición de stock
+1088,22,2024-07-05,Ajuste,20,Producto vencido/obsoleto
+1089,618,2024-11-28,Entrada,180,Traslado entre sucursales
+1090,704,2024-02-09,Salida,3,Producto dañado
+1091,129,2025-06-25,Ajuste,4,Producto vencido/obsoleto
+1092,173,2025-10-18,Entrada,168,Traslado entre sucursales
+1093,418,2025-05-12,Salida,8,Venta
+1094,312,2025-05-04,Salida,5,Traslado a otra sucursal
+1095,768,2025-07-11,Salida,1,Traslado a otra sucursal
+1096,33,2025-10-28,Entrada,48,Traslado entre sucursales
+1097,163,2025-01-31,Entrada,112,Compra proveedor
+1098,458,2025-06-01,Salida,10,Venta
+1099,579,2024-02-16,Salida,6,Traslado a otra sucursal
+1100,773,2025-04-12,Salida,3,Traslado a otra sucursal
+1101,683,2025-11-03,Salida,5,Muestra comercial
+1102,701,2025-07-02,Ajuste,3,Producto vencido/obsoleto
+1103,419,2025-12-21,Entrada,29,Devolución de cliente
+1104,673,2025-04-12,Ajuste,18,Diferencia en auditoría
+1105,558,2024-04-11,Entrada,20,Devolución de cliente
+1106,447,2024-04-19,Entrada,145,Devolución de cliente
+1107,204,2025-10-04,Salida,7,Traslado a otra sucursal
+1108,635,2025-05-03,Entrada,168,Devolución de cliente
+1109,343,2025-02-02,Salida,1,Muestra comercial
+1110,538,2025-06-09,Ajuste,1,Conteo físico
+1111,635,2025-04-10,Salida,7,Muestra comercial
+1112,505,2024-02-23,Entrada,111,Traslado entre sucursales
+1113,202,2024-11-21,Entrada,76,Traslado entre sucursales
+1114,356,2025-06-17,Ajuste,17,Corrección de inventario
+1115,330,2025-08-04,Salida,10,Traslado a otra sucursal
+1116,719,2025-11-19,Salida,7,Venta
+1117,625,2024-02-26,Salida,5,Muestra comercial
+1118,192,2025-07-22,Salida,5,Venta
+1119,14,2024-12-09,Entrada,116,Traslado entre sucursales
+1120,341,2025-12-12,Entrada,128,Traslado entre sucursales
+1121,179,2024-05-28,Entrada,167,Compra proveedor
+1122,377,2025-12-08,Salida,2,Venta
+1123,613,2025-03-12,Entrada,158,Reposición de stock
+1124,426,2024-06-04,Salida,10,Traslado a otra sucursal
+1125,764,2025-09-09,Ajuste,8,Corrección de inventario
+1126,273,2024-11-17,Salida,10,Venta
+1127,754,2025-10-19,Salida,6,Producto dañado
+1128,470,2024-12-03,Salida,7,Traslado a otra sucursal
+1129,187,2024-08-09,Entrada,47,Devolución de cliente
+1130,181,2024-10-24,Entrada,155,Reposición de stock
+1131,406,2025-10-18,Salida,9,Venta
+1132,485,2024-12-03,Ajuste,6,Producto vencido/obsoleto
+1133,139,2024-04-20,Salida,7,Producto dañado
+1134,689,2025-05-11,Salida,2,Traslado a otra sucursal
+1135,409,2024-12-26,Ajuste,13,Producto vencido/obsoleto
+1136,792,2024-12-02,Ajuste,18,Producto vencido/obsoleto
+1137,102,2024-09-15,Salida,2,Venta
+1138,417,2025-11-21,Entrada,113,Reposición de stock
+1139,454,2024-04-11,Salida,10,Venta
+1140,20,2024-12-10,Ajuste,7,Corrección de inventario
+1141,66,2025-02-18,Entrada,13,Devolución de cliente
+1142,439,2024-08-08,Salida,1,Traslado a otra sucursal
+1143,12,2025-08-11,Entrada,75,Reposición de stock
+1144,414,2024-06-25,Entrada,191,Devolución de cliente
+1145,292,2025-10-26,Entrada,138,Devolución de cliente
+1146,779,2025-03-15,Entrada,191,Devolución de cliente
+1147,58,2024-06-30,Entrada,155,Compra proveedor
+1148,238,2025-01-31,Salida,1,Producto dañado
+1149,123,2024-07-06,Salida,3,Venta
+1150,273,2024-08-27,Entrada,151,Devolución de cliente
+1151,420,2025-10-02,Entrada,200,Traslado entre sucursales
+1152,62,2024-11-18,Entrada,163,Traslado entre sucursales
+1153,399,2025-04-20,Entrada,186,Devolución de cliente
+1154,312,2024-06-13,Entrada,181,Reposición de stock
+1155,520,2025-04-09,Entrada,173,Traslado entre sucursales
+1156,487,2025-12-11,Entrada,136,Devolución de cliente
+1157,431,2024-10-02,Salida,7,Muestra comercial
+1158,438,2025-02-27,Salida,6,Traslado a otra sucursal
+1159,263,2025-11-17,Salida,8,Muestra comercial
+1160,455,2024-02-01,Ajuste,1,Diferencia en auditoría
+1161,471,2024-11-13,Salida,9,Venta
+1162,314,2025-02-14,Salida,8,Venta
+1163,41,2024-06-06,Entrada,158,Traslado entre sucursales
+1164,531,2025-01-25,Salida,5,Muestra comercial
+1165,176,2025-03-27,Salida,2,Venta
+1166,434,2024-04-18,Ajuste,1,Producto vencido/obsoleto
+1167,4,2025-01-08,Salida,6,Venta
+1168,106,2025-08-10,Entrada,75,Traslado entre sucursales
+1169,69,2025-03-31,Entrada,198,Compra proveedor
+1170,492,2024-09-30,Entrada,101,Devolución de cliente
+1171,290,2025-03-20,Salida,2,Venta
+1172,664,2024-05-10,Salida,2,Traslado a otra sucursal
+1173,428,2025-11-15,Salida,5,Venta
+1174,543,2024-12-19,Entrada,151,Reposición de stock
+1175,401,2025-01-11,Entrada,168,Reposición de stock
+1176,343,2024-06-21,Salida,6,Producto dañado
+1177,691,2025-11-27,Salida,7,Muestra comercial
+1178,277,2025-01-10,Salida,3,Muestra comercial
+1179,350,2024-07-24,Salida,4,Traslado a otra sucursal
+1180,581,2025-02-08,Salida,3,Venta
+1181,662,2025-10-17,Salida,1,Producto dañado
+1182,445,2024-08-26,Salida,6,Producto dañado
+1183,517,2025-11-26,Entrada,188,Compra proveedor
+1184,394,2024-12-02,Ajuste,14,Diferencia en auditoría
+1185,613,2025-05-27,Entrada,104,Devolución de cliente
+1186,355,2025-08-31,Salida,7,Traslado a otra sucursal
+1187,22,2025-04-29,Entrada,74,Reposición de stock
+1188,623,2025-09-24,Entrada,165,Reposición de stock
+1189,421,2024-01-03,Entrada,13,Reposición de stock
+1190,489,2025-04-24,Salida,5,Venta
+1191,106,2024-01-01,Salida,1,Muestra comercial
+1192,330,2025-12-20,Salida,10,Traslado a otra sucursal
+1193,762,2025-10-23,Entrada,70,Reposición de stock
+1194,96,2024-10-29,Salida,7,Producto dañado
+1195,239,2024-08-06,Salida,5,Producto dañado
+1196,763,2025-04-25,Salida,1,Venta
+1197,475,2025-10-09,Ajuste,17,Diferencia en auditoría
+1198,110,2024-03-25,Salida,6,Producto dañado
+1199,508,2025-04-27,Salida,2,Muestra comercial
+1200,670,2024-01-31,Entrada,113,Reposición de stock
+1201,785,2025-04-18,Entrada,139,Reposición de stock
+1202,700,2025-07-01,Entrada,48,Compra proveedor
+1203,721,2024-07-04,Entrada,163,Compra proveedor
+1204,537,2024-10-23,Salida,2,Venta
+1205,766,2024-12-05,Salida,3,Muestra comercial
+1206,172,2025-12-17,Entrada,68,Reposición de stock
+1207,449,2024-04-29,Salida,3,Producto dañado
+1208,341,2024-08-14,Entrada,41,Reposición de stock
+1209,247,2024-07-14,Entrada,61,Compra proveedor
+1210,138,2024-08-14,Entrada,159,Compra proveedor
+1211,144,2024-09-30,Salida,1,Muestra comercial
+1212,671,2025-06-03,Entrada,154,Compra proveedor
+1213,465,2025-12-21,Salida,9,Venta
+1214,467,2024-12-18,Ajuste,13,Conteo físico
+1215,144,2024-11-04,Ajuste,14,Corrección de inventario
+1216,663,2025-05-19,Entrada,109,Traslado entre sucursales
+1217,257,2025-03-20,Ajuste,7,Corrección de inventario
+1218,291,2025-03-06,Salida,4,Producto dañado
+1219,743,2024-10-07,Salida,6,Muestra comercial
+1220,253,2024-11-25,Salida,6,Producto dañado
+1221,163,2025-03-25,Entrada,122,Devolución de cliente
+1222,700,2024-09-24,Salida,4,Venta
+1223,404,2025-02-26,Salida,6,Traslado a otra sucursal
+1224,552,2025-04-24,Salida,2,Muestra comercial
+1225,273,2024-08-22,Entrada,139,Reposición de stock
+1226,530,2025-03-30,Salida,3,Producto dañado
+1227,460,2024-04-19,Entrada,148,Compra proveedor
+1228,664,2024-12-08,Entrada,101,Reposición de stock
+1229,342,2025-07-24,Entrada,199,Reposición de stock
+1230,198,2024-05-31,Entrada,124,Traslado entre sucursales
+1231,725,2024-01-15,Salida,8,Muestra comercial
+1232,204,2025-12-22,Entrada,151,Devolución de cliente
+1233,581,2025-07-01,Entrada,124,Reposición de stock
+1234,325,2024-07-11,Entrada,97,Reposición de stock
+1235,374,2024-08-10,Salida,9,Venta
+1236,767,2025-01-06,Salida,9,Muestra comercial
+1237,595,2024-08-24,Entrada,155,Compra proveedor
+1238,744,2025-08-02,Salida,4,Traslado a otra sucursal
+1239,261,2025-11-03,Salida,5,Producto dañado
+1240,610,2025-06-26,Salida,1,Venta
+1241,249,2025-06-20,Salida,5,Producto dañado
+1242,568,2024-07-06,Salida,3,Muestra comercial
+1243,72,2024-06-29,Entrada,172,Traslado entre sucursales
+1244,413,2024-03-31,Salida,6,Traslado a otra sucursal
+1245,150,2025-03-13,Salida,5,Traslado a otra sucursal
+1246,788,2025-11-13,Entrada,13,Devolución de cliente
+1247,514,2025-11-15,Salida,4,Traslado a otra sucursal
+1248,630,2025-01-22,Entrada,152,Devolución de cliente
+1249,733,2024-11-26,Entrada,68,Traslado entre sucursales
+1250,504,2024-07-14,Salida,3,Muestra comercial
+1251,453,2024-05-27,Entrada,17,Compra proveedor
+1252,442,2025-09-18,Entrada,191,Reposición de stock
+1253,265,2025-02-13,Salida,4,Traslado a otra sucursal
+1254,17,2024-04-14,Salida,6,Producto dañado
+1255,438,2025-01-13,Entrada,66,Devolución de cliente
+1256,73,2025-02-25,Salida,5,Muestra comercial
+1257,237,2024-07-16,Entrada,43,Reposición de stock
+1258,667,2025-07-12,Salida,4,Venta
+1259,226,2025-07-03,Salida,7,Venta
+1260,143,2025-10-15,Salida,3,Traslado a otra sucursal
+1261,780,2025-07-11,Entrada,126,Compra proveedor
+1262,210,2025-09-02,Entrada,188,Reposición de stock
+1263,380,2024-01-31,Salida,6,Producto dañado
+1264,422,2024-06-15,Entrada,116,Reposición de stock
+1265,662,2024-06-05,Entrada,49,Traslado entre sucursales
+1266,235,2024-09-08,Entrada,153,Reposición de stock
+1267,797,2024-05-08,Entrada,193,Reposición de stock
+1268,432,2025-03-23,Entrada,53,Traslado entre sucursales
+1269,654,2024-08-09,Entrada,25,Devolución de cliente
+1270,433,2024-07-02,Salida,5,Producto dañado
+1271,251,2025-05-27,Entrada,146,Compra proveedor
+1272,217,2025-03-02,Entrada,172,Traslado entre sucursales
+1273,177,2024-02-27,Salida,6,Muestra comercial
+1274,134,2025-05-15,Salida,5,Venta
+1275,86,2025-12-27,Salida,7,Producto dañado
+1276,473,2024-09-10,Salida,7,Venta
+1277,361,2025-09-16,Salida,4,Muestra comercial
+1278,595,2024-02-10,Entrada,164,Compra proveedor
+1279,555,2024-02-14,Ajuste,13,Diferencia en auditoría
+1280,152,2025-07-13,Salida,5,Producto dañado
+1281,623,2025-02-23,Entrada,158,Reposición de stock
+1282,269,2025-07-17,Entrada,51,Reposición de stock
+1283,113,2025-12-31,Ajuste,14,Producto vencido/obsoleto
+1284,381,2025-12-08,Entrada,119,Reposición de stock
+1285,792,2024-08-27,Salida,7,Traslado a otra sucursal
+1286,700,2024-07-06,Salida,3,Producto dañado
+1287,534,2025-07-06,Salida,4,Muestra comercial
+1288,58,2025-03-04,Entrada,162,Reposición de stock
+1289,617,2024-07-02,Ajuste,7,Conteo físico
+1290,354,2025-07-04,Salida,7,Muestra comercial
+1291,367,2024-10-19,Salida,10,Producto dañado
+1292,292,2025-05-17,Entrada,86,Compra proveedor
+1293,198,2025-03-28,Salida,1,Producto dañado
+1294,654,2024-04-30,Entrada,145,Traslado entre sucursales
+1295,751,2025-07-17,Entrada,199,Compra proveedor
+1296,116,2024-02-16,Entrada,80,Compra proveedor
+1297,729,2024-08-16,Salida,8,Venta
+1298,317,2025-04-24,Entrada,11,Compra proveedor
+1299,617,2025-11-24,Ajuste,17,Producto vencido/obsoleto
+1300,360,2024-09-12,Ajuste,4,Producto vencido/obsoleto
+1301,137,2025-09-23,Ajuste,7,Diferencia en auditoría
+1302,472,2025-08-10,Entrada,120,Traslado entre sucursales
+1303,459,2024-10-03,Entrada,80,Traslado entre sucursales
+1304,268,2024-06-28,Salida,2,Muestra comercial
+1305,310,2024-11-23,Entrada,40,Reposición de stock
+1306,296,2024-01-21,Entrada,122,Traslado entre sucursales
+1307,693,2024-10-26,Salida,5,Producto dañado
+1308,725,2024-04-19,Entrada,36,Traslado entre sucursales
+1309,722,2024-07-15,Ajuste,13,Producto vencido/obsoleto
+1310,221,2025-01-12,Salida,1,Venta
+1311,188,2025-07-24,Entrada,59,Reposición de stock
+1312,334,2025-09-25,Entrada,130,Devolución de cliente
+1313,504,2025-04-13,Ajuste,2,Diferencia en auditoría
+1314,377,2024-03-25,Salida,7,Venta
+1315,173,2025-11-30,Entrada,125,Devolución de cliente
+1316,344,2024-12-06,Entrada,109,Compra proveedor
+1317,792,2025-06-15,Entrada,78,Traslado entre sucursales
+1318,547,2025-09-13,Entrada,47,Reposición de stock
+1319,347,2025-10-27,Entrada,102,Reposición de stock
+1320,692,2024-07-14,Entrada,193,Reposición de stock
+1321,361,2025-01-14,Entrada,35,Compra proveedor
+1322,567,2024-02-10,Entrada,82,Traslado entre sucursales
+1323,305,2024-03-06,Entrada,116,Reposición de stock
+1324,539,2025-07-16,Salida,1,Muestra comercial
+1325,676,2025-06-19,Salida,10,Producto dañado
+1326,98,2024-07-08,Salida,3,Venta
+1327,71,2024-10-18,Entrada,149,Reposición de stock
+1328,89,2025-08-09,Ajuste,8,Diferencia en auditoría
+1329,298,2025-09-30,Entrada,88,Compra proveedor
+1330,562,2024-09-28,Entrada,109,Traslado entre sucursales
+1331,230,2025-01-08,Entrada,124,Compra proveedor
+1332,773,2024-09-14,Salida,7,Venta
+1333,421,2024-11-07,Entrada,184,Devolución de cliente
+1334,495,2024-11-22,Salida,4,Traslado a otra sucursal
+1335,336,2024-01-06,Salida,10,Traslado a otra sucursal
+1336,163,2024-04-11,Entrada,98,Reposición de stock
+1337,410,2025-07-24,Entrada,24,Devolución de cliente
+1338,632,2025-08-26,Entrada,138,Compra proveedor
+1339,293,2024-10-21,Entrada,160,Traslado entre sucursales
+1340,754,2025-11-25,Salida,4,Producto dañado
+1341,94,2025-10-03,Entrada,172,Compra proveedor
+1342,600,2025-05-05,Salida,8,Muestra comercial
+1343,680,2025-09-06,Entrada,88,Traslado entre sucursales
+1344,507,2025-10-28,Ajuste,8,Producto vencido/obsoleto
+1345,304,2024-07-01,Salida,7,Traslado a otra sucursal
+1346,443,2024-05-09,Entrada,133,Compra proveedor
+1347,105,2025-11-05,Salida,4,Traslado a otra sucursal
+1348,59,2024-02-09,Entrada,19,Reposición de stock
+1349,22,2025-08-26,Entrada,21,Devolución de cliente
+1350,55,2025-06-03,Salida,6,Muestra comercial
+1351,715,2024-09-22,Entrada,144,Reposición de stock
+1352,343,2024-03-28,Entrada,67,Reposición de stock
+1353,790,2024-01-06,Entrada,77,Reposición de stock
+1354,171,2024-01-25,Entrada,109,Devolución de cliente
+1355,89,2025-02-16,Entrada,111,Reposición de stock
+1356,352,2024-01-26,Entrada,52,Reposición de stock
+1357,271,2024-07-07,Entrada,156,Compra proveedor
+1358,184,2024-11-14,Entrada,190,Reposición de stock
+1359,635,2024-08-10,Entrada,50,Traslado entre sucursales
+1360,684,2025-10-23,Entrada,130,Devolución de cliente
+1361,11,2025-10-06,Entrada,194,Compra proveedor
+1362,320,2025-01-27,Salida,4,Producto dañado
+1363,398,2024-12-25,Ajuste,14,Diferencia en auditoría
+1364,519,2025-11-07,Salida,7,Venta
+1365,285,2024-10-17,Salida,3,Traslado a otra sucursal
+1366,263,2024-07-17,Entrada,176,Traslado entre sucursales
+1367,526,2024-11-23,Salida,8,Muestra comercial
+1368,533,2025-06-08,Entrada,71,Traslado entre sucursales
+1369,136,2024-12-31,Salida,5,Traslado a otra sucursal
+1370,168,2024-08-31,Entrada,159,Compra proveedor
+1371,185,2025-06-15,Entrada,134,Compra proveedor
+1372,65,2024-08-21,Ajuste,19,Conteo físico
+1373,521,2024-09-06,Entrada,171,Reposición de stock
+1374,283,2025-08-07,Entrada,98,Devolución de cliente
+1375,88,2024-02-08,Salida,5,Muestra comercial
+1376,530,2024-05-09,Salida,6,Traslado a otra sucursal
+1377,41,2024-07-25,Ajuste,15,Conteo físico
+1378,601,2024-04-01,Salida,6,Producto dañado
+1379,248,2025-01-20,Entrada,199,Traslado entre sucursales
+1380,306,2025-03-11,Salida,3,Venta
+1381,785,2024-11-02,Salida,8,Muestra comercial
+1382,453,2025-08-27,Ajuste,10,Corrección de inventario
+1383,314,2025-06-13,Salida,5,Muestra comercial
+1384,405,2025-12-23,Salida,4,Venta
+1385,766,2024-10-14,Entrada,81,Compra proveedor
+1386,800,2024-12-05,Entrada,110,Devolución de cliente
+1387,55,2025-06-25,Salida,1,Producto dañado
+1388,97,2024-11-16,Salida,7,Traslado a otra sucursal
+1389,256,2024-05-14,Salida,10,Muestra comercial
+1390,364,2024-07-31,Ajuste,20,Conteo físico
+1391,350,2024-05-04,Salida,3,Venta
+1392,194,2025-04-19,Salida,4,Muestra comercial
+1393,243,2025-03-03,Salida,7,Muestra comercial
+1394,598,2024-08-04,Salida,5,Traslado a otra sucursal
+1395,320,2024-08-24,Entrada,108,Reposición de stock
+1396,259,2025-02-12,Entrada,113,Reposición de stock
+1397,739,2024-12-13,Salida,7,Traslado a otra sucursal
+1398,231,2025-11-20,Entrada,130,Devolución de cliente
+1399,656,2025-06-06,Entrada,131,Compra proveedor
+1400,178,2025-07-18,Salida,6,Producto dañado
+1401,682,2024-03-30,Salida,7,Producto dañado
+1402,392,2025-09-20,Entrada,64,Traslado entre sucursales
+1403,645,2024-05-21,Salida,7,Muestra comercial
+1404,375,2025-03-10,Salida,9,Producto dañado
+1405,686,2025-01-10,Ajuste,15,Diferencia en auditoría
+1406,626,2025-03-23,Entrada,124,Compra proveedor
+1407,13,2025-04-26,Entrada,155,Devolución de cliente
+1408,81,2025-06-21,Salida,9,Muestra comercial
+1409,489,2025-11-16,Salida,4,Traslado a otra sucursal
+1410,9,2025-08-05,Ajuste,18,Diferencia en auditoría
+1411,370,2025-02-12,Salida,4,Traslado a otra sucursal
+1412,68,2024-12-15,Salida,5,Muestra comercial
+1413,579,2025-03-22,Salida,3,Producto dañado
+1414,329,2025-01-21,Ajuste,9,Producto vencido/obsoleto
+1415,113,2024-11-29,Salida,2,Traslado a otra sucursal
+1416,403,2025-12-23,Entrada,139,Compra proveedor
+1417,101,2024-11-06,Salida,8,Traslado a otra sucursal
+1418,142,2025-12-23,Entrada,32,Reposición de stock
+1419,534,2024-11-16,Salida,6,Producto dañado
+1420,359,2024-10-06,Ajuste,10,Producto vencido/obsoleto
+1421,389,2025-10-09,Salida,10,Traslado a otra sucursal
+1422,534,2025-09-27,Salida,6,Traslado a otra sucursal
+1423,658,2024-02-01,Entrada,173,Devolución de cliente
+1424,558,2025-11-22,Ajuste,2,Conteo físico
+1425,360,2024-12-17,Entrada,161,Compra proveedor
+1426,152,2024-03-30,Entrada,122,Compra proveedor
+1427,652,2025-03-24,Salida,4,Venta
+1428,252,2025-08-13,Salida,9,Muestra comercial
+1429,19,2024-11-10,Entrada,80,Devolución de cliente
+1430,297,2024-10-27,Salida,8,Muestra comercial
+1431,311,2025-11-13,Salida,2,Producto dañado
+1432,746,2025-10-11,Entrada,20,Devolución de cliente
+1433,292,2024-02-26,Entrada,72,Compra proveedor
+1434,293,2025-08-05,Salida,5,Producto dañado
+1435,528,2024-11-27,Entrada,158,Reposición de stock
+1436,112,2025-10-01,Ajuste,7,Diferencia en auditoría
+1437,568,2024-09-24,Entrada,123,Compra proveedor
+1438,271,2025-10-18,Entrada,41,Compra proveedor
+1439,467,2025-07-16,Entrada,141,Traslado entre sucursales
+1440,521,2025-02-27,Ajuste,2,Diferencia en auditoría
+1441,331,2024-05-08,Salida,5,Venta
+1442,509,2024-11-13,Entrada,177,Compra proveedor
+1443,101,2024-03-29,Ajuste,3,Diferencia en auditoría
+1444,686,2024-02-25,Entrada,194,Devolución de cliente
+1445,349,2025-03-20,Salida,7,Traslado a otra sucursal
+1446,92,2025-06-02,Ajuste,11,Corrección de inventario
+1447,179,2025-02-23,Entrada,20,Compra proveedor
+1448,785,2024-03-29,Entrada,154,Compra proveedor
+1449,274,2024-12-23,Entrada,41,Traslado entre sucursales
+1450,479,2024-03-05,Ajuste,4,Corrección de inventario
+1451,415,2025-09-02,Salida,4,Producto dañado
+1452,167,2025-08-10,Salida,7,Producto dañado
+1453,54,2024-06-01,Salida,4,Traslado a otra sucursal
+1454,261,2024-12-17,Entrada,45,Traslado entre sucursales
+1455,25,2024-05-30,Entrada,177,Traslado entre sucursales
+1456,299,2024-05-12,Salida,10,Traslado a otra sucursal
+1457,253,2024-08-23,Salida,7,Traslado a otra sucursal
+1458,146,2025-03-13,Salida,10,Traslado a otra sucursal
+1459,221,2025-03-13,Entrada,105,Traslado entre sucursales
+1460,220,2024-09-20,Salida,4,Venta
+1461,610,2024-09-14,Entrada,57,Compra proveedor
+1462,123,2025-10-19,Entrada,62,Devolución de cliente
+1463,591,2025-05-26,Salida,3,Venta
+1464,377,2025-01-14,Salida,2,Venta
+1465,281,2024-05-15,Ajuste,17,Corrección de inventario
+1466,300,2025-05-15,Salida,9,Muestra comercial
+1467,548,2024-11-08,Ajuste,5,Corrección de inventario
+1468,755,2025-04-21,Salida,2,Producto dañado
+1469,761,2025-04-19,Salida,5,Producto dañado
+1470,554,2025-10-26,Entrada,174,Compra proveedor
+1471,65,2025-02-28,Salida,7,Muestra comercial
+1472,226,2024-05-20,Entrada,73,Reposición de stock
+1473,691,2024-06-14,Salida,5,Venta
+1474,351,2025-09-26,Entrada,53,Reposición de stock
+1475,282,2025-12-13,Salida,2,Producto dañado
+1476,223,2025-03-16,Salida,9,Venta
+1477,651,2025-06-21,Entrada,129,Traslado entre sucursales
+1478,111,2024-12-09,Entrada,139,Devolución de cliente
+1479,87,2024-01-04,Salida,7,Traslado a otra sucursal
+1480,617,2025-10-08,Salida,2,Traslado a otra sucursal
+1481,10,2024-11-12,Salida,3,Producto dañado
+1482,286,2025-10-11,Entrada,59,Devolución de cliente
+1483,223,2025-11-21,Entrada,125,Devolución de cliente
+1484,597,2024-03-08,Entrada,98,Compra proveedor
+1485,90,2025-12-21,Salida,8,Producto dañado
+1486,188,2025-05-10,Salida,6,Venta
+1487,56,2024-03-01,Salida,5,Muestra comercial
+1488,785,2024-06-06,Salida,4,Venta
+1489,757,2025-05-22,Salida,3,Traslado a otra sucursal
+1490,272,2025-11-17,Salida,10,Producto dañado
+1491,176,2024-01-01,Salida,2,Muestra comercial
+1492,519,2024-10-09,Salida,3,Traslado a otra sucursal
+1493,62,2025-09-25,Salida,1,Producto dañado
+1494,628,2025-10-23,Ajuste,2,Conteo físico
+1495,41,2024-01-25,Entrada,151,Reposición de stock
+1496,43,2024-08-03,Ajuste,8,Producto vencido/obsoleto
+1497,774,2024-09-28,Entrada,61,Devolución de cliente
+1498,454,2025-04-06,Entrada,40,Reposición de stock
+1499,366,2024-07-16,Salida,7,Traslado a otra sucursal
+1500,424,2025-08-29,Entrada,116,Compra proveedor
+1501,388,2025-04-06,Entrada,66,Traslado entre sucursales
+1502,431,2024-01-13,Salida,4,Traslado a otra sucursal
+1503,581,2025-06-07,Salida,1,Traslado a otra sucursal
+1504,744,2024-07-28,Salida,8,Traslado a otra sucursal
+1505,780,2024-10-20,Salida,9,Producto dañado
+1506,249,2024-06-14,Salida,9,Traslado a otra sucursal
+1507,308,2024-07-03,Salida,6,Venta
+1508,716,2024-03-01,Salida,9,Traslado a otra sucursal
+1509,780,2025-06-14,Entrada,76,Traslado entre sucursales
+1510,44,2025-01-10,Entrada,71,Devolución de cliente
+1511,491,2025-02-13,Entrada,97,Traslado entre sucursales
+1512,129,2025-08-18,Salida,4,Muestra comercial
+1513,69,2024-08-25,Salida,5,Producto dañado
+1514,566,2025-11-16,Salida,4,Producto dañado
+1515,762,2025-11-05,Entrada,200,Reposición de stock
+1516,390,2025-12-12,Entrada,179,Compra proveedor
+1517,358,2024-07-08,Entrada,176,Reposición de stock
+1518,61,2024-09-01,Entrada,54,Devolución de cliente
+1519,766,2025-07-26,Entrada,74,Traslado entre sucursales
+1520,361,2025-11-07,Salida,8,Producto dañado
+1521,144,2025-06-29,Ajuste,17,Corrección de inventario
+1522,260,2024-03-29,Entrada,199,Compra proveedor
+1523,325,2025-07-27,Entrada,144,Compra proveedor
+1524,742,2024-12-15,Entrada,17,Reposición de stock
+1525,403,2025-12-06,Salida,4,Muestra comercial
+1526,103,2025-10-18,Salida,1,Traslado a otra sucursal
+1527,341,2025-09-03,Ajuste,2,Conteo físico
+1528,732,2024-08-06,Entrada,136,Compra proveedor
+1529,199,2025-11-01,Entrada,159,Devolución de cliente
+1530,557,2025-04-07,Entrada,151,Devolución de cliente
+1531,197,2025-01-08,Salida,3,Producto dañado
+1532,74,2024-12-10,Salida,3,Producto dañado
+1533,22,2024-05-20,Entrada,118,Compra proveedor
+1534,144,2025-12-23,Entrada,64,Compra proveedor
+1535,240,2025-05-23,Salida,6,Producto dañado
+1536,691,2024-12-07,Entrada,123,Traslado entre sucursales
+1537,701,2024-01-05,Entrada,179,Reposición de stock
+1538,50,2024-04-18,Entrada,40,Compra proveedor
+1539,697,2024-03-14,Salida,5,Traslado a otra sucursal
+1540,333,2024-08-29,Salida,9,Venta
+1541,575,2025-02-05,Salida,10,Muestra comercial
+1542,315,2024-10-02,Salida,5,Traslado a otra sucursal
+1543,604,2024-01-11,Entrada,26,Traslado entre sucursales
+1544,226,2024-07-28,Salida,8,Venta
+1545,596,2025-01-01,Salida,2,Venta
+1546,25,2024-02-09,Salida,6,Producto dañado
+1547,81,2025-12-18,Entrada,33,Traslado entre sucursales
+1548,40,2024-06-02,Entrada,192,Devolución de cliente
+1549,40,2024-07-01,Entrada,144,Traslado entre sucursales
+1550,273,2024-02-19,Salida,9,Muestra comercial
+1551,271,2025-11-04,Entrada,117,Devolución de cliente
+1552,142,2025-07-14,Salida,10,Producto dañado
+1553,46,2024-10-17,Salida,5,Producto dañado
+1554,496,2025-06-11,Salida,6,Traslado a otra sucursal
+1555,515,2024-12-27,Salida,8,Traslado a otra sucursal
+1556,250,2024-04-08,Salida,7,Producto dañado
+1557,391,2025-04-10,Ajuste,6,Corrección de inventario
+1558,681,2024-05-06,Entrada,113,Devolución de cliente
+1559,761,2024-01-30,Salida,7,Muestra comercial
+1560,208,2024-11-04,Salida,5,Producto dañado
+1561,205,2025-09-01,Entrada,170,Traslado entre sucursales
+1562,126,2024-04-26,Ajuste,6,Conteo físico
+1563,722,2024-01-01,Salida,3,Traslado a otra sucursal
+1564,514,2024-01-15,Salida,10,Traslado a otra sucursal
+1565,461,2024-02-26,Entrada,14,Traslado entre sucursales
+1566,260,2024-06-15,Entrada,189,Traslado entre sucursales
+1567,254,2024-01-24,Entrada,73,Compra proveedor
+1568,416,2024-12-03,Entrada,13,Devolución de cliente
+1569,503,2024-07-05,Entrada,85,Devolución de cliente
+1570,213,2024-07-28,Salida,5,Traslado a otra sucursal
+1571,334,2025-07-01,Entrada,165,Traslado entre sucursales
+1572,733,2024-08-19,Salida,3,Muestra comercial
+1573,458,2025-01-12,Salida,9,Venta
+1574,745,2024-01-31,Salida,9,Venta
+1575,202,2024-05-07,Ajuste,18,Diferencia en auditoría
+1576,442,2024-09-24,Entrada,152,Reposición de stock
+1577,454,2024-01-03,Entrada,163,Compra proveedor
+1578,279,2024-01-09,Entrada,87,Compra proveedor
+1579,406,2025-10-21,Entrada,33,Devolución de cliente
+1580,3,2025-10-08,Entrada,145,Reposición de stock
+1581,730,2024-09-20,Entrada,197,Compra proveedor
+1582,728,2025-02-12,Ajuste,2,Producto vencido/obsoleto
+1583,306,2025-04-29,Salida,2,Muestra comercial
+1584,254,2025-02-27,Salida,4,Traslado a otra sucursal
+1585,171,2024-09-12,Entrada,87,Reposición de stock
+1586,428,2025-07-18,Entrada,127,Compra proveedor
+1587,351,2024-11-21,Salida,1,Muestra comercial
+1588,494,2025-11-25,Ajuste,16,Diferencia en auditoría
+1589,613,2024-01-22,Ajuste,19,Producto vencido/obsoleto
+1590,340,2024-10-15,Entrada,184,Traslado entre sucursales
+1591,480,2024-05-10,Salida,3,Venta
+1592,527,2024-03-18,Salida,6,Muestra comercial
+1593,353,2024-10-05,Entrada,28,Reposición de stock
+1594,89,2024-05-31,Entrada,145,Compra proveedor
+1595,580,2025-01-24,Entrada,10,Devolución de cliente
+1596,557,2024-11-24,Ajuste,18,Conteo físico
+1597,350,2025-12-08,Salida,1,Venta
+1598,152,2025-06-26,Salida,5,Traslado a otra sucursal
+1599,168,2025-02-08,Salida,4,Traslado a otra sucursal
+1600,547,2024-08-04,Entrada,56,Devolución de cliente
+1601,244,2025-07-11,Entrada,63,Devolución de cliente
+1602,231,2025-03-03,Entrada,123,Devolución de cliente
+1603,246,2025-05-05,Entrada,117,Devolución de cliente
+1604,174,2024-12-22,Entrada,33,Reposición de stock
+1605,5,2024-08-05,Salida,1,Producto dañado
+1606,492,2024-07-23,Salida,10,Producto dañado
+1607,412,2025-07-10,Entrada,92,Compra proveedor
+1608,356,2024-06-09,Entrada,143,Devolución de cliente
+1609,424,2024-12-04,Entrada,167,Devolución de cliente
+1610,205,2024-04-03,Salida,8,Producto dañado
+1611,459,2024-11-24,Entrada,20,Devolución de cliente
+1612,710,2025-01-05,Entrada,84,Traslado entre sucursales
+1613,86,2024-07-22,Entrada,74,Reposición de stock
+1614,240,2024-02-13,Salida,4,Traslado a otra sucursal
+1615,232,2024-06-23,Salida,4,Venta
+1616,613,2025-04-21,Entrada,32,Reposición de stock
+1617,671,2025-12-24,Entrada,186,Compra proveedor
+1618,396,2024-01-23,Entrada,147,Devolución de cliente
+1619,244,2025-11-21,Ajuste,9,Corrección de inventario
+1620,614,2024-10-05,Entrada,199,Traslado entre sucursales
+1621,494,2025-03-26,Salida,8,Producto dañado
+1622,774,2024-08-25,Salida,9,Traslado a otra sucursal
+1623,628,2025-04-15,Salida,4,Traslado a otra sucursal
+1624,230,2025-08-07,Entrada,105,Traslado entre sucursales
+1625,454,2025-12-06,Entrada,134,Reposición de stock
+1626,517,2025-06-16,Salida,7,Producto dañado
+1627,377,2025-12-26,Salida,9,Traslado a otra sucursal
+1628,398,2025-04-23,Entrada,62,Traslado entre sucursales
+1629,728,2025-07-09,Entrada,37,Devolución de cliente
+1630,606,2024-09-22,Salida,6,Traslado a otra sucursal
+1631,82,2025-01-22,Salida,10,Venta
+1632,441,2025-03-30,Entrada,98,Traslado entre sucursales
+1633,238,2025-11-27,Entrada,192,Devolución de cliente
+1634,303,2024-10-13,Ajuste,1,Diferencia en auditoría
+1635,578,2024-06-06,Salida,5,Venta
+1636,149,2024-07-12,Entrada,193,Reposición de stock
+1637,606,2025-08-05,Entrada,106,Devolución de cliente
+1638,287,2024-02-07,Salida,9,Traslado a otra sucursal
+1639,684,2024-10-09,Salida,10,Muestra comercial
+1640,330,2024-11-02,Entrada,95,Compra proveedor
+1641,264,2025-10-31,Entrada,172,Devolución de cliente
+1642,50,2025-12-19,Entrada,16,Devolución de cliente
+1643,433,2025-08-28,Salida,5,Producto dañado
+1644,699,2025-02-15,Ajuste,15,Diferencia en auditoría
+1645,580,2025-12-03,Salida,9,Traslado a otra sucursal
+1646,640,2024-09-13,Entrada,40,Devolución de cliente
+1647,121,2025-07-09,Entrada,88,Traslado entre sucursales
+1648,25,2024-11-12,Salida,3,Venta
+1649,776,2025-09-14,Entrada,26,Compra proveedor
+1650,313,2024-03-05,Salida,6,Traslado a otra sucursal
+1651,458,2025-08-19,Salida,6,Traslado a otra sucursal
+1652,348,2024-10-20,Entrada,126,Compra proveedor
+1653,616,2025-07-23,Entrada,123,Devolución de cliente
+1654,158,2024-06-27,Entrada,62,Compra proveedor
+1655,569,2024-09-11,Salida,1,Producto dañado
+1656,720,2024-07-25,Entrada,30,Devolución de cliente
+1657,490,2024-03-11,Salida,10,Muestra comercial
+1658,176,2025-12-28,Entrada,48,Traslado entre sucursales
+1659,94,2024-06-19,Salida,9,Producto dañado
+1660,596,2024-01-04,Entrada,28,Reposición de stock
+1661,566,2024-05-15,Entrada,94,Reposición de stock
+1662,666,2025-11-15,Salida,9,Traslado a otra sucursal
+1663,780,2025-12-02,Entrada,32,Compra proveedor
+1664,353,2025-12-24,Entrada,177,Traslado entre sucursales
+1665,609,2024-06-20,Salida,2,Traslado a otra sucursal
+1666,327,2025-06-02,Entrada,175,Compra proveedor
+1667,591,2025-03-14,Entrada,89,Devolución de cliente
+1668,103,2025-08-25,Salida,8,Producto dañado
+1669,572,2024-07-20,Salida,6,Traslado a otra sucursal
+1670,182,2025-05-28,Ajuste,20,Corrección de inventario
+1671,519,2024-04-13,Entrada,43,Compra proveedor
+1672,125,2024-09-03,Entrada,116,Reposición de stock
+1673,674,2024-07-18,Ajuste,14,Corrección de inventario
+1674,593,2024-09-15,Entrada,108,Traslado entre sucursales
+1675,254,2024-01-06,Entrada,198,Traslado entre sucursales
+1676,703,2025-12-03,Entrada,10,Reposición de stock
+1677,761,2024-07-12,Salida,9,Muestra comercial
+1678,391,2025-07-01,Entrada,114,Traslado entre sucursales
+1679,428,2024-02-12,Entrada,113,Traslado entre sucursales
+1680,467,2025-01-16,Entrada,44,Reposición de stock
+1681,494,2025-07-30,Entrada,127,Reposición de stock
+1682,15,2024-08-04,Entrada,137,Reposición de stock
+1683,671,2024-11-06,Entrada,92,Compra proveedor
+1684,357,2024-04-16,Entrada,42,Devolución de cliente
+1685,199,2025-06-28,Entrada,30,Compra proveedor
+1686,510,2025-01-12,Salida,7,Traslado a otra sucursal
+1687,679,2024-08-17,Salida,8,Producto dañado
+1688,499,2024-02-19,Salida,4,Producto dañado
+1689,694,2025-07-09,Salida,9,Traslado a otra sucursal
+1690,508,2024-02-18,Entrada,19,Compra proveedor
+1691,600,2024-08-12,Salida,10,Venta
+1692,519,2024-10-15,Entrada,128,Compra proveedor
+1693,253,2025-08-26,Salida,7,Producto dañado
+1694,529,2024-01-20,Salida,4,Muestra comercial
+1695,48,2024-09-09,Entrada,159,Reposición de stock
+1696,585,2024-09-08,Salida,10,Muestra comercial
+1697,324,2025-02-23,Entrada,185,Reposición de stock
+1698,162,2025-10-15,Salida,7,Venta
+1699,255,2025-10-26,Salida,6,Muestra comercial
+1700,368,2024-04-29,Entrada,35,Reposición de stock
+1701,651,2024-05-08,Salida,3,Producto dañado
+1702,588,2025-02-20,Salida,5,Traslado a otra sucursal
+1703,414,2024-11-29,Entrada,32,Devolución de cliente
+1704,230,2025-05-22,Salida,6,Traslado a otra sucursal
+1705,81,2024-07-30,Ajuste,11,Producto vencido/obsoleto
+1706,212,2024-12-04,Entrada,103,Reposición de stock
+1707,406,2025-04-15,Entrada,97,Traslado entre sucursales
+1708,213,2025-04-29,Entrada,111,Traslado entre sucursales
+1709,291,2024-02-05,Salida,4,Muestra comercial
+1710,799,2025-12-30,Salida,4,Traslado a otra sucursal
+1711,189,2025-09-06,Salida,3,Producto dañado
+1712,562,2025-02-23,Salida,5,Venta
+1713,268,2025-06-09,Salida,1,Muestra comercial
+1714,175,2025-08-13,Salida,3,Traslado a otra sucursal
+1715,526,2025-07-25,Entrada,77,Devolución de cliente
+1716,157,2025-04-22,Entrada,196,Reposición de stock
+1717,598,2024-07-09,Entrada,39,Devolución de cliente
+1718,140,2024-11-24,Salida,4,Traslado a otra sucursal
+1719,495,2025-07-28,Entrada,18,Traslado entre sucursales
+1720,117,2024-04-28,Entrada,167,Traslado entre sucursales
+1721,586,2025-09-04,Salida,2,Venta
+1722,539,2025-04-02,Salida,9,Muestra comercial
+1723,235,2025-06-21,Entrada,193,Reposición de stock
+1724,411,2025-06-25,Entrada,143,Reposición de stock
+1725,491,2024-09-19,Entrada,24,Devolución de cliente
+1726,591,2025-12-20,Entrada,143,Traslado entre sucursales
+1727,115,2025-12-21,Entrada,124,Traslado entre sucursales
+1728,393,2024-04-29,Salida,3,Producto dañado
+1729,788,2025-02-06,Entrada,62,Traslado entre sucursales
+1730,133,2025-03-16,Ajuste,9,Producto vencido/obsoleto
+1731,576,2025-02-19,Salida,6,Muestra comercial
+1732,666,2024-06-01,Salida,9,Traslado a otra sucursal
+1733,618,2025-10-28,Salida,5,Venta
+1734,572,2025-03-11,Entrada,66,Reposición de stock
+1735,342,2024-11-02,Entrada,157,Traslado entre sucursales
+1736,331,2024-10-27,Ajuste,20,Conteo físico
+1737,59,2024-11-13,Entrada,144,Reposición de stock
+1738,134,2025-06-24,Entrada,41,Reposición de stock
+1739,72,2025-11-26,Salida,5,Venta
+1740,547,2024-08-28,Entrada,133,Compra proveedor
+1741,549,2024-09-10,Salida,10,Venta
+1742,239,2025-03-18,Entrada,189,Reposición de stock
+1743,786,2025-01-13,Salida,5,Muestra comercial
+1744,164,2025-09-09,Entrada,148,Devolución de cliente
+1745,193,2025-03-30,Salida,2,Producto dañado
+1746,323,2025-11-16,Entrada,171,Devolución de cliente
+1747,84,2024-02-02,Entrada,61,Traslado entre sucursales
+1748,698,2024-12-27,Entrada,173,Compra proveedor
+1749,38,2024-01-15,Entrada,37,Traslado entre sucursales
+1750,483,2025-04-04,Entrada,51,Compra proveedor
+1751,711,2025-07-11,Salida,9,Venta
+1752,46,2025-11-04,Salida,10,Muestra comercial
+1753,131,2024-10-09,Salida,4,Muestra comercial
+1754,768,2025-01-01,Salida,4,Producto dañado
+1755,191,2025-06-23,Entrada,23,Compra proveedor
+1756,774,2024-03-16,Salida,9,Traslado a otra sucursal
+1757,142,2025-12-30,Entrada,147,Devolución de cliente
+1758,783,2024-11-02,Ajuste,8,Producto vencido/obsoleto
+1759,13,2025-03-03,Salida,6,Venta
+1760,481,2025-08-22,Ajuste,14,Conteo físico
+1761,490,2025-04-01,Salida,4,Producto dañado
+1762,251,2025-05-09,Salida,8,Producto dañado
+1763,119,2024-11-01,Entrada,74,Compra proveedor
+1764,228,2025-08-24,Salida,1,Producto dañado
+1765,305,2025-07-01,Entrada,155,Traslado entre sucursales
+1766,68,2025-09-19,Entrada,58,Reposición de stock
+1767,581,2025-03-10,Salida,10,Muestra comercial
+1768,768,2025-04-09,Entrada,187,Traslado entre sucursales
+1769,183,2025-07-22,Salida,10,Muestra comercial
+1770,359,2024-05-13,Salida,8,Muestra comercial
+1771,388,2024-10-13,Entrada,170,Devolución de cliente
+1772,200,2024-05-05,Salida,9,Producto dañado
+1773,653,2025-12-29,Salida,7,Venta
+1774,677,2025-01-07,Salida,2,Traslado a otra sucursal
+1775,674,2024-08-13,Salida,6,Venta
+1776,530,2024-05-12,Salida,5,Muestra comercial
+1777,10,2025-04-09,Salida,5,Venta
+1778,771,2024-03-06,Entrada,96,Devolución de cliente
+1779,238,2024-08-20,Salida,8,Traslado a otra sucursal
+1780,301,2025-05-16,Entrada,67,Traslado entre sucursales
+1781,259,2024-05-18,Entrada,53,Traslado entre sucursales
+1782,201,2024-04-21,Salida,1,Producto dañado
+1783,98,2025-01-11,Salida,9,Traslado a otra sucursal
+1784,275,2025-03-26,Salida,8,Venta
+1785,798,2025-08-13,Salida,9,Traslado a otra sucursal
+1786,244,2024-12-07,Entrada,166,Devolución de cliente
+1787,369,2024-11-22,Entrada,70,Compra proveedor
+1788,26,2024-11-02,Entrada,192,Compra proveedor
+1789,245,2025-05-29,Salida,3,Producto dañado
+1790,711,2025-11-12,Entrada,200,Compra proveedor
+1791,174,2024-07-24,Entrada,34,Devolución de cliente
+1792,154,2024-07-28,Salida,6,Producto dañado
+1793,721,2025-02-07,Salida,2,Venta
+1794,482,2024-03-30,Entrada,197,Traslado entre sucursales
+1795,470,2024-06-27,Salida,8,Muestra comercial
+1796,497,2025-12-29,Entrada,171,Devolución de cliente
+1797,604,2024-11-18,Entrada,74,Compra proveedor
+1798,94,2024-07-23,Entrada,198,Compra proveedor
+1799,34,2025-08-21,Salida,4,Traslado a otra sucursal
+1800,329,2024-07-04,Ajuste,1,Diferencia en auditoría
+1801,54,2024-07-23,Ajuste,5,Conteo físico
+1802,248,2025-11-24,Salida,5,Traslado a otra sucursal
+1803,337,2025-06-09,Salida,1,Producto dañado
+1804,127,2025-01-22,Entrada,171,Compra proveedor
+1805,239,2025-07-01,Ajuste,5,Producto vencido/obsoleto
+1806,744,2024-12-10,Salida,6,Muestra comercial
+1807,76,2025-07-14,Ajuste,15,Producto vencido/obsoleto
+1808,756,2024-11-08,Entrada,103,Devolución de cliente
+1809,787,2025-05-26,Salida,2,Muestra comercial
+1810,306,2025-06-07,Entrada,133,Compra proveedor
+1811,338,2025-03-12,Ajuste,18,Producto vencido/obsoleto
+1812,453,2024-11-15,Ajuste,19,Conteo físico
+1813,50,2024-06-01,Salida,9,Producto dañado
+1814,220,2024-05-09,Salida,3,Venta
+1815,157,2024-08-16,Entrada,151,Traslado entre sucursales
+1816,497,2024-02-08,Entrada,40,Traslado entre sucursales
+1817,60,2024-09-27,Salida,8,Venta
+1818,782,2025-03-13,Salida,6,Muestra comercial
+1819,66,2024-01-18,Salida,1,Traslado a otra sucursal
+1820,711,2025-10-11,Entrada,72,Reposición de stock
+1821,54,2025-03-09,Salida,10,Muestra comercial
+1822,357,2024-03-05,Salida,6,Producto dañado
+1823,555,2025-02-13,Ajuste,6,Corrección de inventario
+1824,757,2025-12-08,Salida,7,Traslado a otra sucursal
+1825,126,2025-12-18,Entrada,89,Reposición de stock
+1826,67,2025-03-18,Entrada,145,Reposición de stock
+1827,156,2024-02-25,Entrada,52,Reposición de stock
+1828,474,2025-06-02,Ajuste,1,Corrección de inventario
+1829,716,2024-02-10,Salida,3,Muestra comercial
+1830,432,2024-09-12,Salida,2,Producto dañado
+1831,153,2024-02-25,Salida,3,Traslado a otra sucursal
+1832,433,2025-04-19,Entrada,136,Compra proveedor
+1833,377,2025-11-06,Salida,10,Traslado a otra sucursal
+1834,510,2025-08-06,Entrada,128,Traslado entre sucursales
+1835,56,2025-02-16,Salida,8,Traslado a otra sucursal
+1836,351,2025-05-16,Salida,6,Traslado a otra sucursal
+1837,767,2024-04-30,Salida,3,Venta
+1838,217,2024-04-10,Salida,2,Venta
+1839,367,2024-08-12,Entrada,192,Traslado entre sucursales
+1840,712,2025-01-19,Entrada,48,Reposición de stock
+1841,234,2024-06-30,Entrada,76,Devolución de cliente
+1842,525,2025-07-18,Entrada,158,Traslado entre sucursales
+1843,323,2025-02-28,Salida,9,Traslado a otra sucursal
+1844,157,2024-11-30,Salida,2,Traslado a otra sucursal
+1845,768,2025-02-06,Salida,10,Venta
+1846,437,2024-08-20,Entrada,48,Traslado entre sucursales
+1847,502,2025-01-24,Salida,4,Producto dañado
+1848,150,2025-12-30,Entrada,104,Compra proveedor
+1849,523,2024-09-15,Salida,9,Muestra comercial
+1850,655,2024-04-27,Ajuste,2,Diferencia en auditoría
+1851,560,2024-07-21,Salida,5,Muestra comercial
+1852,681,2024-10-03,Salida,1,Traslado a otra sucursal
+1853,338,2025-05-31,Entrada,175,Compra proveedor
+1854,648,2024-08-06,Ajuste,4,Conteo físico
+1855,349,2024-02-26,Entrada,151,Devolución de cliente
+1856,543,2024-06-02,Salida,8,Producto dañado
+1857,447,2024-09-29,Entrada,147,Reposición de stock
+1858,665,2024-09-11,Ajuste,20,Conteo físico
+1859,192,2025-07-01,Entrada,147,Traslado entre sucursales
+1860,733,2025-11-20,Entrada,59,Devolución de cliente
+1861,411,2025-09-08,Salida,8,Producto dañado
+1862,54,2024-12-22,Salida,7,Venta
+1863,407,2025-08-17,Entrada,80,Devolución de cliente
+1864,37,2025-10-27,Entrada,76,Reposición de stock
+1865,22,2025-10-12,Salida,3,Producto dañado
+1866,128,2025-07-26,Salida,8,Producto dañado
+1867,367,2025-04-28,Salida,10,Producto dañado
+1868,608,2024-05-08,Salida,4,Muestra comercial
+1869,671,2024-03-19,Salida,10,Muestra comercial
+1870,252,2024-04-18,Entrada,79,Reposición de stock
+1871,496,2025-08-24,Salida,1,Venta
+1872,80,2024-07-23,Entrada,167,Compra proveedor
+1873,372,2024-06-15,Entrada,179,Devolución de cliente
+1874,253,2025-10-02,Salida,2,Venta
+1875,796,2025-06-16,Salida,1,Producto dañado
+1876,476,2025-06-21,Entrada,91,Compra proveedor
+1877,68,2024-08-26,Salida,9,Venta
+1878,793,2025-05-29,Entrada,120,Traslado entre sucursales
+1879,737,2025-06-02,Salida,3,Producto dañado
+1880,35,2025-10-05,Entrada,190,Devolución de cliente
+1881,254,2024-03-16,Entrada,38,Compra proveedor
+1882,144,2025-06-21,Salida,2,Venta
+1883,147,2025-10-22,Entrada,14,Compra proveedor
+1884,597,2025-11-08,Ajuste,1,Diferencia en auditoría
+1885,154,2024-03-21,Entrada,114,Compra proveedor
+1886,330,2024-07-15,Entrada,165,Compra proveedor
+1887,42,2025-10-09,Entrada,191,Compra proveedor
+1888,133,2024-07-20,Salida,9,Producto dañado
+1889,462,2024-05-26,Salida,9,Venta
+1890,685,2025-11-30,Entrada,108,Reposición de stock
+1891,65,2024-10-31,Salida,9,Producto dañado
+1892,755,2025-12-23,Entrada,108,Reposición de stock
+1893,390,2024-06-20,Entrada,127,Reposición de stock
+1894,486,2024-05-23,Ajuste,1,Conteo físico
+1895,144,2024-06-25,Salida,5,Producto dañado
+1896,109,2025-11-20,Entrada,62,Devolución de cliente
+1897,192,2025-02-25,Salida,4,Producto dañado
+1898,743,2024-09-02,Entrada,37,Reposición de stock
+1899,10,2024-04-16,Salida,10,Muestra comercial
+1900,568,2024-07-11,Salida,1,Muestra comercial
+1901,512,2025-08-10,Ajuste,15,Producto vencido/obsoleto
+1902,762,2024-03-03,Entrada,23,Devolución de cliente
+1903,204,2025-05-23,Entrada,108,Reposición de stock
+1904,163,2024-07-09,Entrada,87,Compra proveedor
+1905,378,2025-10-13,Salida,9,Venta
+1906,483,2025-09-24,Entrada,119,Compra proveedor
+1907,461,2025-11-10,Entrada,67,Reposición de stock
+1908,660,2024-02-29,Entrada,65,Reposición de stock
+1909,344,2025-10-30,Ajuste,2,Corrección de inventario
+1910,40,2025-02-25,Entrada,107,Reposición de stock
+1911,349,2025-04-23,Salida,4,Muestra comercial
+1912,491,2025-03-02,Salida,5,Traslado a otra sucursal
+1913,232,2025-11-15,Entrada,194,Traslado entre sucursales
+1914,372,2025-06-21,Ajuste,16,Producto vencido/obsoleto
+1915,793,2024-05-12,Entrada,70,Compra proveedor
+1916,477,2025-04-04,Salida,8,Muestra comercial
+1917,208,2024-11-09,Entrada,157,Reposición de stock
+1918,540,2025-01-08,Salida,1,Venta
+1919,440,2025-10-26,Ajuste,2,Diferencia en auditoría
+1920,481,2025-03-13,Entrada,147,Devolución de cliente
+1921,612,2024-08-18,Ajuste,17,Diferencia en auditoría
+1922,117,2025-11-11,Entrada,187,Compra proveedor
+1923,273,2024-06-14,Salida,8,Traslado a otra sucursal
+1924,219,2025-01-17,Entrada,59,Compra proveedor
+1925,278,2025-05-20,Entrada,153,Traslado entre sucursales
+1926,621,2025-07-19,Entrada,96,Reposición de stock
+1927,315,2024-08-31,Salida,1,Producto dañado
+1928,276,2025-08-11,Salida,1,Traslado a otra sucursal
+1929,404,2024-01-26,Ajuste,15,Conteo físico
+1930,467,2025-01-08,Salida,7,Traslado a otra sucursal
+1931,630,2025-04-10,Entrada,23,Devolución de cliente
+1932,497,2024-04-15,Entrada,86,Devolución de cliente
+1933,521,2024-05-24,Entrada,52,Traslado entre sucursales
+1934,462,2025-09-05,Entrada,117,Devolución de cliente
+1935,36,2025-07-06,Entrada,50,Devolución de cliente
+1936,119,2025-05-20,Salida,3,Venta
+1937,797,2024-07-16,Entrada,92,Compra proveedor
+1938,687,2024-09-04,Entrada,54,Reposición de stock
+1939,748,2024-07-13,Salida,2,Venta
+1940,704,2024-07-07,Entrada,112,Devolución de cliente
+1941,308,2025-12-18,Entrada,172,Devolución de cliente
+1942,88,2025-11-17,Salida,7,Muestra comercial
+1943,737,2025-07-22,Entrada,187,Devolución de cliente
+1944,456,2025-09-07,Salida,8,Venta
+1945,600,2025-09-23,Salida,4,Producto dañado
+1946,495,2025-12-21,Entrada,170,Compra proveedor
+1947,652,2024-05-29,Entrada,24,Devolución de cliente
+1948,773,2025-07-21,Entrada,187,Traslado entre sucursales
+1949,343,2025-10-23,Entrada,53,Reposición de stock
+1950,424,2025-08-16,Salida,4,Venta
+1951,453,2024-12-21,Salida,3,Producto dañado
+1952,57,2024-01-27,Entrada,95,Reposición de stock
+1953,433,2025-11-13,Salida,8,Muestra comercial
+1954,337,2024-07-18,Salida,10,Muestra comercial
+1955,49,2025-08-08,Entrada,120,Compra proveedor
+1956,538,2025-02-08,Entrada,29,Compra proveedor
+1957,612,2024-08-10,Ajuste,20,Corrección de inventario
+1958,239,2025-11-15,Entrada,93,Devolución de cliente
+1959,239,2024-06-12,Entrada,70,Reposición de stock
+1960,792,2024-02-10,Entrada,92,Traslado entre sucursales
+1961,673,2024-01-08,Salida,3,Producto dañado
+1962,488,2024-11-07,Entrada,58,Reposición de stock
+1963,79,2025-04-28,Ajuste,13,Corrección de inventario
+1964,144,2024-02-22,Entrada,44,Devolución de cliente
+1965,327,2024-02-21,Salida,7,Traslado a otra sucursal
+1966,648,2025-06-05,Entrada,178,Compra proveedor
+1967,609,2025-12-28,Salida,1,Muestra comercial
+1968,146,2024-04-28,Entrada,175,Reposición de stock
+1969,651,2024-08-05,Entrada,91,Devolución de cliente
+1970,35,2025-04-21,Salida,5,Venta
+1971,353,2024-08-27,Salida,10,Venta
+1972,636,2025-12-16,Salida,9,Venta
+1973,170,2025-05-02,Salida,3,Venta
+1974,329,2024-11-04,Entrada,120,Compra proveedor
+1975,708,2024-02-01,Entrada,74,Devolución de cliente
+1976,600,2024-02-29,Entrada,94,Reposición de stock
+1977,717,2024-06-20,Ajuste,3,Conteo físico
+1978,34,2025-03-04,Entrada,146,Devolución de cliente
+1979,208,2024-01-17,Salida,10,Muestra comercial
+1980,484,2025-11-30,Salida,3,Producto dañado
+1981,419,2024-10-06,Entrada,199,Compra proveedor
+1982,611,2025-09-21,Entrada,142,Traslado entre sucursales
+1983,193,2024-04-26,Salida,10,Muestra comercial
+1984,695,2025-06-19,Salida,6,Muestra comercial
+1985,541,2025-05-27,Entrada,60,Reposición de stock
+1986,48,2024-05-09,Entrada,123,Traslado entre sucursales
+1987,362,2025-06-12,Entrada,11,Compra proveedor
+1988,468,2024-08-21,Entrada,199,Devolución de cliente
+1989,541,2024-10-19,Ajuste,16,Conteo físico
+1990,664,2024-03-23,Entrada,97,Reposición de stock
+1991,14,2025-03-14,Salida,7,Producto dañado
+1992,299,2025-11-12,Entrada,136,Devolución de cliente
+1993,284,2024-11-29,Entrada,127,Devolución de cliente
+1994,541,2024-11-23,Entrada,37,Compra proveedor
+1995,196,2025-02-26,Salida,4,Venta
+1996,722,2024-10-29,Salida,8,Traslado a otra sucursal
+1997,266,2024-08-30,Entrada,25,Compra proveedor
+1998,457,2024-11-24,Entrada,163,Devolución de cliente
+1999,496,2025-05-10,Entrada,132,Compra proveedor
+2000,82,2024-09-05,Salida,4,Producto dañado
+2001,126,2024-11-04,Entrada,189,Devolución de cliente
+2002,461,2025-06-11,Entrada,89,Reposición de stock
+2003,502,2025-02-21,Salida,8,Traslado a otra sucursal
+2004,591,2024-11-11,Entrada,49,Devolución de cliente
+2005,229,2024-06-12,Salida,1,Traslado a otra sucursal
+2006,72,2025-08-20,Salida,9,Producto dañado
+2007,429,2024-03-13,Salida,3,Traslado a otra sucursal
+2008,382,2025-01-25,Entrada,158,Traslado entre sucursales
+2009,246,2024-12-11,Salida,10,Producto dañado
+2010,635,2025-12-14,Salida,8,Traslado a otra sucursal
+2011,450,2024-06-08,Ajuste,2,Producto vencido/obsoleto
+2012,123,2024-07-06,Entrada,81,Compra proveedor
+2013,736,2024-08-22,Entrada,35,Devolución de cliente
+2014,605,2025-08-13,Ajuste,16,Corrección de inventario
+2015,367,2025-01-05,Ajuste,15,Conteo físico
+2016,293,2024-05-29,Salida,5,Traslado a otra sucursal
+2017,522,2025-03-14,Ajuste,13,Producto vencido/obsoleto
+2018,129,2024-02-12,Salida,6,Venta
+2019,786,2024-02-04,Entrada,131,Compra proveedor
+2020,6,2024-06-08,Salida,2,Producto dañado
+2021,632,2025-12-20,Salida,10,Producto dañado
+2022,293,2024-09-23,Entrada,180,Traslado entre sucursales
+2023,210,2025-09-22,Salida,8,Muestra comercial
+2024,749,2025-12-14,Salida,1,Muestra comercial
+2025,402,2025-09-06,Ajuste,10,Producto vencido/obsoleto
+2026,619,2024-06-03,Ajuste,20,Corrección de inventario
+2027,34,2025-08-10,Salida,4,Traslado a otra sucursal
+2028,378,2024-02-04,Entrada,62,Devolución de cliente
+2029,297,2024-10-12,Salida,10,Venta
+2030,249,2024-02-06,Entrada,119,Compra proveedor
+2031,532,2024-12-07,Salida,3,Producto dañado
+2032,448,2025-04-21,Salida,3,Traslado a otra sucursal
+2033,445,2025-09-17,Entrada,48,Devolución de cliente
+2034,610,2024-01-12,Entrada,156,Devolución de cliente
+2035,422,2025-01-11,Entrada,74,Devolución de cliente
+2036,667,2025-11-21,Entrada,127,Traslado entre sucursales
+2037,315,2024-12-22,Salida,3,Traslado a otra sucursal
+2038,484,2025-01-13,Entrada,91,Devolución de cliente
+2039,597,2025-06-03,Ajuste,14,Conteo físico
+2040,138,2025-01-16,Entrada,147,Reposición de stock
+2041,112,2024-03-03,Salida,1,Traslado a otra sucursal
+2042,132,2024-12-25,Salida,3,Producto dañado
+2043,737,2024-02-16,Entrada,47,Traslado entre sucursales
+2044,683,2024-08-21,Entrada,187,Compra proveedor
+2045,664,2025-11-22,Entrada,92,Reposición de stock
+2046,49,2024-08-24,Ajuste,20,Corrección de inventario
+2047,366,2024-12-15,Salida,3,Muestra comercial
+2048,552,2024-03-28,Entrada,180,Reposición de stock
+2049,438,2024-07-31,Entrada,161,Traslado entre sucursales
+2050,506,2025-07-06,Salida,9,Traslado a otra sucursal
+2051,563,2025-12-27,Salida,5,Muestra comercial
+2052,192,2024-10-16,Ajuste,6,Producto vencido/obsoleto
+2053,160,2024-05-29,Entrada,33,Compra proveedor
+2054,261,2025-04-20,Ajuste,12,Conteo físico
+2055,48,2024-05-11,Salida,6,Producto dañado
+2056,182,2025-02-17,Entrada,148,Traslado entre sucursales
+2057,242,2025-10-18,Entrada,130,Reposición de stock
+2058,150,2024-03-10,Salida,7,Muestra comercial
+2059,718,2025-01-26,Entrada,38,Traslado entre sucursales
+2060,64,2024-01-11,Entrada,136,Reposición de stock
+2061,415,2025-07-23,Salida,10,Producto dañado
+2062,30,2025-02-06,Salida,5,Muestra comercial
+2063,528,2024-04-21,Salida,3,Traslado a otra sucursal
+2064,47,2024-02-13,Salida,5,Producto dañado
+2065,206,2024-03-05,Salida,4,Muestra comercial
+2066,570,2025-09-11,Salida,1,Producto dañado
+2067,170,2025-03-19,Salida,4,Muestra comercial
+2068,260,2024-03-14,Entrada,28,Traslado entre sucursales
+2069,239,2025-12-23,Entrada,109,Devolución de cliente
+2070,761,2024-12-02,Entrada,15,Traslado entre sucursales
+2071,285,2025-08-04,Salida,5,Producto dañado
+2072,124,2025-12-14,Entrada,117,Compra proveedor
+2073,415,2024-09-25,Entrada,116,Traslado entre sucursales
+2074,567,2025-03-15,Entrada,86,Compra proveedor
+2075,38,2025-06-17,Entrada,148,Compra proveedor
+2076,640,2024-09-08,Entrada,115,Compra proveedor
+2077,419,2025-01-07,Entrada,188,Reposición de stock
+2078,28,2025-09-17,Salida,5,Muestra comercial
+2079,217,2024-08-10,Entrada,89,Reposición de stock
+2080,429,2025-08-18,Salida,4,Producto dañado
+2081,89,2024-07-23,Ajuste,14,Producto vencido/obsoleto
+2082,178,2024-03-08,Entrada,93,Reposición de stock
+2083,415,2024-04-29,Entrada,190,Traslado entre sucursales
+2084,265,2024-07-25,Entrada,18,Reposición de stock
+2085,483,2025-03-19,Salida,5,Traslado a otra sucursal
+2086,478,2025-08-18,Salida,2,Traslado a otra sucursal
+2087,605,2025-06-23,Ajuste,16,Producto vencido/obsoleto
+2088,50,2025-04-05,Entrada,12,Reposición de stock
+2089,159,2024-12-26,Entrada,143,Reposición de stock
+2090,167,2025-01-27,Salida,1,Venta
+2091,82,2025-12-29,Entrada,98,Devolución de cliente
+2092,404,2025-03-20,Salida,3,Traslado a otra sucursal
+2093,705,2024-01-05,Entrada,104,Compra proveedor
+2094,142,2024-10-16,Ajuste,13,Producto vencido/obsoleto
+2095,719,2024-05-06,Entrada,154,Traslado entre sucursales
+2096,344,2024-11-16,Entrada,144,Devolución de cliente
+2097,10,2025-06-09,Entrada,45,Traslado entre sucursales
+2098,172,2024-02-06,Ajuste,11,Corrección de inventario
+2099,537,2025-05-21,Entrada,12,Traslado entre sucursales
+2100,636,2024-08-19,Salida,5,Producto dañado
+2101,53,2024-12-01,Salida,4,Muestra comercial
+2102,89,2024-06-04,Entrada,157,Compra proveedor
+2103,219,2024-04-27,Entrada,143,Reposición de stock
+2104,494,2025-02-24,Salida,3,Muestra comercial
+2105,13,2025-08-09,Entrada,189,Devolución de cliente
+2106,158,2025-12-18,Entrada,88,Devolución de cliente
+2107,423,2025-04-17,Salida,2,Venta
+2108,231,2025-06-30,Salida,8,Venta
+2109,681,2024-06-07,Ajuste,8,Conteo físico
+2110,86,2025-02-13,Entrada,166,Traslado entre sucursales
+2111,95,2025-03-29,Entrada,129,Traslado entre sucursales
+2112,416,2025-04-28,Entrada,150,Devolución de cliente
+2113,426,2025-07-29,Entrada,132,Compra proveedor
+2114,460,2024-07-29,Entrada,30,Reposición de stock
+2115,103,2025-06-10,Salida,3,Producto dañado
+2116,76,2024-05-29,Salida,5,Producto dañado
+2117,395,2025-08-17,Entrada,19,Compra proveedor
+2118,208,2025-02-14,Salida,2,Venta
+2119,62,2025-02-02,Entrada,117,Compra proveedor
+2120,265,2025-01-07,Salida,7,Producto dañado
+2121,741,2024-11-13,Salida,2,Muestra comercial
+2122,753,2025-11-17,Salida,6,Venta
+2123,27,2025-01-17,Entrada,170,Reposición de stock
+2124,421,2025-08-19,Entrada,165,Compra proveedor
+2125,73,2025-12-20,Ajuste,1,Conteo físico
+2126,234,2024-11-17,Ajuste,3,Conteo físico
+2127,558,2025-07-13,Entrada,68,Devolución de cliente
+2128,703,2025-01-27,Salida,4,Muestra comercial
+2129,13,2025-02-15,Entrada,67,Traslado entre sucursales
+2130,291,2025-02-06,Entrada,177,Compra proveedor
+2131,795,2024-05-10,Ajuste,3,Producto vencido/obsoleto
+2132,201,2025-01-24,Salida,4,Muestra comercial
+2133,399,2025-12-16,Salida,8,Muestra comercial
+2134,81,2025-02-17,Salida,5,Traslado a otra sucursal
+2135,499,2025-11-07,Salida,1,Producto dañado
+2136,181,2024-03-23,Ajuste,14,Diferencia en auditoría
+2137,12,2024-07-09,Salida,8,Venta
+2138,359,2025-04-16,Salida,9,Producto dañado
+2139,710,2024-08-14,Entrada,143,Reposición de stock
+2140,99,2024-11-07,Ajuste,16,Corrección de inventario
+2141,215,2024-09-13,Entrada,185,Devolución de cliente
+2142,68,2025-03-06,Salida,4,Traslado a otra sucursal
+2143,163,2024-02-29,Entrada,89,Traslado entre sucursales
+2144,367,2024-09-12,Entrada,186,Reposición de stock
+2145,160,2025-08-19,Entrada,153,Devolución de cliente
+2146,238,2024-12-18,Ajuste,20,Producto vencido/obsoleto
+2147,395,2024-08-06,Salida,4,Venta
+2148,169,2025-10-10,Entrada,196,Reposición de stock
+2149,9,2024-08-26,Salida,1,Venta
+2150,281,2024-01-01,Entrada,10,Compra proveedor
+2151,708,2025-07-06,Ajuste,19,Conteo físico
+2152,652,2024-09-23,Entrada,186,Compra proveedor
+2153,229,2025-08-05,Salida,9,Muestra comercial
+2154,576,2024-11-22,Salida,1,Producto dañado
+2155,613,2025-12-28,Entrada,138,Devolución de cliente
+2156,105,2024-12-18,Entrada,61,Compra proveedor
+2157,320,2025-04-17,Entrada,93,Devolución de cliente
+2158,354,2024-08-06,Entrada,44,Reposición de stock
+2159,90,2025-03-15,Salida,10,Muestra comercial
+2160,94,2024-06-24,Salida,7,Traslado a otra sucursal
+2161,787,2024-03-26,Entrada,122,Traslado entre sucursales
+2162,84,2024-06-09,Entrada,151,Devolución de cliente
+2163,329,2024-08-12,Entrada,25,Devolución de cliente
+2164,337,2024-02-05,Entrada,21,Compra proveedor
+2165,19,2025-07-03,Entrada,137,Reposición de stock
+2166,60,2024-03-29,Entrada,189,Traslado entre sucursales
+2167,768,2025-09-19,Entrada,98,Reposición de stock
+2168,730,2025-03-19,Entrada,126,Devolución de cliente
+2169,28,2025-03-09,Salida,3,Muestra comercial
+2170,98,2025-12-04,Salida,9,Venta
+2171,544,2024-01-03,Entrada,56,Devolución de cliente
+2172,240,2025-11-02,Salida,9,Traslado a otra sucursal
+2173,124,2025-04-03,Salida,9,Muestra comercial
+2174,656,2024-11-07,Salida,3,Muestra comercial
+2175,573,2024-07-12,Ajuste,7,Producto vencido/obsoleto
+2176,473,2024-06-03,Entrada,106,Devolución de cliente
+2177,525,2024-04-13,Salida,6,Venta
+2178,292,2025-02-15,Entrada,165,Devolución de cliente
+2179,347,2024-07-31,Salida,5,Producto dañado
+2180,602,2024-10-10,Entrada,137,Traslado entre sucursales
+2181,775,2024-09-17,Entrada,61,Reposición de stock
+2182,492,2025-04-03,Salida,2,Traslado a otra sucursal
+2183,132,2025-05-11,Ajuste,1,Conteo físico
+2184,390,2025-12-28,Entrada,74,Devolución de cliente
+2185,255,2024-03-13,Salida,8,Traslado a otra sucursal
+2186,700,2025-04-17,Entrada,103,Compra proveedor
+2187,78,2025-01-02,Salida,8,Traslado a otra sucursal
+2188,546,2024-05-10,Entrada,87,Devolución de cliente
+2189,329,2024-05-12,Entrada,22,Reposición de stock
+2190,52,2024-05-31,Entrada,99,Compra proveedor
+2191,462,2025-05-24,Salida,9,Producto dañado
+2192,372,2024-11-21,Salida,10,Muestra comercial
+2193,626,2024-05-07,Entrada,195,Reposición de stock
+2194,397,2025-05-23,Salida,2,Traslado a otra sucursal
+2195,73,2025-08-30,Ajuste,14,Producto vencido/obsoleto
+2196,8,2025-05-24,Entrada,174,Devolución de cliente
+2197,118,2025-04-02,Salida,5,Producto dañado
+2198,100,2025-04-13,Salida,1,Producto dañado
+2199,768,2024-08-17,Entrada,47,Traslado entre sucursales
+2200,686,2024-12-09,Entrada,88,Reposición de stock
+2201,47,2024-09-30,Entrada,143,Devolución de cliente
+2202,272,2024-03-25,Ajuste,8,Conteo físico
+2203,163,2025-03-02,Entrada,149,Compra proveedor
+2204,565,2024-09-06,Salida,10,Muestra comercial
+2205,262,2024-05-24,Salida,1,Muestra comercial
+2206,445,2025-03-07,Entrada,103,Devolución de cliente
+2207,648,2024-12-05,Salida,7,Muestra comercial
+2208,94,2025-01-05,Salida,5,Muestra comercial
+2209,424,2025-04-25,Entrada,98,Reposición de stock
+2210,308,2024-04-05,Salida,1,Venta
+2211,707,2024-10-16,Entrada,93,Traslado entre sucursales
+2212,466,2025-06-06,Entrada,37,Reposición de stock
+2213,156,2025-01-13,Salida,1,Muestra comercial
+2214,428,2025-04-03,Entrada,74,Traslado entre sucursales
+2215,614,2024-04-25,Salida,7,Traslado a otra sucursal
+2216,733,2025-02-09,Salida,7,Muestra comercial
+2217,25,2025-02-18,Entrada,39,Compra proveedor
+2218,168,2025-09-18,Ajuste,11,Conteo físico
+2219,156,2025-12-15,Salida,8,Producto dañado
+2220,778,2025-03-25,Salida,9,Venta
+2221,636,2025-03-22,Entrada,137,Traslado entre sucursales
+2222,33,2025-07-13,Entrada,64,Reposición de stock
+2223,465,2025-12-14,Entrada,130,Reposición de stock
+2224,320,2025-06-25,Entrada,50,Traslado entre sucursales
+2225,439,2024-05-04,Entrada,146,Traslado entre sucursales
+2226,170,2025-06-24,Entrada,140,Compra proveedor
+2227,141,2025-06-29,Salida,6,Muestra comercial
+2228,178,2025-05-21,Salida,2,Producto dañado
+2229,315,2025-03-12,Salida,9,Venta
+2230,29,2025-06-15,Salida,1,Traslado a otra sucursal
+2231,310,2024-07-03,Salida,2,Muestra comercial
+2232,565,2024-05-23,Salida,6,Venta
+2233,23,2024-02-01,Salida,9,Muestra comercial
+2234,415,2024-10-17,Ajuste,10,Producto vencido/obsoleto
+2235,540,2025-02-18,Salida,6,Muestra comercial
+2236,588,2025-05-13,Salida,6,Venta
+2237,16,2024-07-26,Salida,7,Muestra comercial
+2238,40,2025-08-24,Entrada,131,Devolución de cliente
+2239,93,2024-09-11,Salida,7,Muestra comercial
+2240,658,2025-07-09,Entrada,79,Devolución de cliente
+2241,60,2024-05-17,Salida,9,Producto dañado
+2242,692,2025-02-15,Entrada,76,Devolución de cliente
+2243,171,2024-09-30,Salida,5,Venta
+2244,280,2025-03-22,Entrada,69,Traslado entre sucursales
+2245,394,2024-07-30,Salida,7,Traslado a otra sucursal
+2246,348,2024-01-06,Salida,4,Traslado a otra sucursal
+2247,722,2025-04-24,Entrada,14,Devolución de cliente
+2248,401,2024-12-28,Salida,8,Venta
+2249,517,2025-05-22,Salida,2,Producto dañado
+2250,616,2024-03-26,Salida,1,Traslado a otra sucursal
+2251,299,2025-04-14,Entrada,60,Reposición de stock
+2252,217,2024-05-20,Entrada,36,Devolución de cliente
+2253,650,2025-03-30,Entrada,146,Devolución de cliente
+2254,385,2025-10-27,Entrada,31,Reposición de stock
+2255,765,2025-09-29,Entrada,188,Traslado entre sucursales
+2256,410,2024-03-04,Ajuste,13,Diferencia en auditoría
+2257,191,2024-04-08,Salida,2,Traslado a otra sucursal
+2258,172,2024-05-13,Entrada,11,Reposición de stock
+2259,61,2025-11-20,Salida,3,Traslado a otra sucursal
+2260,484,2025-06-21,Salida,1,Venta
+2261,127,2024-02-03,Entrada,108,Compra proveedor
+2262,345,2024-11-03,Entrada,44,Reposición de stock
+2263,254,2024-08-16,Ajuste,13,Diferencia en auditoría
+2264,780,2024-01-10,Entrada,141,Devolución de cliente
+2265,346,2024-12-11,Entrada,76,Traslado entre sucursales
+2266,582,2025-12-07,Salida,3,Traslado a otra sucursal
+2267,241,2025-10-19,Entrada,166,Devolución de cliente
+2268,625,2024-08-09,Ajuste,18,Producto vencido/obsoleto
+2269,143,2024-01-12,Ajuste,15,Corrección de inventario
+2270,567,2024-08-16,Salida,2,Traslado a otra sucursal
+2271,73,2025-07-15,Entrada,103,Compra proveedor
+2272,606,2024-10-13,Entrada,67,Devolución de cliente
+2273,330,2024-09-09,Salida,5,Traslado a otra sucursal
+2274,788,2024-12-18,Entrada,154,Traslado entre sucursales
+2275,287,2024-12-31,Entrada,156,Traslado entre sucursales
+2276,539,2024-08-03,Entrada,195,Compra proveedor
+2277,526,2025-07-10,Entrada,88,Reposición de stock
+2278,779,2024-02-21,Salida,1,Venta
+2279,789,2024-04-26,Salida,10,Muestra comercial
+2280,766,2024-03-25,Entrada,179,Compra proveedor
+2281,6,2025-03-10,Entrada,136,Traslado entre sucursales
+2282,687,2024-02-23,Salida,7,Venta
+2283,331,2024-09-06,Salida,1,Producto dañado
+2284,93,2025-08-16,Ajuste,10,Producto vencido/obsoleto
+2285,763,2024-09-08,Salida,8,Producto dañado
+2286,330,2024-08-06,Ajuste,3,Corrección de inventario
+2287,654,2025-04-07,Entrada,67,Reposición de stock
+2288,789,2024-10-12,Entrada,138,Traslado entre sucursales
+2289,589,2024-06-17,Salida,1,Traslado a otra sucursal
+2290,726,2025-07-11,Salida,9,Traslado a otra sucursal
+2291,522,2025-07-14,Entrada,76,Devolución de cliente
+2292,792,2024-08-06,Salida,8,Venta
+2293,258,2024-01-25,Salida,8,Venta
+2294,637,2024-05-16,Ajuste,15,Conteo físico
+2295,231,2025-12-07,Salida,4,Traslado a otra sucursal
+2296,486,2025-08-21,Salida,1,Producto dañado
+2297,373,2024-10-29,Salida,5,Muestra comercial
+2298,377,2025-09-03,Entrada,73,Devolución de cliente
+2299,184,2024-02-23,Entrada,91,Traslado entre sucursales
+2300,183,2024-11-27,Entrada,61,Devolución de cliente
+2301,391,2025-04-27,Ajuste,9,Conteo físico
+2302,617,2025-01-31,Salida,6,Producto dañado
+2303,618,2024-03-27,Salida,10,Muestra comercial
+2304,336,2024-07-23,Salida,10,Producto dañado
+2305,686,2024-05-07,Entrada,49,Reposición de stock
+2306,222,2025-12-16,Entrada,191,Devolución de cliente
+2307,406,2025-01-14,Entrada,60,Traslado entre sucursales
+2308,649,2025-11-17,Entrada,29,Traslado entre sucursales
+2309,467,2025-04-24,Entrada,11,Compra proveedor
+2310,741,2025-04-26,Salida,1,Producto dañado
+2311,625,2024-07-23,Entrada,15,Compra proveedor
+2312,187,2024-03-16,Salida,8,Traslado a otra sucursal
+2313,328,2025-12-05,Salida,6,Muestra comercial
+2314,550,2025-08-08,Entrada,157,Devolución de cliente
+2315,253,2024-03-07,Entrada,12,Devolución de cliente
+2316,616,2024-04-27,Ajuste,6,Corrección de inventario
+2317,119,2024-10-10,Salida,6,Muestra comercial
+2318,602,2025-05-07,Salida,3,Venta
+2319,195,2025-03-01,Salida,5,Producto dañado
+2320,192,2024-08-11,Entrada,197,Compra proveedor
+2321,443,2025-02-27,Entrada,55,Reposición de stock
+2322,315,2025-09-13,Entrada,193,Traslado entre sucursales
+2323,503,2025-02-18,Salida,3,Producto dañado
+2324,185,2025-03-26,Salida,1,Producto dañado
+2325,731,2025-08-08,Salida,7,Producto dañado
+2326,643,2024-03-15,Entrada,44,Devolución de cliente
+2327,441,2024-01-05,Entrada,104,Compra proveedor
+2328,327,2024-04-27,Salida,1,Traslado a otra sucursal
+2329,35,2024-10-07,Salida,2,Muestra comercial
+2330,25,2025-08-09,Salida,4,Venta
+2331,689,2025-02-15,Salida,8,Traslado a otra sucursal
+2332,152,2024-01-20,Salida,4,Muestra comercial
+2333,520,2024-08-18,Salida,1,Traslado a otra sucursal
+2334,560,2025-11-02,Salida,4,Traslado a otra sucursal
+2335,647,2024-08-08,Salida,9,Producto dañado
+2336,367,2025-05-25,Salida,7,Producto dañado
+2337,755,2025-05-18,Salida,7,Traslado a otra sucursal
+2338,150,2025-05-15,Entrada,85,Reposición de stock
+2339,576,2024-03-01,Salida,4,Traslado a otra sucursal
+2340,549,2024-07-24,Ajuste,14,Conteo físico
+2341,524,2024-12-31,Salida,4,Venta
+2342,402,2025-03-22,Ajuste,19,Producto vencido/obsoleto
+2343,291,2024-07-16,Entrada,25,Compra proveedor
+2344,235,2025-03-08,Entrada,167,Devolución de cliente
+2345,400,2025-12-26,Entrada,47,Compra proveedor
+2346,398,2025-11-04,Salida,1,Producto dañado
+2347,351,2025-07-16,Salida,4,Traslado a otra sucursal
+2348,754,2025-06-05,Entrada,178,Devolución de cliente
+2349,452,2024-08-15,Ajuste,8,Producto vencido/obsoleto
+2350,33,2025-10-26,Ajuste,20,Corrección de inventario
+2351,114,2025-07-13,Entrada,131,Reposición de stock
+2352,286,2024-08-09,Entrada,46,Compra proveedor
+2353,44,2025-03-14,Salida,1,Traslado a otra sucursal
+2354,98,2025-12-20,Ajuste,5,Producto vencido/obsoleto
+2355,525,2024-02-15,Entrada,24,Compra proveedor
+2356,669,2024-06-01,Salida,7,Producto dañado
+2357,466,2024-03-10,Entrada,175,Reposición de stock
+2358,650,2025-07-23,Entrada,79,Traslado entre sucursales
+2359,329,2024-11-02,Salida,4,Producto dañado
+2360,599,2025-02-28,Salida,6,Traslado a otra sucursal
+2361,707,2025-12-16,Entrada,138,Reposición de stock
+2362,418,2025-03-04,Entrada,130,Devolución de cliente
+2363,176,2024-05-01,Entrada,134,Devolución de cliente
+2364,17,2024-09-10,Entrada,42,Devolución de cliente
+2365,394,2025-01-09,Entrada,76,Traslado entre sucursales
+2366,654,2025-06-06,Entrada,101,Reposición de stock
+2367,319,2025-12-20,Entrada,89,Compra proveedor
+2368,18,2025-09-07,Salida,7,Venta
+2369,456,2024-03-31,Salida,7,Traslado a otra sucursal
+2370,598,2025-07-13,Salida,2,Muestra comercial
+2371,386,2025-03-31,Entrada,15,Devolución de cliente
+2372,735,2025-08-16,Salida,9,Muestra comercial
+2373,386,2025-11-10,Entrada,145,Compra proveedor
+2374,429,2024-01-08,Salida,1,Venta
+2375,471,2025-01-04,Salida,10,Producto dañado
+2376,409,2024-03-11,Entrada,56,Compra proveedor
+2377,97,2025-02-06,Entrada,126,Reposición de stock
+2378,414,2024-05-22,Entrada,36,Devolución de cliente
+2379,745,2025-11-15,Entrada,77,Traslado entre sucursales
+2380,169,2024-08-24,Salida,10,Muestra comercial
+2381,405,2025-05-26,Entrada,92,Devolución de cliente
+2382,198,2025-05-07,Salida,3,Producto dañado
+2383,129,2025-11-23,Salida,10,Venta
+2384,381,2024-06-03,Salida,8,Traslado a otra sucursal
+2385,338,2024-09-03,Salida,3,Muestra comercial
+2386,453,2024-07-06,Entrada,95,Traslado entre sucursales
+2387,632,2024-08-25,Salida,6,Producto dañado
+2388,522,2024-09-14,Entrada,33,Devolución de cliente
+2389,190,2025-10-07,Salida,8,Producto dañado
+2390,604,2024-03-08,Salida,8,Muestra comercial
+2391,309,2025-10-31,Ajuste,8,Producto vencido/obsoleto
+2392,291,2024-11-10,Entrada,134,Reposición de stock
+2393,580,2025-05-14,Ajuste,11,Corrección de inventario
+2394,147,2024-05-19,Entrada,112,Reposición de stock
+2395,757,2025-01-09,Salida,1,Muestra comercial
+2396,402,2024-12-20,Entrada,172,Devolución de cliente
+2397,676,2025-12-19,Entrada,151,Reposición de stock
+2398,548,2025-04-17,Salida,6,Traslado a otra sucursal
+2399,321,2025-06-09,Entrada,170,Devolución de cliente
+2400,583,2024-03-23,Salida,9,Muestra comercial
+2401,576,2024-12-14,Salida,6,Muestra comercial
+2402,753,2025-07-14,Salida,10,Producto dañado
+2403,522,2025-09-15,Ajuste,3,Diferencia en auditoría
+2404,471,2024-08-29,Salida,9,Venta
+2405,491,2025-05-09,Entrada,88,Compra proveedor
+2406,550,2024-12-09,Salida,9,Muestra comercial
+2407,329,2025-11-08,Salida,10,Producto dañado
+2408,109,2024-01-27,Ajuste,1,Conteo físico
+2409,532,2025-09-15,Entrada,199,Compra proveedor
+2410,333,2025-06-16,Entrada,50,Traslado entre sucursales
+2411,340,2024-12-20,Salida,8,Venta
+2412,571,2024-09-21,Entrada,180,Traslado entre sucursales
+2413,157,2025-09-12,Salida,9,Muestra comercial
+2414,280,2024-09-06,Entrada,41,Traslado entre sucursales
+2415,155,2025-05-30,Entrada,173,Traslado entre sucursales
+2416,367,2025-01-06,Entrada,177,Traslado entre sucursales
+2417,516,2025-05-24,Salida,9,Producto dañado
+2418,357,2024-08-07,Salida,5,Venta
+2419,178,2024-07-07,Entrada,104,Devolución de cliente
+2420,170,2024-05-17,Salida,3,Producto dañado
+2421,560,2025-08-13,Entrada,137,Devolución de cliente
+2422,403,2025-03-31,Entrada,120,Reposición de stock
+2423,551,2024-08-24,Entrada,160,Reposición de stock
+2424,49,2024-10-30,Salida,4,Muestra comercial
+2425,504,2025-04-19,Salida,1,Muestra comercial
+2426,288,2024-08-07,Salida,2,Producto dañado
+2427,622,2024-05-04,Entrada,167,Devolución de cliente
+2428,120,2024-01-20,Entrada,59,Traslado entre sucursales
+2429,519,2024-09-30,Salida,8,Producto dañado
+2430,92,2024-10-20,Entrada,34,Reposición de stock
+2431,719,2025-12-16,Ajuste,13,Diferencia en auditoría
+2432,373,2025-01-07,Salida,2,Muestra comercial
+2433,10,2025-09-16,Ajuste,14,Diferencia en auditoría
+2434,75,2024-07-31,Salida,6,Traslado a otra sucursal
+2435,91,2024-04-06,Entrada,188,Compra proveedor
+2436,228,2025-11-04,Salida,4,Muestra comercial
+2437,426,2025-12-27,Salida,4,Producto dañado
+2438,383,2025-05-20,Entrada,18,Traslado entre sucursales
+2439,146,2025-08-10,Entrada,142,Reposición de stock
+2440,494,2024-04-18,Entrada,172,Traslado entre sucursales
+2441,428,2025-09-05,Ajuste,14,Diferencia en auditoría
+2442,515,2025-02-12,Salida,2,Venta
+2443,124,2025-10-20,Entrada,31,Reposición de stock
+2444,371,2024-04-01,Salida,2,Producto dañado
+2445,533,2024-09-09,Salida,1,Venta
+2446,603,2025-10-27,Entrada,192,Compra proveedor
+2447,517,2025-03-30,Ajuste,9,Conteo físico
+2448,353,2025-11-26,Salida,6,Venta
+2449,161,2024-10-07,Salida,9,Muestra comercial
+2450,280,2024-12-16,Entrada,68,Devolución de cliente
+2451,459,2025-04-23,Entrada,109,Devolución de cliente
+2452,288,2024-03-03,Entrada,173,Reposición de stock
+2453,692,2025-03-02,Salida,4,Traslado a otra sucursal
+2454,111,2025-12-07,Entrada,119,Devolución de cliente
+2455,58,2024-06-12,Salida,5,Venta
+2456,474,2024-06-21,Entrada,98,Traslado entre sucursales
+2457,649,2024-05-20,Entrada,129,Traslado entre sucursales
+2458,138,2025-01-07,Salida,1,Producto dañado
+2459,444,2024-04-17,Salida,10,Producto dañado
+2460,264,2024-07-26,Entrada,47,Traslado entre sucursales
+2461,601,2025-06-07,Salida,6,Producto dañado
+2462,133,2025-05-31,Entrada,180,Reposición de stock
+2463,252,2024-06-25,Salida,9,Venta
+2464,568,2025-06-22,Entrada,171,Devolución de cliente
+2465,781,2025-01-27,Salida,4,Traslado a otra sucursal
+2466,500,2025-11-22,Salida,6,Muestra comercial
+2467,57,2024-07-03,Salida,4,Producto dañado
+2468,669,2024-08-26,Salida,1,Muestra comercial
+2469,316,2024-12-14,Ajuste,6,Producto vencido/obsoleto
+2470,188,2025-04-11,Entrada,40,Devolución de cliente
+2471,128,2025-11-18,Entrada,78,Devolución de cliente
+2472,566,2024-07-20,Entrada,144,Reposición de stock
+2473,36,2024-06-13,Salida,8,Muestra comercial
+2474,616,2025-01-18,Entrada,88,Traslado entre sucursales
+2475,253,2024-09-23,Ajuste,16,Diferencia en auditoría
+2476,427,2025-03-17,Salida,5,Producto dañado
+2477,420,2024-02-04,Entrada,117,Compra proveedor
+2478,118,2025-12-01,Salida,6,Traslado a otra sucursal
+2479,334,2025-03-12,Entrada,74,Devolución de cliente
+2480,428,2025-04-10,Entrada,118,Traslado entre sucursales
+2481,482,2025-09-04,Salida,9,Producto dañado
+2482,2,2024-02-01,Salida,4,Muestra comercial
+2483,320,2024-06-30,Salida,9,Traslado a otra sucursal
+2484,202,2025-10-29,Entrada,48,Compra proveedor
+2485,59,2025-06-22,Entrada,138,Traslado entre sucursales
+2486,654,2025-12-31,Entrada,48,Reposición de stock
+2487,308,2025-08-06,Salida,4,Muestra comercial
+2488,161,2024-12-29,Entrada,83,Compra proveedor
+2489,441,2024-02-03,Salida,4,Producto dañado
+2490,524,2025-06-04,Salida,7,Producto dañado
+2491,352,2025-01-10,Entrada,171,Devolución de cliente
+2492,636,2025-08-25,Salida,9,Traslado a otra sucursal
+2493,27,2024-03-05,Salida,4,Traslado a otra sucursal
+2494,289,2024-02-17,Salida,4,Muestra comercial
+2495,595,2024-04-24,Salida,4,Muestra comercial
+2496,344,2024-03-04,Salida,10,Muestra comercial
+2497,38,2024-05-13,Entrada,119,Compra proveedor
+2498,376,2024-04-11,Salida,8,Venta
+2499,574,2025-08-18,Entrada,144,Traslado entre sucursales
+2500,402,2025-05-21,Entrada,126,Traslado entre sucursales
+2501,285,2025-03-22,Salida,3,Venta
+2502,760,2025-07-03,Entrada,200,Devolución de cliente
+2503,532,2024-12-22,Salida,7,Muestra comercial
+2504,532,2025-01-12,Entrada,13,Devolución de cliente
+2505,387,2024-02-19,Salida,6,Traslado a otra sucursal
+2506,282,2025-02-06,Entrada,185,Devolución de cliente
+2507,475,2024-10-08,Entrada,47,Reposición de stock
+2508,196,2024-03-15,Entrada,146,Compra proveedor
+2509,22,2025-02-18,Entrada,101,Reposición de stock
+2510,480,2024-01-19,Entrada,39,Devolución de cliente
+2511,9,2025-10-05,Salida,10,Traslado a otra sucursal
+2512,643,2025-03-19,Salida,5,Venta
+2513,443,2025-03-16,Entrada,130,Devolución de cliente
+2514,723,2025-02-16,Salida,6,Traslado a otra sucursal
+2515,441,2024-02-11,Entrada,135,Reposición de stock
+2516,271,2025-08-30,Salida,7,Muestra comercial
+2517,6,2025-05-12,Salida,4,Muestra comercial
+2518,777,2024-08-21,Entrada,51,Compra proveedor
+2519,323,2024-05-22,Salida,10,Muestra comercial
+2520,224,2024-05-13,Salida,2,Traslado a otra sucursal
+2521,177,2024-01-04,Salida,10,Traslado a otra sucursal
+2522,197,2025-09-29,Entrada,98,Reposición de stock
+2523,551,2024-04-17,Salida,3,Producto dañado
+2524,279,2024-07-04,Salida,8,Venta
+2525,704,2025-02-10,Ajuste,7,Conteo físico
+2526,394,2025-08-23,Salida,5,Venta
+2527,741,2025-11-24,Entrada,88,Traslado entre sucursales
+2528,258,2024-02-23,Ajuste,12,Corrección de inventario
+2529,58,2025-11-06,Entrada,92,Compra proveedor
+2530,131,2024-03-24,Entrada,194,Reposición de stock
+2531,28,2024-07-04,Ajuste,5,Diferencia en auditoría
+2532,602,2025-11-10,Entrada,109,Traslado entre sucursales
+2533,570,2025-06-29,Entrada,102,Reposición de stock
+2534,25,2025-04-11,Salida,1,Producto dañado
+2535,510,2024-12-13,Salida,7,Venta
+2536,691,2024-04-01,Salida,7,Producto dañado
+2537,446,2025-12-06,Ajuste,9,Corrección de inventario
+2538,11,2025-07-15,Entrada,55,Devolución de cliente
+2539,265,2025-01-23,Entrada,15,Devolución de cliente
+2540,179,2024-12-05,Salida,10,Muestra comercial
+2541,601,2025-06-14,Entrada,90,Reposición de stock
+2542,691,2025-07-31,Entrada,152,Compra proveedor
+2543,777,2024-10-15,Entrada,11,Reposición de stock
+2544,262,2024-04-01,Salida,3,Traslado a otra sucursal
+2545,497,2024-04-29,Entrada,134,Reposición de stock
+2546,523,2024-07-31,Entrada,133,Traslado entre sucursales
+2547,514,2024-03-21,Ajuste,3,Diferencia en auditoría
+2548,61,2024-03-10,Entrada,96,Compra proveedor
+2549,444,2025-07-14,Entrada,165,Devolución de cliente
+2550,53,2025-06-11,Entrada,109,Reposición de stock
+2551,722,2024-06-18,Entrada,163,Traslado entre sucursales
+2552,527,2025-04-27,Entrada,60,Compra proveedor
+2553,70,2024-02-10,Salida,8,Traslado a otra sucursal
+2554,137,2024-07-17,Entrada,70,Compra proveedor
+2555,629,2024-12-16,Entrada,117,Traslado entre sucursales
+2556,717,2025-07-25,Salida,2,Producto dañado
+2557,538,2024-03-12,Salida,6,Muestra comercial
+2558,102,2025-09-05,Salida,10,Muestra comercial
+2559,440,2025-05-01,Entrada,165,Traslado entre sucursales
+2560,345,2025-11-22,Salida,7,Traslado a otra sucursal
+2561,602,2025-12-22,Entrada,81,Compra proveedor
+2562,708,2024-06-22,Salida,7,Producto dañado
+2563,636,2025-05-14,Salida,6,Producto dañado
+2564,6,2024-12-29,Entrada,34,Reposición de stock
+2565,777,2025-11-29,Entrada,145,Traslado entre sucursales
+2566,643,2024-02-06,Salida,9,Traslado a otra sucursal
+2567,728,2025-07-24,Entrada,111,Reposición de stock
+2568,764,2024-11-12,Ajuste,5,Diferencia en auditoría
+2569,377,2025-06-01,Ajuste,9,Conteo físico
+2570,258,2025-04-14,Salida,9,Muestra comercial
+2571,423,2024-07-18,Salida,5,Producto dañado
+2572,559,2024-12-07,Salida,9,Producto dañado
+2573,114,2024-11-19,Salida,10,Producto dañado
+2574,517,2024-10-11,Salida,9,Venta
+2575,6,2025-08-28,Entrada,63,Traslado entre sucursales
+2576,246,2024-06-08,Entrada,177,Compra proveedor
+2577,328,2025-07-13,Entrada,77,Compra proveedor
+2578,691,2024-09-01,Salida,3,Traslado a otra sucursal
+2579,508,2024-02-05,Ajuste,7,Corrección de inventario
+2580,126,2025-09-20,Salida,8,Muestra comercial
+2581,511,2025-12-13,Entrada,116,Devolución de cliente
+2582,771,2025-01-31,Salida,2,Traslado a otra sucursal
+2583,578,2025-05-09,Salida,5,Venta
+2584,756,2025-12-21,Entrada,87,Devolución de cliente
+2585,155,2024-07-19,Entrada,197,Compra proveedor
+2586,764,2025-04-26,Salida,10,Venta
+2587,585,2025-01-16,Entrada,164,Reposición de stock
+2588,243,2025-02-24,Entrada,84,Reposición de stock
+2589,764,2025-09-17,Entrada,159,Reposición de stock
+2590,54,2024-12-07,Salida,3,Producto dañado
+2591,312,2025-07-27,Salida,3,Muestra comercial
+2592,551,2024-04-30,Entrada,58,Devolución de cliente
+2593,742,2025-03-14,Salida,7,Producto dañado
+2594,755,2024-01-23,Salida,1,Muestra comercial
+2595,488,2024-10-24,Entrada,13,Compra proveedor
+2596,405,2024-11-10,Salida,2,Muestra comercial
+2597,292,2025-01-31,Entrada,67,Compra proveedor
+2598,503,2025-03-20,Salida,4,Venta
+2599,777,2025-11-10,Salida,1,Venta
+2600,199,2024-01-25,Salida,6,Traslado a otra sucursal
+2601,172,2024-05-20,Entrada,175,Reposición de stock
+2602,137,2024-10-29,Entrada,17,Devolución de cliente
+2603,793,2024-01-04,Salida,6,Traslado a otra sucursal
+2604,744,2025-08-14,Ajuste,18,Corrección de inventario
+2605,750,2025-12-31,Entrada,156,Compra proveedor
+2606,437,2024-01-11,Salida,5,Muestra comercial
+2607,199,2024-07-02,Salida,9,Venta
+2608,335,2025-05-11,Entrada,121,Traslado entre sucursales
+2609,354,2025-01-13,Ajuste,5,Producto vencido/obsoleto
+2610,15,2025-06-13,Salida,1,Traslado a otra sucursal
+2611,427,2024-05-22,Salida,5,Venta
+2612,59,2025-12-29,Entrada,176,Devolución de cliente
+2613,44,2024-06-26,Entrada,171,Traslado entre sucursales
+2614,454,2024-05-01,Salida,8,Venta
+2615,420,2024-09-01,Salida,7,Producto dañado
+2616,564,2025-03-02,Salida,3,Muestra comercial
+2617,408,2024-08-25,Salida,6,Venta
+2618,357,2024-10-12,Ajuste,13,Corrección de inventario
+2619,753,2025-04-08,Salida,2,Venta
+2620,529,2024-02-15,Entrada,70,Reposición de stock
+2621,672,2024-04-05,Salida,7,Producto dañado
+2622,665,2024-08-10,Entrada,161,Traslado entre sucursales
+2623,414,2024-10-30,Salida,1,Producto dañado
+2624,619,2025-09-11,Salida,10,Muestra comercial
+2625,639,2025-07-25,Entrada,198,Devolución de cliente
+2626,109,2025-03-07,Entrada,86,Devolución de cliente
+2627,779,2024-12-08,Entrada,62,Compra proveedor
+2628,137,2025-07-28,Entrada,102,Compra proveedor
+2629,748,2025-12-31,Salida,9,Traslado a otra sucursal
+2630,589,2025-12-23,Salida,4,Producto dañado
+2631,380,2024-03-25,Salida,4,Muestra comercial
+2632,661,2025-10-08,Entrada,58,Devolución de cliente
+2633,351,2025-09-04,Ajuste,9,Conteo físico
+2634,694,2025-10-28,Ajuste,3,Producto vencido/obsoleto
+2635,542,2024-02-25,Entrada,148,Devolución de cliente
+2636,595,2024-06-10,Salida,2,Producto dañado
+2637,108,2024-12-07,Entrada,18,Compra proveedor
+2638,179,2025-10-19,Entrada,37,Compra proveedor
+2639,334,2025-03-21,Ajuste,18,Diferencia en auditoría
+2640,64,2024-09-12,Entrada,116,Traslado entre sucursales
+2641,582,2024-02-28,Salida,2,Venta
+2642,13,2024-08-04,Salida,3,Traslado a otra sucursal
+2643,416,2024-06-04,Entrada,67,Reposición de stock
+2644,500,2024-02-22,Salida,4,Venta
+2645,734,2024-09-01,Salida,8,Producto dañado
+2646,607,2024-08-10,Ajuste,14,Conteo físico
+2647,780,2025-10-08,Salida,10,Producto dañado
+2648,173,2024-05-13,Entrada,67,Traslado entre sucursales
+2649,350,2025-03-20,Salida,4,Producto dañado
+2650,327,2024-05-23,Entrada,91,Compra proveedor
+2651,194,2025-12-14,Salida,6,Venta
+2652,623,2024-05-04,Entrada,149,Traslado entre sucursales
+2653,560,2024-09-21,Salida,1,Traslado a otra sucursal
+2654,206,2025-04-20,Salida,6,Venta
+2655,188,2024-09-30,Entrada,181,Traslado entre sucursales
+2656,580,2025-05-04,Salida,5,Traslado a otra sucursal
+2657,8,2025-08-21,Ajuste,6,Corrección de inventario
+2658,447,2025-11-11,Salida,5,Producto dañado
+2659,771,2025-09-17,Entrada,29,Compra proveedor
+2660,486,2024-06-30,Entrada,148,Traslado entre sucursales
+2661,63,2025-04-15,Salida,4,Traslado a otra sucursal
+2662,170,2024-06-26,Entrada,114,Traslado entre sucursales
+2663,337,2025-05-15,Entrada,136,Devolución de cliente
+2664,40,2025-06-16,Entrada,91,Reposición de stock
+2665,35,2025-09-27,Entrada,105,Traslado entre sucursales
+2666,184,2024-11-03,Ajuste,15,Diferencia en auditoría
+2667,706,2025-02-26,Salida,1,Muestra comercial
+2668,475,2025-04-22,Salida,3,Producto dañado
+2669,587,2024-09-24,Entrada,148,Traslado entre sucursales
+2670,437,2024-06-25,Entrada,26,Compra proveedor
+2671,309,2024-11-07,Salida,5,Muestra comercial
+2672,739,2025-07-28,Entrada,67,Compra proveedor
+2673,546,2024-02-02,Salida,6,Venta
+2674,634,2024-09-16,Salida,7,Producto dañado
+2675,183,2025-07-02,Salida,10,Venta
+2676,611,2024-11-04,Entrada,33,Reposición de stock
+2677,10,2025-04-26,Entrada,36,Reposición de stock
+2678,486,2025-03-10,Entrada,69,Reposición de stock
+2679,490,2025-11-29,Entrada,29,Compra proveedor
+2680,12,2024-03-08,Salida,8,Venta
+2681,538,2024-11-06,Salida,3,Venta
+2682,681,2025-04-18,Salida,3,Traslado a otra sucursal
+2683,319,2024-11-30,Entrada,47,Traslado entre sucursales
+2684,353,2024-01-22,Entrada,131,Devolución de cliente
+2685,28,2024-03-02,Salida,5,Muestra comercial
+2686,295,2025-08-20,Salida,8,Venta
+2687,715,2024-04-27,Salida,4,Traslado a otra sucursal
+2688,521,2025-11-11,Salida,4,Venta
+2689,25,2024-06-26,Entrada,127,Compra proveedor
+2690,381,2025-04-09,Entrada,136,Traslado entre sucursales
+2691,314,2025-05-08,Salida,4,Producto dañado
+2692,237,2025-03-03,Salida,5,Venta
+2693,394,2024-04-26,Entrada,44,Traslado entre sucursales
+2694,549,2024-09-28,Salida,10,Producto dañado
+2695,431,2025-02-04,Entrada,197,Reposición de stock
+2696,421,2024-09-30,Entrada,146,Traslado entre sucursales
+2697,343,2025-01-30,Salida,2,Traslado a otra sucursal
+2698,758,2024-02-03,Entrada,160,Traslado entre sucursales
+2699,367,2024-11-23,Entrada,138,Devolución de cliente
+2700,546,2024-09-22,Salida,4,Producto dañado
+2701,181,2024-01-29,Entrada,111,Reposición de stock
+2702,140,2024-01-14,Entrada,184,Traslado entre sucursales
+2703,24,2025-12-20,Salida,7,Traslado a otra sucursal
+2704,330,2025-10-30,Ajuste,13,Diferencia en auditoría
+2705,453,2025-01-09,Salida,8,Producto dañado
+2706,265,2025-07-23,Entrada,71,Traslado entre sucursales
+2707,265,2025-11-24,Entrada,65,Traslado entre sucursales
+2708,623,2025-10-13,Salida,5,Venta
+2709,195,2025-11-12,Salida,1,Producto dañado
+2710,124,2024-05-22,Salida,5,Muestra comercial
+2711,268,2024-03-29,Salida,6,Traslado a otra sucursal
+2712,396,2025-05-21,Entrada,31,Reposición de stock
+2713,377,2025-11-23,Entrada,163,Compra proveedor
+2714,35,2024-08-21,Entrada,179,Reposición de stock
+2715,146,2025-05-19,Salida,8,Producto dañado
+2716,597,2024-03-27,Entrada,61,Devolución de cliente
+2717,641,2025-07-20,Entrada,146,Traslado entre sucursales
+2718,346,2025-06-14,Salida,4,Muestra comercial
+2719,653,2024-12-24,Salida,4,Producto dañado
+2720,99,2024-02-16,Salida,7,Producto dañado
+2721,271,2024-08-03,Ajuste,13,Conteo físico
+2722,358,2025-11-23,Salida,9,Producto dañado
+2723,111,2024-11-15,Entrada,83,Traslado entre sucursales
+2724,391,2025-06-30,Salida,4,Producto dañado
+2725,104,2025-08-17,Entrada,157,Devolución de cliente
+2726,198,2025-11-07,Salida,2,Muestra comercial
+2727,149,2025-06-27,Salida,4,Producto dañado
+2728,218,2024-02-04,Entrada,65,Traslado entre sucursales
+2729,793,2024-12-13,Entrada,179,Traslado entre sucursales
+2730,362,2024-11-01,Salida,6,Traslado a otra sucursal
+2731,61,2025-10-24,Entrada,100,Reposición de stock
+2732,606,2025-03-18,Salida,8,Traslado a otra sucursal
+2733,159,2025-05-03,Salida,7,Traslado a otra sucursal
+2734,218,2024-03-23,Entrada,105,Reposición de stock
+2735,472,2025-05-16,Ajuste,18,Corrección de inventario
+2736,410,2024-08-08,Salida,10,Venta
+2737,36,2025-10-17,Entrada,101,Traslado entre sucursales
+2738,57,2025-06-12,Entrada,129,Devolución de cliente
+2739,120,2024-03-07,Entrada,184,Compra proveedor
+2740,538,2024-07-08,Salida,9,Producto dañado
+2741,344,2025-02-03,Entrada,157,Traslado entre sucursales
+2742,224,2024-08-30,Ajuste,9,Diferencia en auditoría
+2743,728,2025-05-29,Salida,2,Producto dañado
+2744,163,2025-11-03,Entrada,26,Traslado entre sucursales
+2745,707,2025-06-05,Salida,5,Traslado a otra sucursal
+2746,425,2024-11-14,Ajuste,15,Producto vencido/obsoleto
+2747,130,2024-03-05,Entrada,96,Reposición de stock
+2748,767,2024-11-25,Salida,6,Venta
+2749,698,2024-05-13,Entrada,142,Traslado entre sucursales
+2750,657,2024-10-03,Entrada,19,Devolución de cliente
+2751,762,2025-11-21,Salida,5,Muestra comercial
+2752,15,2025-12-22,Salida,10,Traslado a otra sucursal
+2753,654,2025-11-20,Entrada,62,Traslado entre sucursales
+2754,67,2025-04-28,Salida,4,Traslado a otra sucursal
+2755,559,2024-05-07,Entrada,36,Traslado entre sucursales
+2756,416,2024-09-17,Salida,10,Producto dañado
+2757,231,2025-06-16,Entrada,89,Compra proveedor
+2758,620,2024-07-03,Salida,1,Producto dañado
+2759,793,2025-04-15,Salida,1,Muestra comercial
+2760,564,2025-01-04,Entrada,50,Compra proveedor
+2761,203,2025-06-11,Entrada,140,Devolución de cliente
+2762,398,2024-05-03,Salida,9,Producto dañado
+2763,455,2025-05-26,Entrada,118,Compra proveedor
+2764,568,2024-11-07,Ajuste,7,Diferencia en auditoría
+2765,122,2024-08-07,Entrada,55,Reposición de stock
+2766,184,2024-06-19,Salida,9,Venta
+2767,752,2024-02-29,Salida,5,Traslado a otra sucursal
+2768,496,2025-04-15,Entrada,149,Compra proveedor
+2769,98,2025-12-06,Entrada,137,Traslado entre sucursales
+2770,369,2024-11-15,Salida,5,Traslado a otra sucursal
+2771,547,2025-02-22,Salida,5,Venta
+2772,79,2025-01-20,Entrada,98,Reposición de stock
+2773,456,2025-06-27,Salida,1,Venta
+2774,535,2025-02-14,Salida,3,Venta
+2775,559,2025-05-23,Salida,7,Muestra comercial
+2776,43,2025-10-31,Entrada,91,Traslado entre sucursales
+2777,702,2025-09-23,Salida,2,Muestra comercial
+2778,235,2024-08-13,Entrada,12,Devolución de cliente
+2779,242,2024-01-05,Entrada,79,Reposición de stock
+2780,17,2024-09-05,Ajuste,1,Producto vencido/obsoleto
+2781,756,2024-07-13,Salida,7,Muestra comercial
+2782,99,2024-09-21,Salida,3,Venta
+2783,431,2025-04-06,Salida,2,Venta
+2784,356,2024-11-05,Entrada,13,Traslado entre sucursales
+2785,394,2024-09-13,Salida,4,Muestra comercial
+2786,490,2024-03-10,Salida,9,Producto dañado
+2787,26,2025-11-09,Salida,1,Muestra comercial
+2788,599,2024-01-11,Salida,1,Producto dañado
+2789,56,2024-09-21,Entrada,71,Traslado entre sucursales
+2790,588,2024-04-05,Entrada,42,Traslado entre sucursales
+2791,101,2025-07-20,Salida,3,Producto dañado
+2792,29,2025-04-10,Entrada,142,Reposición de stock
+2793,88,2025-08-16,Ajuste,1,Conteo físico
+2794,117,2024-01-22,Salida,6,Muestra comercial
+2795,531,2025-11-17,Salida,7,Muestra comercial
+2796,603,2024-01-07,Salida,2,Producto dañado
+2797,453,2024-01-25,Salida,2,Muestra comercial
+2798,329,2024-07-06,Entrada,61,Devolución de cliente
+2799,427,2024-07-30,Salida,7,Muestra comercial
+2800,504,2024-05-04,Entrada,169,Compra proveedor
+2801,103,2024-05-15,Entrada,67,Devolución de cliente
+2802,208,2024-07-18,Entrada,72,Traslado entre sucursales
+2803,739,2024-08-30,Salida,3,Traslado a otra sucursal
+2804,691,2024-08-29,Ajuste,6,Diferencia en auditoría
+2805,175,2024-04-01,Entrada,66,Compra proveedor
+2806,161,2024-03-12,Salida,9,Producto dañado
+2807,634,2025-12-28,Entrada,109,Devolución de cliente
+2808,204,2024-08-13,Salida,5,Traslado a otra sucursal
+2809,710,2024-02-04,Entrada,182,Reposición de stock
+2810,518,2024-08-20,Salida,4,Traslado a otra sucursal
+2811,539,2025-06-07,Salida,7,Muestra comercial
+2812,530,2024-07-05,Salida,1,Traslado a otra sucursal
+2813,361,2025-02-19,Entrada,87,Compra proveedor
+2814,681,2025-05-07,Salida,7,Producto dañado
+2815,384,2025-07-03,Entrada,77,Compra proveedor
+2816,256,2024-03-30,Salida,10,Traslado a otra sucursal
+2817,354,2024-08-03,Entrada,90,Devolución de cliente
+2818,572,2024-05-23,Entrada,176,Traslado entre sucursales
+2819,246,2025-03-04,Ajuste,19,Conteo físico
+2820,118,2025-06-19,Salida,2,Venta
+2821,174,2025-03-04,Salida,9,Producto dañado
+2822,778,2025-03-03,Salida,4,Venta
+2823,559,2024-12-06,Salida,9,Producto dañado
+2824,186,2025-02-14,Salida,3,Producto dañado
+2825,636,2025-11-13,Entrada,127,Traslado entre sucursales
+2826,670,2024-11-03,Salida,4,Traslado a otra sucursal
+2827,792,2024-02-19,Entrada,166,Traslado entre sucursales
+2828,5,2025-02-06,Salida,2,Producto dañado
+2829,88,2025-05-07,Entrada,114,Reposición de stock
+2830,28,2024-12-31,Salida,5,Traslado a otra sucursal
+2831,795,2024-04-23,Salida,10,Traslado a otra sucursal
+2832,431,2024-05-15,Entrada,99,Devolución de cliente
+2833,504,2024-06-29,Salida,1,Muestra comercial
+2834,53,2024-08-11,Entrada,149,Reposición de stock
+2835,441,2025-07-02,Salida,4,Producto dañado
+2836,258,2024-05-06,Salida,1,Venta
+2837,395,2025-12-25,Salida,4,Traslado a otra sucursal
+2838,398,2025-04-06,Salida,2,Traslado a otra sucursal
+2839,110,2025-03-12,Ajuste,20,Diferencia en auditoría
+2840,174,2025-07-08,Entrada,104,Devolución de cliente
+2841,158,2025-02-28,Salida,9,Venta
+2842,33,2024-08-26,Entrada,180,Reposición de stock
+2843,662,2025-10-24,Salida,1,Producto dañado
+2844,167,2024-09-10,Entrada,59,Devolución de cliente
+2845,646,2025-10-22,Salida,6,Muestra comercial
+2846,321,2025-04-19,Entrada,119,Compra proveedor
+2847,273,2024-06-21,Entrada,114,Traslado entre sucursales
+2848,171,2024-07-08,Entrada,159,Compra proveedor
+2849,752,2024-08-19,Salida,2,Traslado a otra sucursal
+2850,219,2025-05-18,Salida,5,Venta
+2851,744,2025-08-27,Entrada,55,Reposición de stock
+2852,120,2024-10-12,Salida,8,Muestra comercial
+2853,362,2024-05-18,Salida,4,Muestra comercial
+2854,449,2024-04-08,Salida,1,Venta
+2855,653,2025-07-19,Entrada,117,Compra proveedor
+2856,502,2024-10-22,Salida,4,Muestra comercial
+2857,183,2025-07-12,Salida,5,Venta
+2858,703,2025-11-11,Salida,2,Traslado a otra sucursal
+2859,620,2025-02-02,Salida,1,Muestra comercial
+2860,132,2024-02-05,Ajuste,18,Diferencia en auditoría
+2861,767,2024-11-19,Entrada,41,Reposición de stock
+2862,271,2025-07-09,Salida,4,Traslado a otra sucursal
+2863,14,2025-02-05,Salida,8,Producto dañado
+2864,355,2025-02-12,Entrada,55,Traslado entre sucursales
+2865,409,2025-04-23,Entrada,69,Reposición de stock
+2866,673,2024-03-18,Entrada,119,Devolución de cliente
+2867,170,2024-08-06,Entrada,173,Traslado entre sucursales
+2868,598,2025-03-15,Entrada,150,Traslado entre sucursales
+2869,11,2025-01-14,Salida,8,Muestra comercial
+2870,97,2024-01-23,Entrada,99,Traslado entre sucursales
+2871,641,2025-04-15,Salida,6,Traslado a otra sucursal
+2872,496,2025-07-10,Entrada,199,Traslado entre sucursales
+2873,259,2024-11-10,Entrada,101,Devolución de cliente
+2874,283,2024-07-17,Entrada,185,Compra proveedor
+2875,240,2025-01-21,Ajuste,3,Producto vencido/obsoleto
+2876,328,2025-02-12,Salida,5,Producto dañado
+2877,732,2024-04-14,Entrada,68,Devolución de cliente
+2878,711,2025-11-20,Entrada,180,Compra proveedor
+2879,79,2024-12-13,Entrada,14,Reposición de stock
+2880,369,2025-06-20,Entrada,132,Devolución de cliente
+2881,783,2025-09-15,Salida,9,Traslado a otra sucursal
+2882,95,2024-04-02,Salida,9,Traslado a otra sucursal
+2883,354,2024-10-07,Entrada,56,Reposición de stock
+2884,223,2024-12-01,Salida,6,Producto dañado
+2885,131,2024-05-21,Salida,4,Muestra comercial
+2886,329,2025-12-09,Entrada,192,Devolución de cliente
+2887,400,2024-10-15,Ajuste,9,Producto vencido/obsoleto
+2888,704,2024-08-14,Salida,7,Venta
+2889,575,2025-02-12,Entrada,23,Devolución de cliente
+2890,311,2024-05-30,Salida,6,Venta
+2891,391,2025-07-15,Entrada,164,Traslado entre sucursales
+2892,268,2024-05-11,Salida,9,Venta
+2893,149,2024-07-21,Ajuste,5,Conteo físico
+2894,249,2024-05-02,Entrada,170,Devolución de cliente
+2895,440,2025-12-14,Ajuste,9,Producto vencido/obsoleto
+2896,200,2024-10-05,Salida,6,Muestra comercial
+2897,267,2024-07-16,Entrada,106,Reposición de stock
+2898,404,2024-07-21,Ajuste,12,Diferencia en auditoría
+2899,790,2025-09-22,Ajuste,15,Corrección de inventario
+2900,794,2024-09-27,Salida,5,Muestra comercial
+2901,424,2024-12-07,Salida,5,Venta
+2902,580,2025-02-06,Ajuste,14,Producto vencido/obsoleto
+2903,11,2024-07-04,Salida,10,Muestra comercial
+2904,678,2024-06-19,Salida,3,Venta
+2905,557,2024-07-11,Entrada,62,Devolución de cliente
+2906,511,2025-01-20,Entrada,151,Devolución de cliente
+2907,76,2025-06-12,Entrada,60,Devolución de cliente
+2908,175,2024-09-14,Salida,8,Producto dañado
+2909,292,2024-10-31,Entrada,151,Compra proveedor
+2910,607,2024-10-25,Salida,9,Venta
+2911,756,2025-02-05,Entrada,133,Reposición de stock
+2912,347,2025-12-09,Entrada,177,Compra proveedor
+2913,215,2024-10-15,Entrada,31,Devolución de cliente
+2914,293,2025-11-05,Entrada,164,Traslado entre sucursales
+2915,262,2025-10-08,Salida,8,Muestra comercial
+2916,510,2024-11-10,Entrada,126,Compra proveedor
+2917,286,2024-02-10,Entrada,24,Traslado entre sucursales
+2918,638,2024-12-25,Salida,5,Producto dañado
+2919,95,2025-01-05,Salida,7,Muestra comercial
+2920,664,2025-01-04,Entrada,42,Devolución de cliente
+2921,225,2024-09-18,Salida,9,Muestra comercial
+2922,680,2024-10-12,Salida,10,Traslado a otra sucursal
+2923,199,2025-06-27,Entrada,121,Traslado entre sucursales
+2924,532,2024-08-17,Salida,2,Traslado a otra sucursal
+2925,140,2024-08-12,Salida,10,Venta
+2926,714,2024-09-26,Salida,9,Venta
+2927,370,2024-09-17,Ajuste,9,Diferencia en auditoría
+2928,258,2024-04-24,Salida,7,Producto dañado
+2929,46,2024-09-07,Salida,1,Producto dañado
+2930,778,2025-09-03,Salida,10,Producto dañado
+2931,245,2025-08-23,Ajuste,3,Diferencia en auditoría
+2932,253,2025-04-13,Salida,9,Venta
+2933,258,2024-07-21,Entrada,100,Traslado entre sucursales
+2934,14,2025-03-21,Entrada,188,Traslado entre sucursales
+2935,686,2024-11-11,Entrada,132,Reposición de stock
+2936,287,2024-11-03,Salida,3,Muestra comercial
+2937,358,2025-10-03,Ajuste,6,Producto vencido/obsoleto
+2938,100,2024-07-20,Salida,5,Producto dañado
+2939,504,2024-01-13,Entrada,142,Devolución de cliente
+2940,697,2024-12-01,Entrada,64,Compra proveedor
+2941,630,2025-08-27,Salida,10,Traslado a otra sucursal
+2942,636,2024-02-25,Salida,4,Producto dañado
+2943,283,2024-06-02,Entrada,69,Traslado entre sucursales
+2944,282,2024-02-17,Entrada,75,Compra proveedor
+2945,543,2025-04-19,Salida,6,Producto dañado
+2946,457,2025-03-05,Entrada,189,Devolución de cliente
+2947,312,2025-07-04,Entrada,88,Devolución de cliente
+2948,179,2024-06-22,Salida,6,Venta
+2949,468,2025-10-27,Salida,3,Traslado a otra sucursal
+2950,632,2025-02-03,Entrada,125,Compra proveedor
+2951,224,2024-04-10,Salida,1,Producto dañado
+2952,649,2024-11-03,Salida,5,Producto dañado
+2953,282,2025-12-24,Entrada,113,Traslado entre sucursales
+2954,10,2024-07-08,Entrada,142,Traslado entre sucursales
+2955,725,2024-11-21,Ajuste,11,Conteo físico
+2956,422,2025-05-05,Entrada,185,Compra proveedor
+2957,19,2025-10-27,Salida,8,Traslado a otra sucursal
+2958,400,2025-12-23,Ajuste,9,Corrección de inventario
+2959,724,2025-05-25,Entrada,174,Compra proveedor
+2960,57,2024-06-26,Salida,9,Venta
+2961,49,2025-02-18,Entrada,194,Devolución de cliente
+2962,184,2025-05-15,Salida,3,Traslado a otra sucursal
+2963,800,2024-12-11,Entrada,192,Compra proveedor
+2964,309,2024-06-24,Entrada,186,Compra proveedor
+2965,626,2025-05-26,Entrada,189,Devolución de cliente
+2966,203,2025-03-08,Entrada,19,Devolución de cliente
+2967,537,2024-12-15,Entrada,199,Reposición de stock
+2968,456,2024-12-27,Salida,8,Producto dañado
+2969,332,2025-05-25,Ajuste,5,Diferencia en auditoría
+2970,762,2024-06-28,Entrada,162,Compra proveedor
+2971,338,2024-07-05,Ajuste,15,Producto vencido/obsoleto
+2972,714,2025-11-07,Ajuste,12,Corrección de inventario
+2973,556,2025-01-23,Entrada,71,Reposición de stock
+2974,268,2025-04-06,Entrada,126,Compra proveedor
+2975,619,2024-08-22,Entrada,191,Traslado entre sucursales
+2976,687,2024-01-31,Salida,9,Muestra comercial
+2977,334,2024-01-28,Salida,2,Venta
+2978,311,2025-12-08,Salida,10,Muestra comercial
+2979,473,2025-10-03,Salida,6,Muestra comercial
+2980,192,2024-07-02,Salida,3,Producto dañado
+2981,251,2025-09-25,Salida,8,Muestra comercial
+2982,182,2025-11-04,Entrada,136,Reposición de stock
+2983,10,2024-02-12,Ajuste,14,Corrección de inventario
+2984,674,2025-02-12,Entrada,136,Devolución de cliente
+2985,582,2025-06-23,Entrada,161,Devolución de cliente
+2986,598,2024-02-25,Ajuste,15,Conteo físico
+2987,418,2025-08-18,Salida,1,Venta
+2988,287,2024-01-30,Salida,6,Muestra comercial
+2989,776,2024-03-02,Entrada,167,Devolución de cliente
+2990,552,2025-10-28,Salida,2,Muestra comercial
+2991,604,2024-04-04,Entrada,173,Devolución de cliente
+2992,209,2024-11-30,Salida,1,Venta
+2993,621,2025-10-28,Entrada,40,Compra proveedor
+2994,664,2024-10-14,Entrada,50,Traslado entre sucursales
+2995,168,2025-07-01,Ajuste,11,Conteo físico
+2996,748,2025-10-04,Salida,10,Venta
+2997,272,2024-03-19,Salida,4,Venta
+2998,83,2025-03-21,Ajuste,4,Corrección de inventario
+2999,779,2025-05-10,Entrada,84,Compra proveedor
+3000,656,2024-09-14,Entrada,136,Compra proveedor
